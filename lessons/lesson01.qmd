@@ -21,28 +21,39 @@ format:
 
 ### Prep
 
+Code and data prep should follow the [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510){target="_blank"} model.
+
 ### Analysis
+
+Analyses can be done in any software program and a clear summary of steps should be included.
 
 ### Reporting
 
+All reports should be generated using an .RMrakdown.
+
 ### Case study
 
-To explore this model, we will use a case study. 
-
-Our case study begins with the [Washington Post Fatal Force database](https://github.com/washingtonpost/data-police-shootings){target="_blank"}. Throughout the case study, historical and other contemporary data is combined to generate an original database. This database can be used for your analysis.
-
----
-
-## Overview of Fatal Force v2 files
+To explore this 3-step model, we will use a case study as found in [Lesson 02]().
 
 ---
 
 ## Data prep: A series of steps
 
+Step 01: Import data
+Step 02: Process data
+Step 03: Clean data
+Step 04: Explore data
+Step 05: Analyze data
+
 ---
 
 ## Data analysis: Your theoretical framework
 
+What is your theoretical basis? What are your main hypotheses?
+
 ---
 
 ## Data reporting: Creating a report
+
+All reports should be generated using an .RMrakdown.
+

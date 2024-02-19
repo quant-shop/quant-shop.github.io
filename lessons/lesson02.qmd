@@ -29,7 +29,3 @@ format:
 | Step 04 | [Explore](case01/cs01-step04.R) |
 | Step 05 |  Analysis (see files below) |
 |  | [Part 1: Census data](case01/cs01-step05-pt01-census.R) |
-
-## Data analysis: Your theoretical framework
-
-## Data reporting: Creating a report

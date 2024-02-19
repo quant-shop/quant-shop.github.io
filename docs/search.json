@@ -158,14 +158,14 @@
     "href": "lessons/lesson01.html",
     "title": "Lesson 1",
     "section": "",
-    "text": "To explore this model, we will use a case study.\nOur case study begins with the Washington Post Fatal Force database. Throughout the case study, historical and other contemporary data is combined to generate an original database. This database can be used for your analysis."
+    "text": "Code and data prep should follow the Good enough practices in scientific computing model.\n\n\n\nAnalyses can be done in any software program and a clear summary of steps should be included.\n\n\n\nAll reports should be generated using an .RMrakdown.\n\n\n\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
   },
   {
     "objectID": "lessons/lesson01.html#the-quantitative-histories-workshop-model",
     "href": "lessons/lesson01.html#the-quantitative-histories-workshop-model",
     "title": "Lesson 1",
     "section": "",
-    "text": "To explore this model, we will use a case study.\nOur case study begins with the Washington Post Fatal Force database. Throughout the case study, historical and other contemporary data is combined to generate an original database. This database can be used for your analysis."
+    "text": "Code and data prep should follow the Good enough practices in scientific computing model.\n\n\n\nAnalyses can be done in any software program and a clear summary of steps should be included.\n\n\n\nAll reports should be generated using an .RMrakdown.\n\n\n\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
   },
   {
     "objectID": "lessons/lesson01.html#overview-of-fatal-force-v2-files",
@@ -179,20 +179,20 @@
     "href": "lessons/lesson01.html#data-prep-a-series-of-steps",
     "title": "Lesson 1",
     "section": "Data prep: A series of steps",
-    "text": "Data prep: A series of steps"
+    "text": "Data prep: A series of steps\nStep 01: Import data Step 02: Process data Step 03: Clean data Step 04: Explore data Step 05: Analyze data"
   },
   {
     "objectID": "lessons/lesson01.html#data-analysis-your-theoretical-framework",
     "href": "lessons/lesson01.html#data-analysis-your-theoretical-framework",
     "title": "Lesson 1",
     "section": "Data analysis: Your theoretical framework",
-    "text": "Data analysis: Your theoretical framework"
+    "text": "Data analysis: Your theoretical framework\nWhat is your theoretical basis? What are your main hypotheses?"
   },
   {
     "objectID": "lessons/lesson01.html#data-reporting-creating-a-report",
     "href": "lessons/lesson01.html#data-reporting-creating-a-report",
     "title": "Lesson 1",
     "section": "Data reporting: Creating a report",
-    "text": "Data reporting: Creating a report"
+    "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
   }
 ]

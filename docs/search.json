@@ -7,88 +7,32 @@
     "text": "This area is for lab members only.\nIf you are interested in our work, join us by clicking here."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Quantitative Histories Workshop",
+    "objectID": "manual.html#lessons",
+    "href": "manual.html#lessons",
+    "title": "Lab Manual",
+    "section": "Lessons",
+    "text": "Lessons\n\n\n\n\nLesson\nTitle\nResources\n\n\n\n\n0\nGetting started\n\n\n\n1\nIntroduction to the Quantitative Histories Workshop Model\n\n\n\n2\nCase Study 1: Fatal Police Interactions"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People and Partners",
     "section": "",
-    "text": "we quantify history and the social sciences to learn about in/justice & futurity."
+    "text": "Our lab is made up of a highly versatile and collaborative team of researchers."
   },
   {
-    "objectID": "learning/lesson01.html",
-    "href": "learning/lesson01.html",
-    "title": "Lesson 1",
+    "objectID": "people.html#collaborators",
+    "href": "people.html#collaborators",
+    "title": "People and Partners",
+    "section": "Collaborators",
+    "text": "Collaborators\n\nProject collaborators\nHye Ryeon Jang, Morehouse College\nHarlin Lee, University of North Carolina at Chapel Hill\nJoseph Dixon, Independent Consultant\nLorenzo Harper, University of North Carolina at Charlotte\n\n\nProgram collaborators\nThe Carpentries\nData Science Academy at NC State\nData Science Institute (DSI) at the University of Chicago\nUS-Africa Institute\n\n\nFunders\nAlfred P. Sloan Foundation\nAtlanta University Center Data Science Initiative (AUC DSI)\nCenter for Applied Data Science and Analytics (CADSA) at Howard University\nData.org\nInstitute for Racial Justice at Loyola University, Chicago\n\nFormer Lab Members\n\nRonald Carter (Howard University, MS student)\nMaya Phillips (Spelman College, Class of 2023)\nDalton Favors (Morehouse College, Class of 2024)\nHasan Henry (Morehouse College, Class of 2024)\nMatthew Mann (Morehouse College, Class of 2022)\nXavier McKenzie (Morehouse College, Class of 2023)"
+  },
+  {
+    "objectID": "programs.html",
+    "href": "programs.html",
+    "title": "Programs",
     "section": "",
-    "text": "To explore this model, we will use a case study.\nOur case study begins with the Washington Post Fatal Force database. Throughout the case study, historical and other contemporary data is combined to generate an original database. This database can be used for your analysis."
-  },
-  {
-    "objectID": "learning/lesson01.html#the-quantitative-histories-workshop-model",
-    "href": "learning/lesson01.html#the-quantitative-histories-workshop-model",
-    "title": "Lesson 1",
-    "section": "",
-    "text": "To explore this model, we will use a case study.\nOur case study begins with the Washington Post Fatal Force database. Throughout the case study, historical and other contemporary data is combined to generate an original database. This database can be used for your analysis."
-  },
-  {
-    "objectID": "learning/lesson01.html#overview-of-fatal-force-v2-files",
-    "href": "learning/lesson01.html#overview-of-fatal-force-v2-files",
-    "title": "Lesson 1",
-    "section": "Overview of Fatal Force v2 files",
-    "text": "Overview of Fatal Force v2 files"
-  },
-  {
-    "objectID": "learning/lesson01.html#data-prep-a-series-of-steps",
-    "href": "learning/lesson01.html#data-prep-a-series-of-steps",
-    "title": "Lesson 1",
-    "section": "Data prep: A series of steps",
-    "text": "Data prep: A series of steps"
-  },
-  {
-    "objectID": "learning/lesson01.html#data-analysis-your-theoretical-framework",
-    "href": "learning/lesson01.html#data-analysis-your-theoretical-framework",
-    "title": "Lesson 1",
-    "section": "Data analysis: Your theoretical framework",
-    "text": "Data analysis: Your theoretical framework"
-  },
-  {
-    "objectID": "learning/lesson01.html#data-reporting-creating-a-report",
-    "href": "learning/lesson01.html#data-reporting-creating-a-report",
-    "title": "Lesson 1",
-    "section": "Data reporting: Creating a report",
-    "text": "Data reporting: Creating a report"
-  },
-  {
-    "objectID": "learning/lesson01-slides.html#the-quantitative-histories-workshop-model",
-    "href": "learning/lesson01-slides.html#the-quantitative-histories-workshop-model",
-    "title": "Lesson 1",
-    "section": "The Quantitative Histories Workshop Model",
-    "text": "The Quantitative Histories Workshop Model\nPrep\nAnalysis\nReporting\nCase study\nTo explore this model, we will use a case study.\nOur case study begins with the Washington Post Fatal Force database. Throughout the case study, historical and other contemporary data is combined to generate an original database. This database can be used for your analysis."
-  },
-  {
-    "objectID": "learning/lesson01-slides.html#overview-of-fatal-force-v2-files",
-    "href": "learning/lesson01-slides.html#overview-of-fatal-force-v2-files",
-    "title": "Lesson 1",
-    "section": "Overview of Fatal Force v2 files",
-    "text": "Overview of Fatal Force v2 files"
-  },
-  {
-    "objectID": "learning/lesson01-slides.html#data-prep-a-series-of-steps",
-    "href": "learning/lesson01-slides.html#data-prep-a-series-of-steps",
-    "title": "Lesson 1",
-    "section": "Data prep: A series of steps",
-    "text": "Data prep: A series of steps"
-  },
-  {
-    "objectID": "learning/lesson01-slides.html#data-analysis-your-theoretical-framework",
-    "href": "learning/lesson01-slides.html#data-analysis-your-theoretical-framework",
-    "title": "Lesson 1",
-    "section": "Data analysis: Your theoretical framework",
-    "text": "Data analysis: Your theoretical framework"
-  },
-  {
-    "objectID": "learning/lesson01-slides.html#data-reporting-creating-a-report",
-    "href": "learning/lesson01-slides.html#data-reporting-creating-a-report",
-    "title": "Lesson 1",
-    "section": "Data reporting: Creating a report",
-    "text": "Data reporting: Creating a report"
+    "text": "Learn more about our programs!\n\nData Science and Critical Mathematics Program\nSummer program for high school students (info)\n\n\n\n\n\n\n\nCommunity Data Fellowship\nUndergraduate and graduate student academic year program (info)\n\nAY2022-2023 projects\nAY2023-2024 projects\n\n\n\nTeaching and Community Educator Fellowships\nYear-round k-12 teacher and community educator program\n\nMen of Math Fellowship at the Institute for Racial Justice (info)\n\n\n\nFaculty Development Program\nCollaborative faculty workshop series\n\nTeaching Open Source Workshop Series for HBCU faculty (info)\n\n\n\nVirtual Exchange Program\nInternational cultural exchange program"
   },
   {
     "objectID": "research.html",
@@ -119,39 +63,46 @@
     "text": "SAMPLE CODE\n\n\n\n\nExample\nR\nPython\nRelated Resources\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMerge data frames\nR\nPython\nmerge(), join()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\nPython"
   },
   {
-    "objectID": "programs.html",
-    "href": "programs.html",
-    "title": "Programs",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Quantitative Histories Workshop",
     "section": "",
-    "text": "Learn more about our programs!\n\nData Science and Critical Mathematics Program\nSummer program for high school students (info)\n\n\n\n\n\n\n\nCommunity Data Fellowship\nUndergraduate and graduate student academic year program (info)\n\nAY2022-2023 projects\nAY2023-2024 projects\n\n\n\nTeaching and Community Educator Fellowships\nYear-round k-12 teacher and community educator program\n\nMen of Math Fellowship at the Institute for Racial Justice (info)\n\n\n\nFaculty Development Program\nCollaborative faculty workshop series\n\nTeaching Open Source Workshop Series for HBCU faculty (info)\n\n\n\nVirtual Exchange Program\nInternational cultural exchange program"
+    "text": "we quantify history and the social sciences to learn about in/justice & futurity."
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People and Partners",
-    "section": "",
-    "text": "Our lab is made up of a highly versatile and collaborative team of researchers."
+    "objectID": "lessons/lesson02-slides.html#overview-of-fatal-force-v2-files",
+    "href": "lessons/lesson02-slides.html#overview-of-fatal-force-v2-files",
+    "title": "Lesson 2",
+    "section": "Overview of Fatal Force v2 files",
+    "text": "Overview of Fatal Force v2 files"
   },
   {
-    "objectID": "people.html#collaborators",
-    "href": "people.html#collaborators",
-    "title": "People and Partners",
-    "section": "Collaborators",
-    "text": "Collaborators\n\nProject collaborators\nHye Ryeon Jang, Morehouse College\nHarlin Lee, University of North Carolina at Chapel Hill\nJoseph Dixon, Independent Consultant\nLorenzo Harper, University of North Carolina at Charlotte\n\n\nProgram collaborators\nThe Carpentries\nData Science Academy at NC State\nData Science Institute (DSI) at the University of Chicago\nUS-Africa Institute\n\n\nFunders\nAlfred P. Sloan Foundation\nAtlanta University Center Data Science Initiative (AUC DSI)\nCenter for Applied Data Science and Analytics (CADSA) at Howard University\nData.org\nInstitute for Racial Justice at Loyola University, Chicago\n\nFormer Lab Members\n\nRonald Carter (Howard University, MS student)\nMaya Phillips (Spelman College, Class of 2023)\nDalton Favors (Morehouse College, Class of 2024)\nHasan Henry (Morehouse College, Class of 2024)\nMatthew Mann (Morehouse College, Class of 2022)\nXavier McKenzie (Morehouse College, Class of 2023)"
+    "objectID": "lessons/lesson02-slides.html#data-prep-a-series-of-steps",
+    "href": "lessons/lesson02-slides.html#data-prep-a-series-of-steps",
+    "title": "Lesson 2",
+    "section": "Data prep: A series of steps",
+    "text": "Data prep: A series of steps\n\n# step01 import data\n\n## drafted by Nathan Alexander\n\n# import the v2 Washington Post fatal force data\n\n### context: https://www.washingtonpost.com/graphics/investigations/police-shootings-database/\n\n### content: https://github.com/washingtonpost/data-police-shootings\n\n### code - v2 data: https://github.com/washingtonpost/data-police-shootings/tree/master/v2\n\nfatalv2 &lt;- read.csv(\"https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/v2/fatal-police-shootings-data.csv\")\n\n## check the imported data\nhead(fatalv2)\ntail(fatalv2)"
   },
   {
-    "objectID": "manual.html#lessons",
-    "href": "manual.html#lessons",
-    "title": "Lab Manual",
-    "section": "Lessons",
-    "text": "Lessons\n\n\n\n\nLesson\nTitle\nResources\n\n\n\n\n0\nGetting started\n\n\n\n1\nIntroduction to the Quantitative Histories Workshop Model\n\n\n\n2\nCase Study 1: Fatal Police Interactions"
+    "objectID": "lessons/lesson02-slides.html#data-analysis-your-theoretical-framework",
+    "href": "lessons/lesson02-slides.html#data-analysis-your-theoretical-framework",
+    "title": "Lesson 2",
+    "section": "Data analysis: Your theoretical framework",
+    "text": "Data analysis: Your theoretical framework"
+  },
+  {
+    "objectID": "lessons/lesson02-slides.html#data-reporting-creating-a-report",
+    "href": "lessons/lesson02-slides.html#data-reporting-creating-a-report",
+    "title": "Lesson 2",
+    "section": "Data reporting: Creating a report",
+    "text": "Data reporting: Creating a report"
   },
   {
     "objectID": "lessons/lesson02.html#data-prep-a-series-of-steps",
     "href": "lessons/lesson02.html#data-prep-a-series-of-steps",
     "title": "Lesson 2",
     "section": "Data prep: A series of steps",
-    "text": "Data prep: A series of steps"
+    "text": "Data prep: A series of steps\n\n\n\nSteps\nFiles\n\n\n\n\nStep 01\nImport\n\n\nStep 02\nProcess\n\n\nStep 03\nClean\n\n\nStep 04\nExplore\n\n\nStep 05\nAnalysis (see files below)\n\n\n\nPart 1: Census data"
   },
   {
     "objectID": "lessons/lesson02.html#data-analysis-your-theoretical-framework",
@@ -164,6 +115,41 @@
     "objectID": "lessons/lesson02.html#data-reporting-creating-a-report",
     "href": "lessons/lesson02.html#data-reporting-creating-a-report",
     "title": "Lesson 2",
+    "section": "Data reporting: Creating a report",
+    "text": "Data reporting: Creating a report"
+  },
+  {
+    "objectID": "lessons/lesson01-slides.html#the-quantitative-histories-workshop-model",
+    "href": "lessons/lesson01-slides.html#the-quantitative-histories-workshop-model",
+    "title": "Lesson 1",
+    "section": "The Quantitative Histories Workshop Model",
+    "text": "The Quantitative Histories Workshop Model\nPrep\nAnalysis\nReporting\nCase study\nTo explore this model, we will use a case study.\nOur case study begins with the Washington Post Fatal Force database. Throughout the case study, historical and other contemporary data is combined to generate an original database. This database can be used for your analysis."
+  },
+  {
+    "objectID": "lessons/lesson01-slides.html#overview-of-fatal-force-v2-files",
+    "href": "lessons/lesson01-slides.html#overview-of-fatal-force-v2-files",
+    "title": "Lesson 1",
+    "section": "Overview of Fatal Force v2 files",
+    "text": "Overview of Fatal Force v2 files"
+  },
+  {
+    "objectID": "lessons/lesson01-slides.html#data-prep-a-series-of-steps",
+    "href": "lessons/lesson01-slides.html#data-prep-a-series-of-steps",
+    "title": "Lesson 1",
+    "section": "Data prep: A series of steps",
+    "text": "Data prep: A series of steps"
+  },
+  {
+    "objectID": "lessons/lesson01-slides.html#data-analysis-your-theoretical-framework",
+    "href": "lessons/lesson01-slides.html#data-analysis-your-theoretical-framework",
+    "title": "Lesson 1",
+    "section": "Data analysis: Your theoretical framework",
+    "text": "Data analysis: Your theoretical framework"
+  },
+  {
+    "objectID": "lessons/lesson01-slides.html#data-reporting-creating-a-report",
+    "href": "lessons/lesson01-slides.html#data-reporting-creating-a-report",
+    "title": "Lesson 1",
     "section": "Data reporting: Creating a report",
     "text": "Data reporting: Creating a report"
   },
@@ -206,34 +192,6 @@
     "objectID": "lessons/lesson01.html#data-reporting-creating-a-report",
     "href": "lessons/lesson01.html#data-reporting-creating-a-report",
     "title": "Lesson 1",
-    "section": "Data reporting: Creating a report",
-    "text": "Data reporting: Creating a report"
-  },
-  {
-    "objectID": "lessons/lesson02-slides.html#overview-of-fatal-force-v2-files",
-    "href": "lessons/lesson02-slides.html#overview-of-fatal-force-v2-files",
-    "title": "Lesson 2",
-    "section": "Overview of Fatal Force v2 files",
-    "text": "Overview of Fatal Force v2 files"
-  },
-  {
-    "objectID": "lessons/lesson02-slides.html#data-prep-a-series-of-steps",
-    "href": "lessons/lesson02-slides.html#data-prep-a-series-of-steps",
-    "title": "Lesson 2",
-    "section": "Data prep: A series of steps",
-    "text": "Data prep: A series of steps"
-  },
-  {
-    "objectID": "lessons/lesson02-slides.html#data-analysis-your-theoretical-framework",
-    "href": "lessons/lesson02-slides.html#data-analysis-your-theoretical-framework",
-    "title": "Lesson 2",
-    "section": "Data analysis: Your theoretical framework",
-    "text": "Data analysis: Your theoretical framework"
-  },
-  {
-    "objectID": "lessons/lesson02-slides.html#data-reporting-creating-a-report",
-    "href": "lessons/lesson02-slides.html#data-reporting-creating-a-report",
-    "title": "Lesson 2",
     "section": "Data reporting: Creating a report",
     "text": "Data reporting: Creating a report"
   }

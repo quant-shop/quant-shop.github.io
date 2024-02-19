@@ -3,4 +3,4 @@ title: "Quantitative Histories Workshop"
 subtitle: "Lab on-boarding files and case study"
 ---
 
-On-boarding files
+On-boarding files for lab members

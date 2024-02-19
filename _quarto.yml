@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Quantitative Histories Workshop"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: programs.qmd
+      - href: people.qmd
+
+  page-footer:
+    right: "Built with love in [Quarto](https://quarto.org/)"
+    left: "&copy; Copyright 2023, The Quantitative Histories Workshop"
+   
+format:
+  html:
+    page-layout: full
+    theme: yeti
+    css: styles.css
+    toc: true
+    grid:
+      sidebar-width: 0px
+      body-width: 1200px
+    
+editor: source

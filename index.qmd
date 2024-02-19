@@ -1,6 +1,7 @@
 ---
-title: "Quantitative Histories Workshop"
-subtitle: "Lab on-boarding files and case study"
+title: ""
+about:
+  template: jolla
 ---
 
-On-boarding files
+we quantify history and the social sciences to learn about in/justice & futurity.

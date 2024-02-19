@@ -1,0 +1,32 @@
+---
+title: "Lesson 2"
+subtitle: "Case Study: Fatal Police Interactions"
+author: "Nathan Alexander, PhD"
+institute: "Howard University"
+format: 
+  html: default
+  revealjs:
+    output-file: lesson02-slides.html
+    height: 900
+    width: 1600
+    smaller: false
+    scrollable: true
+    slide-number: c/t #< collapsted/total
+    toc: false
+    echo: true
+    incremental: false
+---
+
+## Overview of Fatal Force v2 files
+
+---
+
+## Data prep: A series of steps
+
+---
+
+## Data analysis: Your theoretical framework
+
+---
+
+## Data reporting: Creating a report

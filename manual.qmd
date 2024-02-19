@@ -8,11 +8,7 @@ If you are interested in our work, join us by clicking [here]().
 
 #### Welcome new members!
 
-We are excited to have you join the Quantitative Histories Workshop! 
-
-This section contains links to the required on-boarding documents that you will need to complete for our lab. 
-
-When completing documents with sensitive information, please do not upload or email personal details (such as your SSN). Instead, you should stop by a Faculty Director's office hours to finalize any forms. 
+We are excited to have you join the Quantitative Histories Workshop! This section contains links to the required on-boarding documents that you will need to complete for our lab. When completing documents with sensitive information, please do not upload or email personal details (such as your SSN). Instead, you should stop by a Faculty Director's office hours to finalize any forms. 
 
 For your first task, please complete the following steps below:
 
@@ -36,10 +32,14 @@ For your first task, please complete the following steps below:
 
 - Members must complete on-boarding for their project group; please see your group leader. 
 
-| <u>Step 5: Readings</u>
+- Generally, all members new to coding for our lab should start here:
 
-- New members should get started by exploring the following books and papers:
-  
-  * *We Do This 'Til We Free Us* by Mariame Kaba.
-  
-If you are unsure of who to contact, please email the lab manager or Dr. Alexander.
+## Lessons
+
+::: column-inset
+| Lesson |       Title       | Resources |
+|:------:|:------|--------|
+| [0](lessons/lesson00.html) | [Getting started](lessons/lesson00-slides.html) | |
+| [1](lessons/lesson01.html) |[Introduction to the Quantitative Histories Workshop Model](lessons/lesson01-slides.html) |  |
+| [2](lessons/lesson02.html) |[Case Study 1: Fatal Police Interactions](lessons/lesson02-slides.html) |  |
+:::

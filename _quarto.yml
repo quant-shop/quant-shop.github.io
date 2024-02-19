@@ -10,6 +10,8 @@ website:
         text: Home
       - href: programs.qmd
       - href: people.qmd
+      - href: partners.qmd
+      - href: manual.qmd
 
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
@@ -18,7 +20,7 @@ website:
 format:
   html:
     page-layout: full
-    theme: yeti
+    theme: flatly
     toc: true
     grid:
       sidebar-width: 0px

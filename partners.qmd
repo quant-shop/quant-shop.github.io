@@ -1,0 +1,22 @@
+---
+title: "Partners"
+---
+
+## Collaborators and supporters
+
+The Carpentries
+
+Data Science Academy at NC State
+
+Data Science Institute at UChicago
+
+## Funders
+
+Alfred P. Sloan Foundation
+
+Atlanta University Center Data Science Initiative (AUC DSI)
+
+Data.org
+
+Institute for Racial Justice at Loyola University, Chicago
+

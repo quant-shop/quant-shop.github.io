@@ -2,16 +2,19 @@
 title: "Programs"
 ---
 
-Learn more about Quantitative History Workshop programs!
+Learn more about our programs!
 
-#### Data Science and Critical Mathematics
-| High school student program
+#### Data Science and Critical Mathematics Program
+| High school student summer program
 
-#### Community Data Fellowship
-| Undergraduate and graduate student program
+#### Community Data Fellowships
+| Undergraduate and graduate student academic year program
 
-#### Teaching and Community Educator Fellowship
-| K-12 teacher and community educator program
+#### Teaching and Community Educator Fellowships
+| Year-round k-12 teacher and community educator program
+
+#### Faculty Development Program
+| Collaborative faculty workshop series
 
 #### Virtual Exchange Program
 | International cultural exchange program

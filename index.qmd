@@ -4,4 +4,7 @@ about:
   template: jolla
 ---
 
+welcome.
+
+
 we quantify history and the social sciences to learn about in/justice & futurity.

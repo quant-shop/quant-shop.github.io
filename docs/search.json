@@ -44,8 +44,64 @@
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "People",
+    "title": "People and Partners",
     "section": "",
-    "text": "Our lab is made up of a highly versatile and collaborative team of researchers.\nProject PIs\n\nHye Ryeon Jang, Morehouse College\nHarlin Lee, University of North Carolina at Chapel Hill\nLorenzo Harper, University of North Carolina at Charlotte\n\nCurrent Lab Members\n\nBasil Ghali, Psychology (Howard University, PhD Student; Morehouse College, Class of 2023)\n\nFormer Lab Members\n\nDalton Favors, Economics (Morehouse College, Class of 2024)\nHasan Henry, Political Science (Morehouse College, Class of 2024)\nMatthew Mann, Sociology (Morehouse College, Class of 2022)\nXavier McKenzie, Business (Morehouse College, Class of 2023)"
+    "text": "Our lab is made up of a highly versatile and collaborative team of researchers."
+  },
+  {
+    "objectID": "people.html#people",
+    "href": "people.html#people",
+    "title": "People and Partners",
+    "section": "People",
+    "text": "People\nCurrent Lab Members\n\nBasil Ghali, Psychology (Howard University, PhD Student; Morehouse College, Class of 2023)"
+  },
+  {
+    "objectID": "people.html#partners",
+    "href": "people.html#partners",
+    "title": "People and Partners",
+    "section": "Partners",
+    "text": "Partners\n\nCollaborators\nHye Ryeon Jang, Morehouse College\nHarlin Lee, University of North Carolina at Chapel Hill\nLorenzo Harper, University of North Carolina at Charlotte\nThe Carpentries\nData Science Academy at NC State\nData Science Institute (DSI) at the University of Chicago\n\n\nFunders\nAlfred P. Sloan Foundation\nAtlanta University Center Data Science Initiative (AUC DSI)\nData.org\nInstitute for Racial Justice at Loyola University, Chicago\n\nFormer Lab Members\n\nDalton Favors, Economics (Morehouse College, Class of 2024)\nHasan Henry, Political Science (Morehouse College, Class of 2024)\nMatthew Mann, Sociology (Morehouse College, Class of 2022)\nXavier McKenzie, Business (Morehouse College, Class of 2023)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Our Work",
+    "section": "",
+    "text": "We quantify history and the social sciences to learn about in/justice & futurity."
+  },
+  {
+    "objectID": "research.html#sample-code",
+    "href": "research.html#sample-code",
+    "title": "Our Work",
+    "section": "SAMPLE CODE",
+    "text": "SAMPLE CODE\n\n\n\n\nExample\nR\nPython\nRelated Resources\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMerge data frames\nR\nPython\nmerge(), join()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\nPython"
+  },
+  {
+    "objectID": "research.html#project-files",
+    "href": "research.html#project-files",
+    "title": "Our Work",
+    "section": "PROJECT FILES",
+    "text": "PROJECT FILES\n\n\n\n\nResearch project\nProject Group\nSteps\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndex of Dissimilarity\nDSCM\nStep 0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFatal force\nAJLab\nStep 0\nStep 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCensus data\nECHO\nStep 0"
+  },
+  {
+    "objectID": "research.html#quant-shop-data",
+    "href": "research.html#quant-shop-data",
+    "title": "Our Work",
+    "section": "QUANT SHOP DATA",
+    "text": "QUANT SHOP DATA\nOur lab works to identify sources of information for engagement and analyses across historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses.\nData sources, software programs, and code are outlined below.\n\n\n\n\nPeriod\nData foci\nSoftware\nContext\nSteps\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1860-1030\nBlack Legislation\nR\n\nStep 0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1890-1910\nLynching\nR\n\nStep 0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1895-1945\nAA Experience\nR\n\nStep 0\nStep 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPython"
+  },
+  {
+    "objectID": "people.html#collaborators",
+    "href": "people.html#collaborators",
+    "title": "People and Partners",
+    "section": "Collaborators",
+    "text": "Collaborators\n\nProject collaborators\nHye Ryeon Jang, Morehouse College\nHarlin Lee, University of North Carolina at Chapel Hill\nJoseph Dixon, Independent Consultant\nLorenzo Harper, University of North Carolina at Charlotte\n\n\nProgram collaborators\nThe Carpentries\nData Science Academy at NC State\nData Science Institute (DSI) at the University of Chicago\nUS-Africa Institute\n\n\nFunders\nAlfred P. Sloan Foundation\nAtlanta University Center Data Science Initiative (AUC DSI)\nCenter for Applied Data Science and Analytics (CADSA) at Howard University\nData.org\nInstitute for Racial Justice at Loyola University, Chicago\n\nFormer Lab Members\n\nRonald Carter (Howard University, MS student)\nMaya Phillips (Spelman College, Class of 2023)\nDalton Favors (Morehouse College, Class of 2024)\nHasan Henry (Morehouse College, Class of 2024)\nMatthew Mann (Morehouse College, Class of 2022)\nXavier McKenzie (Morehouse College, Class of 2023)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Quantitative Histories Workshop",
+    "section": "",
+    "text": "we quantify history and the social sciences to learn about in/justice & futurity."
   }
 ]

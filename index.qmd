@@ -2,7 +2,4 @@
 title: ""
 ---
 
-welcome.
-
-
-we quantify history and the social sciences to learn about in/justice & futurity.
+![](img/quant_workshop_logo.png){fig-align="center" width="50%"}

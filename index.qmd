@@ -1,0 +1,5 @@
+---
+title: "Quantitative Histories Workshop"
+subtitle: "Lab on-boarding files and case study"
+---
+

@@ -81,21 +81,7 @@
     "href": "lessons/lesson02-slides.html#data-prep-a-series-of-steps",
     "title": "Lesson 2",
     "section": "Data prep: A series of steps",
-    "text": "Data prep: A series of steps\n\n# step01 import data\n\n## drafted by Nathan Alexander\n\n# import the v2 Washington Post fatal force data\n\n### context: https://www.washingtonpost.com/graphics/investigations/police-shootings-database/\n\n### content: https://github.com/washingtonpost/data-police-shootings\n\n### code - v2 data: https://github.com/washingtonpost/data-police-shootings/tree/master/v2\n\nfatalv2 &lt;- read.csv(\"https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/v2/fatal-police-shootings-data.csv\")\n\n## check the imported data\nhead(fatalv2)\ntail(fatalv2)"
-  },
-  {
-    "objectID": "lessons/lesson02-slides.html#data-analysis-your-theoretical-framework",
-    "href": "lessons/lesson02-slides.html#data-analysis-your-theoretical-framework",
-    "title": "Lesson 2",
-    "section": "Data analysis: Your theoretical framework",
-    "text": "Data analysis: Your theoretical framework"
-  },
-  {
-    "objectID": "lessons/lesson02-slides.html#data-reporting-creating-a-report",
-    "href": "lessons/lesson02-slides.html#data-reporting-creating-a-report",
-    "title": "Lesson 2",
-    "section": "Data reporting: Creating a report",
-    "text": "Data reporting: Creating a report"
+    "text": "Data prep: A series of steps\n\n\n\nSteps\nFiles\n\n\n\n\nStep 01\nImport\n\n\nStep 02\nProcess\n\n\nStep 03\nClean\n\n\nStep 04\nExplore\n\n\nStep 05\nAnalysis (see files below)\n\n\n\nPart 1: Census data"
   },
   {
     "objectID": "lessons/lesson02.html#data-prep-a-series-of-steps",
@@ -105,53 +91,32 @@
     "text": "Data prep: A series of steps\n\n\n\nSteps\nFiles\n\n\n\n\nStep 01\nImport\n\n\nStep 02\nProcess\n\n\nStep 03\nClean\n\n\nStep 04\nExplore\n\n\nStep 05\nAnalysis (see files below)\n\n\n\nPart 1: Census data"
   },
   {
-    "objectID": "lessons/lesson02.html#data-analysis-your-theoretical-framework",
-    "href": "lessons/lesson02.html#data-analysis-your-theoretical-framework",
-    "title": "Lesson 2",
-    "section": "Data analysis: Your theoretical framework",
-    "text": "Data analysis: Your theoretical framework"
-  },
-  {
-    "objectID": "lessons/lesson02.html#data-reporting-creating-a-report",
-    "href": "lessons/lesson02.html#data-reporting-creating-a-report",
-    "title": "Lesson 2",
-    "section": "Data reporting: Creating a report",
-    "text": "Data reporting: Creating a report"
-  },
-  {
     "objectID": "lessons/lesson01-slides.html#the-quantitative-histories-workshop-model",
     "href": "lessons/lesson01-slides.html#the-quantitative-histories-workshop-model",
     "title": "Lesson 1",
     "section": "The Quantitative Histories Workshop Model",
-    "text": "The Quantitative Histories Workshop Model\nPrep\nAnalysis\nReporting\nCase study\nTo explore this model, we will use a case study.\nOur case study begins with the Washington Post Fatal Force database. Throughout the case study, historical and other contemporary data is combined to generate an original database. This database can be used for your analysis."
-  },
-  {
-    "objectID": "lessons/lesson01-slides.html#overview-of-fatal-force-v2-files",
-    "href": "lessons/lesson01-slides.html#overview-of-fatal-force-v2-files",
-    "title": "Lesson 1",
-    "section": "Overview of Fatal Force v2 files",
-    "text": "Overview of Fatal Force v2 files"
+    "text": "The Quantitative Histories Workshop Model\nPrep\nCode and data prep should follow the Good enough practices in scientific computing model.\nAnalysis\nAnalyses can be done in any software program and a clear summary of steps should be included.\nReporting\nAll reports should be generated using an .RMrakdown.\nCase study\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
   },
   {
     "objectID": "lessons/lesson01-slides.html#data-prep-a-series-of-steps",
     "href": "lessons/lesson01-slides.html#data-prep-a-series-of-steps",
     "title": "Lesson 1",
     "section": "Data prep: A series of steps",
-    "text": "Data prep: A series of steps"
+    "text": "Data prep: A series of steps\nStep 01: Import data Step 02: Process data Step 03: Clean data Step 04: Explore data Step 05: Analyze data"
   },
   {
     "objectID": "lessons/lesson01-slides.html#data-analysis-your-theoretical-framework",
     "href": "lessons/lesson01-slides.html#data-analysis-your-theoretical-framework",
     "title": "Lesson 1",
     "section": "Data analysis: Your theoretical framework",
-    "text": "Data analysis: Your theoretical framework"
+    "text": "Data analysis: Your theoretical framework\nWhat is your theoretical basis? What are your main hypotheses?"
   },
   {
     "objectID": "lessons/lesson01-slides.html#data-reporting-creating-a-report",
     "href": "lessons/lesson01-slides.html#data-reporting-creating-a-report",
     "title": "Lesson 1",
     "section": "Data reporting: Creating a report",
-    "text": "Data reporting: Creating a report"
+    "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
   },
   {
     "objectID": "lessons/lesson01.html",
@@ -166,13 +131,6 @@
     "title": "Lesson 1",
     "section": "",
     "text": "Code and data prep should follow the Good enough practices in scientific computing model.\n\n\n\nAnalyses can be done in any software program and a clear summary of steps should be included.\n\n\n\nAll reports should be generated using an .RMrakdown.\n\n\n\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
-  },
-  {
-    "objectID": "lessons/lesson01.html#overview-of-fatal-force-v2-files",
-    "href": "lessons/lesson01.html#overview-of-fatal-force-v2-files",
-    "title": "Lesson 1",
-    "section": "Overview of Fatal Force v2 files",
-    "text": "Overview of Fatal Force v2 files"
   },
   {
     "objectID": "lessons/lesson01.html#data-prep-a-series-of-steps",

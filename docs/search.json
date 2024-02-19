@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "manual.html",
+    "href": "manual.html",
+    "title": "Lab Manual",
+    "section": "",
+    "text": "This area is for lab members only.\nIf you are interested in our work, join us by clicking here.\n\nWelcome new members!\nWe are excited to have you join the Quantitative Histories Workshop!\nThis section contains links to the required on-boarding documents that you will need to complete for our lab.\nWhen completing documents with sensitive information, please do not upload or email personal details (such as your SSN). Instead, you should stop by a Faculty Director’s office hours to finalize any forms.\nFor your first task, please complete the following steps below:\nStep 1: Contact information \n\nTo complete the Quantitative Histories Workshop Information Form, please click here.\n\nStep 2: Paperwork \n\nMorehouse College lab members, please click here.\nHoward University lab members, please click here.\nExternal partners, consultants, and others, please click here.\n\nStep 3: Say cheese! \n\nPlease upload your bio and a high-resolution photo here.\n\nStep 4: Project on-boarding \n\nMembers must complete on-boarding for their project group; please see your group leader.\n\nStep 5: Readings\n\nNew members should get started by exploring the following books and papers:\n\nWe Do This ’Til We Free Us by Mariame Kaba.\n\n\nIf you are unsure of who to contact, please email the lab manager or Dr. Alexander."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Quantitative Histories Workshop",
@@ -14,43 +21,8 @@
     "text": "Learn more about our programs!\n\nData Science and Critical Mathematics Program\nHigh school student summer program\n\n\nCommunity Data Fellowships\nUndergraduate and graduate student academic year program\n\n\nTeaching and Community Educator Fellowships\nYear-round k-12 teacher and community educator program\n\n\nFaculty Development Program\nCollaborative faculty workshop series\n\n\nVirtual Exchange Program\nInternational cultural exchange program"
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "Our lab is made up of a highly versatile and collaborative team of researchers.\nProject PIs\n\nHye Ryeon Jang, Morehouse College\nHarlin Lee, University of North Carolina at Chapel Hill\nLorenzo Harper, University of North Carolina at Charlotte\n\nCurrent Lab Members\n\nBasil Ghali, Psychology (Howard University, PhD Student; Morehouse College, Class of 2023)\n\nFormer Lab Members\n\nDalton Favors, Economics (Morehouse College, Class of 2024)\nHasan Henry, Political Science (Morehouse College, Class of 2024)\nMatthew Mann, Sociology (Morehouse College, Class of 2022)\nXavier McKenzie, Business (Morehouse College, Class of 2023)"
-  },
-  {
-    "objectID": "manual.html",
-    "href": "manual.html",
-    "title": "Lab Manual",
-    "section": "",
-    "text": "This area is for lab members only.\nIf you are interested in our work, join us by clicking here.\n\nWelcome new members!\nWe are excited to have you join the Quantitative Histories Workshop!\nThis section contains links to the required on-boarding documents that you will need to complete for our lab.\nWhen completing documents with sensitive information, please do not upload or email personal details (such as your SSN). Instead, you should stop by a Faculty Director’s office hours to finalize any forms.\nFor your first task, please complete the following steps below:\nStep 1: Contact information \n\nTo complete the Quantitative Histories Workshop Information Form, please click here.\n\nStep 2: Paperwork \n\nMorehouse College lab members, please click here.\nHoward University lab members, please click here.\nExternal partners, consultants, and others, please click here.\n\nStep 3: Say cheese! \n\nPlease upload your bio and a high-resolution photo here.\n\nStep 4: Project on-boarding \n\nMembers must complete on-boarding for their project group; please see your group leader.\n\nStep 5: Readings\n\nNew members should get started by exploring the following books and papers:\n\nWe Do This ’Til We Free Us by Mariame Kaba.\n\n\nIf you are unsure of who to contact, please email the lab manager or Dr. Alexander."
-  },
-  {
     "objectID": "partners.html",
     "href": "partners.html",
-    "title": "Partners",
-    "section": "",
-    "text": "The Carpentries\nData Science Academy at NC State\nData Science Institute at UChicago"
-  },
-  {
-    "objectID": "partners.html#partners",
-    "href": "partners.html#partners",
-    "title": "Partners",
-    "section": "",
-    "text": "The Carpentries"
-  },
-  {
-    "objectID": "partners.html#funders",
-    "href": "partners.html#funders",
-    "title": "Partners",
-    "section": "Funders",
-    "text": "Funders\nAlfred P. Sloan Foundation\nAtlanta University Center Data Science Initiative (AUC DSI)\nData.org\nInstitute for Racial Justice at Loyola University, Chicago"
-  },
-  {
-    "objectID": "partners.html#collaborators",
-    "href": "partners.html#collaborators",
     "title": "Partners",
     "section": "",
     "text": "The Carpentries\nData Science Academy at NC State\nData Science Institute at UChicago"
@@ -61,5 +33,19 @@
     "title": "Partners",
     "section": "",
     "text": "The Carpentries\nData Science Academy at NC State\nData Science Institute at UChicago"
+  },
+  {
+    "objectID": "partners.html#funders",
+    "href": "partners.html#funders",
+    "title": "Partners",
+    "section": "Funders",
+    "text": "Funders\nAlfred P. Sloan Foundation\nAtlanta University Center Data Science Initiative (AUC DSI)\nData.org\nInstitute for Racial Justice at Loyola University, Chicago"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Our lab is made up of a highly versatile and collaborative team of researchers.\nProject PIs\n\nHye Ryeon Jang, Morehouse College\nHarlin Lee, University of North Carolina at Chapel Hill\nLorenzo Harper, University of North Carolina at Charlotte\n\nCurrent Lab Members\n\nBasil Ghali, Psychology (Howard University, PhD Student; Morehouse College, Class of 2023)\n\nFormer Lab Members\n\nDalton Favors, Economics (Morehouse College, Class of 2024)\nHasan Henry, Political Science (Morehouse College, Class of 2024)\nMatthew Mann, Sociology (Morehouse College, Class of 2022)\nXavier McKenzie, Business (Morehouse College, Class of 2023)"
   }
 ]

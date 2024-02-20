@@ -6,14 +6,14 @@ We quantify history and the social sciences to learn about in/justice & futurity
 
 Our lab works to identify sources of information for engagement and analysis across historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below.
 
-## Public project files
+## Open activity (OA) projects
 
 ::: column-inset
 | Research focus | Project Group | Links |
 |:--|:-|:-|
-| Index of Dissimilarity | DSCM | [repo]() |
+| Measures of segregation | DSCM | |
 | Fatal force analysis | AJLab |  |
-| Census data prep | ECHO |  |
+| Census data | ECHO |  |
 :::
 
 ## Quant-shop database

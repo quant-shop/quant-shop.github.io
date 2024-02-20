@@ -12,8 +12,8 @@ Our lab works to identify sources of information for engagement and analysis acr
 | Research focus | Project Group | Links |
 |:--|:-|:-|
 | Index of Dissimilarity | DSCM | [repo]() |
-| Fatal force analysis | AJLab | [repo](https://github.com/quant-shop/fatalv2){target="_blank"} |
-| Census data prep | ECHO | [repo](https://github.com/professornaite/echo){target="_blank"} |
+| Fatal force analysis | AJLab |  |
+| Census data prep | ECHO |  |
 :::
 
 ## Quant-shop database
@@ -21,12 +21,12 @@ Our lab works to identify sources of information for engagement and analysis acr
 ::: column-inset
 | Data | Sample code | Links |
 |:--|:-|:-|
-| [African American firsts](https://github.com/quant-shop/african-american-firsts){target="_blank"} |  | |
-| [Africa population data](https://github.com/quant-shop/african-pop-data){target="_blank"} |  | |
-| [Atlanta University Studies](https://github.com/quant-shop/black-astronauts){target="_blank"} |  | |
-| [Black astronauts](https://github.com/quant-shop/black-astronauts){target="_blank"} | [R]() | |
-| [Du Bois infographics](https://github.com/quant-shop/black-astronauts){target="_blank"} | [Python]() | |
-| [Wells' Red Record](https://github.com/quant-shop/red-record){target="_blank"} | [R]() | |
-| [Tuskegee Experiment](https://github.com/quant-shop/tuskegee-experiment){target="_blank"} | | |
+| [African American firsts] |  | |
+| [Africa population data] |  | |
+| [Atlanta University Studies] |  | |
+| [Black astronauts] | [R]() | |
+| [Du Bois infographics] | [Python]() | |
+| [Wells' Red Record] | [R]() | |
+| [Tuskegee Experiment] | | |
 :::
 

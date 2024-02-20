@@ -10,20 +10,20 @@ Learn more about our programs!
 ![](img/dscm22_group.png){fig-align="left" width="40%"}
 
 ### Community Data Fellowship
-| Undergraduate and graduate student academic year program ([info](img/cdf23_flyer.jpg){target="_blank"})
+| Undergraduate and graduate student academic year program
 
-- AY2022-2023 [projects](https://www.dropbox.com/scl/fi/dr69lqub7bw1j68wbadkn/cdf23_projects.pdf?rlkey=z0y63lhrqng7wq5tfz5l4xb8e&dl=0){target="_blank"}
+- AY2022-2023 [projects](){target="_blank"}
 - AY2023-2024 [projects](){target="_blank"}
 
 ### Teaching and Community Educator Fellowships
 | Year-round k-12 teacher and community educator program
 
-- Men of Math Fellowship at the Institute for Racial Justice ([info](https://www.luc.edu/irj/ourcurrentprojects/m2fellowship/){target="_blank"})
+- Men of Math Fellowship at the Institute for Racial Justice
 
 ### Faculty Development Program
 | Collaborative faculty workshop series
 
-- Teaching Open Source Workshop Series for HBCU faculty ([info](img/tos_flyer.png){target="_blank"})
+- Teaching Open Source Workshop Series for HBCU faculty
 
 ### Virtual Exchange Program
 | International cultural exchange program

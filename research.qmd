@@ -4,34 +4,27 @@ title: "Our Work"
 
 We quantify history and the social sciences to learn about in/justice & futurity.
 
-## QUANT SHOP DATA
+## QUANT-SHOP data
 
-Our lab works to identify sources of information for engagement and analyses across historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. 
-
-Data sources, software programs, and code are outlined below.
+Our lab works to identify sources of information for engagement and analyses across historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and code are outlined below.
 
 ::: column-screen-inset-center
-| Period | Data foci | Software | Context | Steps |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| 1860-1030 | Black Legislation | R | | [Step 0]()
-||| Python
-| 1890-1910 | Lynching | R | | [Step 0]()
-||| Python
-| 1895-1945 | AA Experience | R | | [Step 0](code/01_import_data.R)     | [Step 1](code/02_process_data.R)  
-||| Python
+| Data | Links | Sources
+|-|-|-|
+| Black astronauts|[repo](https://github.com/quant-shop/black-astronauts){target="_blank"} | |
 :::
 
-## PROJECT FILES
+## Project files
 
 ::: column-screen-inset-center
-| Research project | Project Group | Steps |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| Index of Dissimilarity | DSCM | [Step 0]()
-| Fatal force | AJLab | [Step 0](code/01_import_data.R)     | [Step 1](code/02_process_data.R)    |
-| Census data | ECHO | [Step 0]()
+| Research focus | Project Group | Steps |
+|-|-|-|-|-|
+| Index of Dissimilarity | DSCM | [repo]()
+| Fatal force analysis | AJLab | [repo](https://github.com/quant-shop/fatalv2){target="_blank"} |
+| Census data prep | ECHO | [repo](https://github.com/professornaite/echo){target="_blank"}
 :::
 
-## SAMPLE CODE
+## Sample code
 
 ::: column-screen-inset-center
 | Example | R | Python | Related Resources |

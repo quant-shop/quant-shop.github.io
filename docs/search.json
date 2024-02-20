@@ -45,22 +45,22 @@
     "objectID": "research.html#quant-shop-data",
     "href": "research.html#quant-shop-data",
     "title": "Our Work",
-    "section": "QUANT SHOP DATA",
-    "text": "QUANT SHOP DATA\nOur lab works to identify sources of information for engagement and analyses across historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses.\nData sources, software programs, and code are outlined below.\n\n\n\n\nPeriod\nData foci\nSoftware\nContext\nSteps\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1860-1030\nBlack Legislation\nR\n\nStep 0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1890-1910\nLynching\nR\n\nStep 0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1895-1945\nAA Experience\nR\n\nStep 0\nStep 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPython"
+    "section": "QUANT-SHOP data",
+    "text": "QUANT-SHOP data\nOur lab works to identify sources of information for engagement and analyses across historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and code are outlined below.\n\n\n\n\nData\nLinks\nSources\n\n\n\n\nBlack astronauts\nrepo"
   },
   {
     "objectID": "research.html#project-files",
     "href": "research.html#project-files",
     "title": "Our Work",
-    "section": "PROJECT FILES",
-    "text": "PROJECT FILES\n\n\n\n\nResearch project\nProject Group\nSteps\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndex of Dissimilarity\nDSCM\nStep 0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFatal force\nAJLab\nStep 0\nStep 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCensus data\nECHO\nStep 0"
+    "section": "Project files",
+    "text": "Project files\n\n\n\n\nResearch focus\nProject Group\nSteps\n\n\n\n\n\n\nIndex of Dissimilarity\nDSCM\nrepo\n\n\n\n\nFatal force analysis\nAJLab\nrepo\n\n\n\n\nCensus data prep\nECHO\nrepo"
   },
   {
     "objectID": "research.html#sample-code",
     "href": "research.html#sample-code",
     "title": "Our Work",
-    "section": "SAMPLE CODE",
-    "text": "SAMPLE CODE\n\n\n\n\nExample\nR\nPython\nRelated Resources\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMerge data frames\nR\nPython\nmerge(), join()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\nPython"
+    "section": "Sample code",
+    "text": "Sample code\n\n\n\n\nExample\nR\nPython\nRelated Resources\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMerge data frames\nR\nPython\nmerge(), join()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\nPython"
   },
   {
     "objectID": "about.html",
@@ -95,7 +95,7 @@
     "href": "lessons/lesson01-slides.html#the-quantitative-histories-workshop-model",
     "title": "Lesson 1",
     "section": "The Quantitative Histories Workshop Model",
-    "text": "The Quantitative Histories Workshop Model\nPrep\nCode and data prep should follow the Good enough practices in scientific computing model.\nAnalysis\nAnalyses can be done in any software program and a clear summary of steps should be included.\nReporting\nAll reports should be generated using an .RMrakdown.\nCase study\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
+    "text": "The Quantitative Histories Workshop Model\nPrep\nCode and data prep should follow the Good enough practices in scientific computing model.\nAnalysis\nAnalyses can be done in any software program and a clear summary of steps should be included.\nReporting\nAll reports should be generated using an .RMarkdown.\nCase study\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
   },
   {
     "objectID": "lessons/lesson01-slides.html#data-prep-a-series-of-steps",
@@ -123,14 +123,14 @@
     "href": "lessons/lesson01.html",
     "title": "Lesson 1",
     "section": "",
-    "text": "Code and data prep should follow the Good enough practices in scientific computing model.\n\n\n\nAnalyses can be done in any software program and a clear summary of steps should be included.\n\n\n\nAll reports should be generated using an .RMrakdown.\n\n\n\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
+    "text": "Code and data prep should follow the Good enough practices in scientific computing model.\nCode directory\n\n\n\nAnalyses can be done in any software program and a clear summary of steps should be included.\n\n\n\nAll reports should be generated using an .RMarkdown.\n\n\n\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
   },
   {
     "objectID": "lessons/lesson01.html#the-quantitative-histories-workshop-model",
     "href": "lessons/lesson01.html#the-quantitative-histories-workshop-model",
     "title": "Lesson 1",
     "section": "",
-    "text": "Code and data prep should follow the Good enough practices in scientific computing model.\n\n\n\nAnalyses can be done in any software program and a clear summary of steps should be included.\n\n\n\nAll reports should be generated using an .RMrakdown.\n\n\n\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
+    "text": "Code and data prep should follow the Good enough practices in scientific computing model.\nCode directory\n\n\n\nAnalyses can be done in any software program and a clear summary of steps should be included.\n\n\n\nAll reports should be generated using an .RMarkdown.\n\n\n\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
   },
   {
     "objectID": "lessons/lesson01.html#data-prep-a-series-of-steps",

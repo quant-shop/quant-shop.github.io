@@ -6,6 +6,16 @@ We quantify history and the social sciences to learn about in/justice & futurity
 
 Our lab works to identify sources of information for engagement and analysis across historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and code are outlined below.
 
+## Public project files
+
+::: column-inset
+| Research focus | Project Group | Steps |
+|:--|:-|:-|
+| Index of Dissimilarity | DSCM | [repo]() |
+| Fatal force analysis | AJLab | [repo](https://github.com/quant-shop/fatalv2){target="_blank"} |
+| Census data prep | ECHO | [repo](https://github.com/professornaite/echo){target="_blank"} |
+:::
+
 ## QUANT SHOP database
 
 ::: column-inset
@@ -19,15 +29,4 @@ Our lab works to identify sources of information for engagement and analysis acr
 | [Wells' Red Record](https://github.com/quant-shop/red-record){target="_blank"} | [R](), [Python]() | |
 | [Tuskegee Experiment](https://github.com/quant-shop/tuskegee-experiment){target="_blank"} | [R](), [Python]() | |
 :::
-
-## Public project files
-
-::: column-inset
-| Research focus | Project Group | Steps |
-|:--|:-|:-|
-| Index of Dissimilarity | DSCM | [repo]() |
-| Fatal force analysis | AJLab | [repo](https://github.com/quant-shop/fatalv2){target="_blank"} |
-| Census data prep | ECHO | [repo](https://github.com/professornaite/echo){target="_blank"} |
-:::
-
 

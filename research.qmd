@@ -18,15 +18,3 @@ Our lab works to identify sources of information for engagement and analysis acr
 
 ## Quant-shop database
 
-::: column-inset
-| Data |
-|:--|:-|:-|
-| [African American firsts] |  | |
-| [Africa population data] |  | |
-| [Atlanta University Studies] |  | |
-| [Black astronauts] | [R]() | |
-| [Infographics] | | |
-| [Wells' Red Record] | [R]() | |
-| [Tuskegee Experiment] | | |
-:::
-

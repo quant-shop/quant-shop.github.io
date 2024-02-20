@@ -10,6 +10,7 @@ website:
         text: Home
       - href: programs.qmd
       - href: people.qmd
+      - href: research.qmd
       - href: manual.qmd
 
   page-footer:

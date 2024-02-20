@@ -95,7 +95,7 @@
     "href": "lessons/lesson01-slides.html#the-quantitative-histories-workshop-model",
     "title": "Lesson 1",
     "section": "The Quantitative Histories Workshop Model",
-    "text": "The Quantitative Histories Workshop Model\nPrep\nCode and data prep should follow the Good enough practices in scientific computing model.\nAnalysis\nAnalyses can be done in any software program and a clear summary of steps should be included.\nReporting\nAll reports should be generated using an .RMarkdown.\nCase study\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
+    "text": "The Quantitative Histories Workshop Model\nPrep\nCode and data prep should follow the Good enough practices in scientific computing model.\nCode directory\nAnalysis\nAnalyses can be done in any software program and a clear summary of steps should be included.\nReporting\nAll reports should be generated using an .RMarkdown.\nCase study\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
   },
   {
     "objectID": "lessons/lesson01-slides.html#data-prep-a-series-of-steps",

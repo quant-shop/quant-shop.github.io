@@ -16,7 +16,7 @@ Our lab works to identify sources of information for engagement and analysis acr
 | Census data prep | ECHO | [repo](https://github.com/professornaite/echo){target="_blank"} |
 :::
 
-## QUANT SHOP database
+## [Quant-shop database](https://github.com/quant-shop){target="_blank"}
 
 ::: column-inset
 | Data | Sample code | Links |

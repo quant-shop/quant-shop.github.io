@@ -9,24 +9,24 @@ Our lab works to identify sources of information for engagement and analysis acr
 ## Public project files
 
 ::: column-inset
-| Research focus | Project Group | Steps |
+| Research focus | Project Group | Links |
 |:--|:-|:-|
 | Index of Dissimilarity | DSCM | [repo]() |
 | Fatal force analysis | AJLab | [repo](https://github.com/quant-shop/fatalv2){target="_blank"} |
 | Census data prep | ECHO | [repo](https://github.com/professornaite/echo){target="_blank"} |
 :::
 
-## [Quant-shop database](https://github.com/quant-shop){target="_blank"}
+## Quant-shop database
 
 ::: column-inset
 | Data | Sample code | Links |
 |:--|:-|:-|
-| [African American firsts](https://github.com/quant-shop/african-american-firsts){target="_blank"} | [R](), [Python]() | |
-| [Africa population data](https://github.com/quant-shop/african-pop-data){target="_blank"} | [R](), [Python]() | |
-| [Atlanta University Studies](https://github.com/quant-shop/black-astronauts){target="_blank"} | [R](), [Python]() | |
-| [Black astronauts](https://github.com/quant-shop/black-astronauts){target="_blank"} | [R](), [Python]() | |
-| [Du Bois infographics](https://github.com/quant-shop/black-astronauts){target="_blank"} | [R](), [Python]() | |
-| [Wells' Red Record](https://github.com/quant-shop/red-record){target="_blank"} | [R](), [Python]() | |
-| [Tuskegee Experiment](https://github.com/quant-shop/tuskegee-experiment){target="_blank"} | [R](), [Python]() | |
+| [African American firsts](https://github.com/quant-shop/african-american-firsts){target="_blank"} |  | |
+| [Africa population data](https://github.com/quant-shop/african-pop-data){target="_blank"} |  | |
+| [Atlanta University Studies](https://github.com/quant-shop/black-astronauts){target="_blank"} |  | |
+| [Black astronauts](https://github.com/quant-shop/black-astronauts){target="_blank"} | [R]() | |
+| [Du Bois infographics](https://github.com/quant-shop/black-astronauts){target="_blank"} | [Python]() | |
+| [Wells' Red Record](https://github.com/quant-shop/red-record){target="_blank"} | [R]() | |
+| [Tuskegee Experiment](https://github.com/quant-shop/tuskegee-experiment){target="_blank"} | | |
 :::
 

@@ -4,33 +4,30 @@ title: "Our Work"
 
 We quantify history and the social sciences to learn about in/justice & futurity.
 
-## QUANT-SHOP data
+Our lab works to identify sources of information for engagement and analysis across historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and code are outlined below.
 
-Our lab works to identify sources of information for engagement and analyses across historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and code are outlined below.
+## QUANT SHOP database
 
-::: column-screen-inset-center
-| Data | Links | Sources
-|-|-|-|
-| Black astronauts|[repo](https://github.com/quant-shop/black-astronauts){target="_blank"} | |
+::: column-inset
+| Data | Sample code | Links |
+|:--|:-|:-|
+| [African American firsts](https://github.com/quant-shop/african-american-firsts){target="_blank"} | [R](), [Python]() | |
+| [Africa population data](https://github.com/quant-shop/african-pop-data){target="_blank"} | [R](), [Python]() | |
+| [Atlanta University Studies](https://github.com/quant-shop/black-astronauts){target="_blank"} | [R](), [Python]() | |
+| [Black astronauts](https://github.com/quant-shop/black-astronauts){target="_blank"} | [R](), [Python]() | |
+| [Du Bois infographics](https://github.com/quant-shop/black-astronauts){target="_blank"} | [R](), [Python]() | |
+| [Wells' Red Record](https://github.com/quant-shop/red-record){target="_blank"} | [R](), [Python]() | |
+| [Tuskegee Experiment](https://github.com/quant-shop/tuskegee-experiment){target="_blank"} | [R](), [Python]() | |
 :::
 
-## Project files
+## Public project files
 
-::: column-screen-inset-center
+::: column-inset
 | Research focus | Project Group | Steps |
-|-|-|-|-|-|
-| Index of Dissimilarity | DSCM | [repo]()
+|:--|:-|:-|
+| Index of Dissimilarity | DSCM | [repo]() |
 | Fatal force analysis | AJLab | [repo](https://github.com/quant-shop/fatalv2){target="_blank"} |
-| Census data prep | ECHO | [repo](https://github.com/professornaite/echo){target="_blank"}
+| Census data prep | ECHO | [repo](https://github.com/professornaite/echo){target="_blank"} |
 :::
 
-## Sample code
-
-::: column-screen-inset-center
-| Example | R | Python | Related Resources |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| Merge data frames | [R]() | [Python]() | [merge()](), [join()]() | 
-|  | [R]()| [Python]() |
-| | [R]() | [Python]() |
-:::
 

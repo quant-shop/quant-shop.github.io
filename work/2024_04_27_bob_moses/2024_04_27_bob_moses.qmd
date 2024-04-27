@@ -1,5 +1,5 @@
 ---
-title: "Data Wells: Race and State Violence in the United States from 1892"
+title: "The Principles of Reconstruction: Still a Viable Route to Full Citizenship"
 subtitle: "Quantitative Histories Workshop"
 author:
   - name: Nathan Alexander
@@ -60,7 +60,9 @@ format:
     theme: default
 ---
 
-## [*Data*]{style="color:darkgreen;"} + Ida B. [*Wells*]{style="color:darkgreen;"}-Barnett
+## The Principles of Reconstruction: Still a Viable Route to Full Citizenship 
+
+A focus on "Data Wells": [*Data*]{style="color:darkgreen;"} + Ida B. [*Wells*]{style="color:darkgreen;"}-Barnett
 
 ::: {.incremental}
 
@@ -181,12 +183,18 @@ Caitlin Pollock has created [software](https://redrecord.cmjpollock.com/) based 
 
 Content for 1893
 
+![]()
+
 ```{r}
 #| echo: false
 #| output: false
 #| warning: false
-
+library(geojsonio)
+library(broom)
+library(ggplot2)
+map1893 <- geojson_read("https://raw.githubusercontent.com/professornaite/red-record/main/data/1893map.geojson")
 ```
+
 
 ```{r}
 #| echo: false
@@ -195,17 +203,6 @@ Content for 1893
 
 
 ```
-
-
-### 1893 map
-
-```{r}
-#| echo: false
-#| output: false
-#| warning: false
-
-```
-
 
 ### 1894
 
@@ -272,9 +269,6 @@ George Floyd, killed by police on May 25, 2020, Minneapolis
 
 ## Campus Policing Timeline {background-image="campus-policing-timeline.jpg" background-opacity=1}
 
-## Racism {background-image="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MZZA54YTFZFGZD3GMHM7LBDGLE.jpg&w=1484
-" background-opacity=0.5}
-
 ## Prisons {background-image="https://www.urban.org/sites/default/files/shutterstock_365427041_crop.jpg" background-opacity=0.5}
 
 ::: {.incremental}
@@ -339,10 +333,26 @@ Content for federal and state
 :::
 
 
+## Racism vs. Anti-Blackness {background-image="https://upload.wikimedia.org/wikipedia/commons/c/c6/Blackboard.png?20200731124623" background-opacity=0.5}
+
+In a 2020 New York Times article, kihana miraya ross chronicles the histories and contemporary realities of anti-Blackness. [ross (2020)](https://www.nytimes.com/2020/06/04/opinion/george-floyd-anti-blackness.html) deals with the related but differing functions of racism and anti-Blackness.
+
+::: {.incremental}
+
+  - ross notes that “'racism' fails to fully capture what black people in this country are facing."
+  
+  - ross continues by noting that "Anti-blackness is one way some black scholars have articulated what it means to be marked as black in an anti-black world."
+  
+  - Broadly, ross defines anti-Blackness as society's inability to recognize Black people's humanity.
+
+:::
+
+. . .
+
 # Thank you
 . . .
 
 Thank you for joining us and citing today's presentation.
 
-Alexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. *The 2024 Bob Moses Conference*. [Online](https://www.bobmosesconference.com/){target="blank"}.
+Alexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). The Principles of Reconstruction: Still a Viable Route to Full Citizenship. *The 2024 Bob Moses Conference*. [Online](https://www.bobmosesconference.com/){target="blank"}.
 

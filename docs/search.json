@@ -9,84 +9,91 @@
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#quantitative-history",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#quantitative-history",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Quantitative history",
     "text": "Quantitative history\n\n\n\nQuantitative history considers methods and approaches to artifacts as data and information.\nHistorians like Pierre Chanu (text to right) are centered in traditional texts; more perspectives are uncovering troubling practices with regard to race1.\nDespite long-standing critiques, there are few critical dimensions in quantitative history narratives.\n\n\n\n\n\nHistoire Quantitative by Pierre Chanu\n\n\n\n\nVovelle, Michel (1987). Bourgeoisies de province et Revolution. Presses Universitaires de Grenoble."
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#racialization-and-u.s.-state-violence",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#racialization-and-u.s.-state-violence",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Racialization and U.S. State Violence",
     "text": "Racialization and U.S. State Violence\nToday, we will discuss race and racialization in data wells of state sponsored violence:\n\n\nLynching\n\n\n\n\nPolicing\n\n\n\n\nPrisons"
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#ida-b.-wells-barnett-on-lynching",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#ida-b.-wells-barnett-on-lynching",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Ida B. Wells-Barnett on lynching",
     "text": "Ida B. Wells-Barnett on lynching\n\nPersonal experience. In 1892, a close friend of Ida B. Wells-Barnett was lynched. Wells-Barnett, a known activist, community organizer, and journalist, would generate quantitative indicators of lynching as state violence.\n\n\n\nIntuition and method. Like many Black communities at the time and other allies, Wells-Barnett acknowledged both the personal (micro) social forces of racism and the systemic (macro) nature of white racial violence. In this case, this violence was expressed through the practice of lynching.\n\n\n\n\nImpact. Wells-Barnett’s databases, and the use of number and quantification have a profound impact on the current view of state-sponsored racial violence."
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#lynching",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#lynching",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Lynching",
-    "text": "Lynching\nCaitlin Pollock has created software based on a series of extracted data from Wells-Barnett’s work. Although the data provides for quick loading and analysis, it does require some data wrangling.\n\n18931893 map18941895\n\n\nContent for 1893\n\n\n\n\n\nContent for 1894\n\n\nContent for 1895"
+    "text": "Lynching\nCaitlin Pollock has created software based on a series of extracted data from Wells-Barnett’s work. Although the data provides for quick loading and analysis, it does require some data wrangling.\n\n189318941895\n\n\nContent for 1893\n\n\n\nContent for 1894\n\n\nContent for 1895"
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#concerns",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#concerns",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Concerns",
     "text": "Concerns\nPollock deals with the issue of erasure in their development of the data."
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#policing",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#policing",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "Policing",
-    "text": "Policing"
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-3",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-3",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
+    "section": "",
+    "text": "Sandra Bland, killed by police in 2015, Texas"
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#rayshard-brooks-killed-by-police-in-2020-atlanta",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#rayshard-brooks-killed-by-police-in-2020-atlanta",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "Rayshard Brooks, killed by police in 2020, Atlanta",
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-4",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-4",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
+    "section": "",
+    "text": "Breonna Taylor, killed by police in 2020, Louisville"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-5",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-5",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
+    "section": "",
     "text": "Rayshard Brooks, killed by police in 2020, Atlanta"
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#rayshard-brooks-killed-by-police-in-2020-atlanta-1",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#rayshard-brooks-killed-by-police-in-2020-atlanta-1",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "Rayshard Brooks, killed by police in 2020, Atlanta",
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-6",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-6",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
+    "section": "",
     "text": "Rayshard Brooks, killed by police in 2020, Atlanta"
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#george-floyd-killed-by-police-on-may-25-2020-minneapolis",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#george-floyd-killed-by-police-on-may-25-2020-minneapolis",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "George Floyd, killed by police on May 25, 2020, Minneapolis",
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-7",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-7",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
+    "section": "",
     "text": "George Floyd, killed by police on May 25, 2020, Minneapolis"
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#fatal-police-interactions",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#fatal-police-interactions",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Fatal police interactions",
     "text": "Fatal police interactions\n\nFaculty and student research poster"
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#campus-policing",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#campus-policing",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Campus Policing",
     "text": "Campus Policing"
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#campus-policing-timeline",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#campus-policing-timeline",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Campus Policing Timeline",
     "text": "Campus Policing Timeline"
   },
@@ -100,57 +107,43 @@
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#prisons",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#prisons",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Prisons",
     "text": "Prisons\n\n\n“In 2021, Black Americans were imprisoned at 5.0 times the rate of whites, while American Indians and Latinx people were imprisoned at 4.2 times and 2.4 times the white rate, respectively.” (The Sentencing Project, 2023)\n“One in five Black men born in 2001 is likely to experience imprisonment within their lifetime, a decline from one in three for those born in 1981. Pushback from policymakers threatens further progress in reducing racial inequity in incarceration.” (The Sentencing Project, 2023)"
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#prisons-1",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#prisons-1",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Prisons",
     "text": "Prisons\nThe U.S. Bureua of Justice Statistics maintains records of federal and state prison populations1.\n\n\n\n\n\nSource of data: Carson (2022). Prisoners in 2021 – Statistical tables. Bureau of Justice Statistics."
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#prisons-2",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#prisons-2",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Prisons",
     "text": "Prisons\n\nFederalStateFederal and State\n\n\nContent for federal\n\n\nContent for state\n\n\nContent for federal and state"
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-3",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-3",
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#racism-and-anti-blackness",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#racism-and-anti-blackness",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "",
-    "text": "Sandra Bland, killed by police in 2015, Texas"
+    "section": "Racism and anti-Blackness",
+    "text": "Racism and anti-Blackness"
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-4",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-4",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "",
-    "text": "Breonna Taylor, killed by police in 2020, Louisville"
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#racism-vs.-anti-blackness",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#racism-vs.-anti-blackness",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
+    "section": "Racism vs. Anti-Blackness",
+    "text": "Racism vs. Anti-Blackness\nIn a 2020 New York Times article, kihana miraya ross chronicles the histories and contemporary realities of anti-Blackness. ross (2020) deals with the related but differing functions of racism and anti-Blackness.\n\n\nross notes that “‘racism’ fails to fully capture what black people in this country are facing.”\nross continues by noting that “Anti-blackness is one way some black scholars have articulated what it means to be marked as black in an anti-black world.”\nBroadly, ross defines anti-Blackness as society’s inability to recognize Black people’s humanity."
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-5",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-5",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "",
-    "text": "Rayshard Brooks, killed by police in 2020, Atlanta"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-6",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-6",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "",
-    "text": "Rayshard Brooks, killed by police in 2020, Atlanta"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-7",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#section-7",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "",
-    "text": "George Floyd, killed by police on May 25, 2020, Minneapolis"
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#the-principles-of-reconstruction-still-a-viable-route-to-full-citizenship",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#the-principles-of-reconstruction-still-a-viable-route-to-full-citizenship",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
+    "section": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
+    "text": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship\nA focus on “Data Wells”: Data + Ida B. Wells-Barnett\n\n\nWe use the term “Data Wells” to describe how we practice the identification, input, and storage of what can be termed as critical insights data, or CIDs.\nWe use information in databases in four ways:\n\nstudying problems in the quantification of historical information across various axes: time, social constructs, and/or systemic issues,\ndata identification and wrangling,\ndata analysis and communication, and\nmodeling abstract inquiries.\n\nWe begin our analysis with Ida B. Wells-Barnett’s organization and analysis of lynching.\nWe describe “Data Wells” of U.S. state violence using quantitative history as a frame."
   }
 ]

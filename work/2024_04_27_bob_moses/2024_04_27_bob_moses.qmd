@@ -281,6 +281,10 @@ George Floyd, killed by police in 2020, Minneapolis
 <iframe width="1540" height="1000" src="https://interactive.aljazeera.com/aje/2020/know-their-names/index.html" title="Know their names" data-external="1"></iframe>
 ```
 
+## Anlayzing policing data
+
+  - Since 2015, the Washington Post has collected data on fatal police interactions in the United States.
+  
 ## Modeling fatal police interactions in the U.S.
 
 ![Faculty and student research poster](poster3.png)

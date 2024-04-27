@@ -1,171 +1,17 @@
 [
   {
-    "objectID": "manual.html",
-    "href": "manual.html",
-    "title": "Lab Manual",
-    "section": "",
-    "text": "This area is for lab members only.\nIf you are interested in our work, join us by clicking here."
-  },
-  {
-    "objectID": "manual.html#lessons",
-    "href": "manual.html#lessons",
-    "title": "Lab Manual",
-    "section": "Lessons",
-    "text": "Lessons\n\n\n\n\nLesson\nTitle\nResources\n\n\n\n\n0\nGetting started\n\n\n\n1\nIntroduction to the Quantitative Histories Workshop Model\n\n\n\n2\nCase Study 1: Fatal Police Interactions\n\n\n\n3\nCase Study 2: The Red Record"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html",
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#principles-of-reconstruction",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#principles-of-reconstruction",
     "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "",
+    "section": "Principles of Reconstruction",
+    "text": "Principles of Reconstruction\n\n\nDu Bois’ (1935) Black Reconstruction: An Essay Toward a History of the Part which Black Folk Played in the Attempt to Reconstruct Democracy in America, 1860-1880 offers an alternative assessment of the post-Civil War period in the United States.\nDemocracy provided a new narrative at the time to examine African American progress post enslavement, and it continued to challenge long-standing narratives about racial hierarchy.\nRecently, notable scholars, such as Gloria Ladson-Billings, return to the importance of narratives of democracy in relation to the promise and perils of education and society broadly, while also highlighting the limits of liberalism."
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#a-focus-on-data-wells-data-ida-b.-wells-barnett",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#a-focus-on-data-wells-data-ida-b.-wells-barnett",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
+    "section": "A focus on “Data Wells”: Data + Ida B. Wells-Barnett",
     "text": "A focus on “Data Wells”: Data + Ida B. Wells-Barnett\n\n\nWe use the term “Data Wells” to describe how we practice the identification, input, and storage of what can be termed as critical insights data, or CIDs.\nWe use information in databases in four ways:\n\nstudying problems in the quantification of historical information across various axes: time, social constructs, and/or systemic issues,\ndata identification and wrangling,\ndata analysis and communication, and\nmodeling abstract inquiries.\n\nWe begin our analysis with Ida B. Wells-Barnett’s organization and analysis of lynching.\nWe describe “Data Wells” of U.S. state violence using quantitative history as a frame."
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#the-principles-of-reconstruction-still-a-viable-route-to-full-citizenship",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#the-principles-of-reconstruction-still-a-viable-route-to-full-citizenship",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "",
-    "text": "A focus on “Data Wells”: Data + Ida B. Wells-Barnett\n\n\nWe use the term “Data Wells” to describe how we practice the identification, input, and storage of what can be termed as critical insights data, or CIDs.\nWe use information in databases in four ways:\n\nstudying problems in the quantification of historical information across various axes: time, social constructs, and/or systemic issues,\ndata identification and wrangling,\ndata analysis and communication, and\nmodeling abstract inquiries.\n\nWe begin our analysis with Ida B. Wells-Barnett’s organization and analysis of lynching.\nWe describe “Data Wells” of U.S. state violence using quantitative history as a frame."
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#quantitative-history",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#quantitative-history",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Quantitative history",
-    "text": "Quantitative history\n\n\n\nQuantitative history considers methods and approaches to artifacts as data and information.\nHistorians like Pierre Chanu (text to right) are centered in traditional texts; more perspectives are uncovering troubling practices with regard to race1.\nDespite long-standing critiques, there are few critical dimensions in quantitative history narratives.\n\n\n\n\n\nHistoire Quantitative by Pierre Chanu"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#racialization-and-u.s.-state-violence",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#racialization-and-u.s.-state-violence",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Racialization and U.S. State Violence",
-    "text": "Racialization and U.S. State Violence\nToday, we will discuss race and racialization in data wells of state sponsored violence:\n. . .\n\nLynching\n\n. . .\n\nPolicing\n\n. . .\n\nPrisons"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#ida-b.-wells-barnett-on-lynching",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#ida-b.-wells-barnett-on-lynching",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Ida B. Wells-Barnett on lynching",
-    "text": "Ida B. Wells-Barnett on lynching\n\nPersonal experience. In 1892, a close friend of Ida B. Wells-Barnett was lynched. Wells-Barnett, a known activist, community organizer, and journalist, would generate quantitative indicators of lynching as state violence.\n\n. . .\n\nIntuition and method. Like many Black communities at the time and other allies, Wells-Barnett acknowledged both the personal (micro) social forces of racism and the systemic (macro) nature of white racial violence. In this case, this violence was expressed through the practice of lynching.\n\n. . .\n\nImpact. Wells-Barnett’s databases, and the use of number and quantification have a profound impact on the current view of state-sponsored racial violence."
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#lynching",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#lynching",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Lynching",
-    "text": "Lynching\nCaitlin Pollock has created software based on a series of extracted data from Wells-Barnett’s work. Although the data provides for quick loading and analysis, it does require some data wrangling.\n\n189318941895\n\n\nContent for 1893\n\n\n\nContent for 1894\n\n\nContent for 1895"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#concerns",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#concerns",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Concerns",
-    "text": "Concerns\nPollock deals with the issue of erasure in their development of the data."
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#section-3",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#section-3",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "",
-    "text": "Sandra Bland, killed by police in 2015, Texas"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#section-4",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#section-4",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "",
-    "text": "Breonna Taylor, killed by police in 2020, Louisville"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#section-5",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#section-5",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "",
-    "text": "Rayshard Brooks, killed by police in 2020, Atlanta"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#section-6",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#section-6",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "",
-    "text": "Rayshard Brooks, killed by police in 2020, Atlanta"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#section-7",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#section-7",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "",
-    "text": "George Floyd, killed by police in 2020, Minneapolis"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#fatal-interactions",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#fatal-interactions",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Fatal interactions",
-    "text": "Fatal interactions\nAlicia Chugtai (2020) developed an interactive site, Know their names, that chronicles Black people killed by police in the United States."
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#modeling-fatal-police-interactions-in-the-u.s.",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#modeling-fatal-police-interactions-in-the-u.s.",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Modeling fatal police interactions in the U.S.",
-    "text": "Modeling fatal police interactions in the U.S.\n\n\n\nFaculty and student research poster"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#campus-policing",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#campus-policing",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Campus Policing",
-    "text": "Campus Policing"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#campus-policing-timeline",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#campus-policing-timeline",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Campus Policing Timeline",
-    "text": "Campus Policing Timeline"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#prisons",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#prisons",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Prisons",
-    "text": "Prisons\n\n\n“In 2021, Black Americans were imprisoned at 5.0 times the rate of whites, while American Indians and Latinx people were imprisoned at 4.2 times and 2.4 times the white rate, respectively.” (The Sentencing Project, 2023)\n“One in five Black men born in 2001 is likely to experience imprisonment within their lifetime, a decline from one in three for those born in 1981. Pushback from policymakers threatens further progress in reducing racial inequity in incarceration.” (The Sentencing Project, 2023)"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#prisons-1",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#prisons-1",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Prisons",
-    "text": "Prisons\nThe U.S. Bureau of Justice Statistics maintains records of federal and state prison populations2."
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#prisons-2",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#prisons-2",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Prisons",
-    "text": "Prisons\n\nFederalStateFederal and State\n\n\nContent for federal\n\n\nContent for state\n\n\nContent for federal and state"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#racism-vs.-anti-blackness",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#racism-vs.-anti-blackness",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Racism vs. Anti-Blackness",
-    "text": "Racism vs. Anti-Blackness\nIn a 2020 NY Times article, kihana miraya ross chronicles the realities of anti-Blackness. ross (2020) deals with the related but differing functions of racism and anti-Blackness.\n\n\nross notes that “‘racism’ fails to fully capture what black people in this country are facing.”\nross continues by noting that “Anti-blackness is one way some black scholars have articulated what it means to be marked as black in an anti-black world.”\nBroadly, ross defines anti-Blackness as society’s inability to recognize Black people’s humanity.\n\n\n. . ."
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#footnotes",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#footnotes",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nVovelle, Michel (1987). Bourgeoisies de province et Revolution. Presses Universitaires de Grenoble.↩︎\nSource of data: Carson (2022). Prisoners in 2021 – Statistical tables. Bureau of Justice Statistics.↩︎"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#the-principles-of-reconstruction-still-a-viable-route-to-full-citizenship",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#the-principles-of-reconstruction-still-a-viable-route-to-full-citizenship",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "text": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship\nA focus on “Data Wells”: Data + Ida B. Wells-Barnett\n\n\nWe use the term “Data Wells” to describe how we practice the identification, input, and storage of what can be termed as critical insights data, or CIDs.\nWe use information in databases in four ways:\n\nstudying problems in the quantification of historical information across various axes: time, social constructs, and/or systemic issues,\ndata identification and wrangling,\ndata analysis and communication, and\nmodeling abstract inquiries.\n\nWe begin our analysis with Ida B. Wells-Barnett’s organization and analysis of lynching.\nWe describe “Data Wells” of U.S. state violence using quantitative history as a frame."
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#quantitative-history",
@@ -238,11 +84,18 @@
     "text": "George Floyd, killed by police in 2020, Minneapolis"
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#fatal-interactions",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#fatal-interactions",
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#fatal-police-interactions",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#fatal-police-interactions",
     "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Fatal interactions",
-    "text": "Fatal interactions\nAlicia Chugtai (2020) developed an interactive site, Know their names, that chronicles Black people killed by police in the United States."
+    "section": "Fatal police interactions",
+    "text": "Fatal police interactions\nAlicia Chugtai (2020) developed an interactive site, Know their names, that chronicles Black people killed by police in the United States."
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#anlayzing-policing-data",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#anlayzing-policing-data",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
+    "section": "Anlayzing policing data",
+    "text": "Anlayzing policing data\n\nSince 2015, the Washington Post has collected data on fatal police interactions in the United States."
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#modeling-fatal-police-interactions-in-the-u.s.",
@@ -284,7 +137,7 @@
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#prisons-2",
     "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Prisons",
-    "text": "Prisons\nTo support our framing of contemporary data, we take on an historical view.\n\nFederalStateFederal and State\n\n\nContent for federal\n\n\n\n\n\n\n\nContent for state\n\n\n\n\n\n\n\nContent for federal and state"
+    "text": "Prisons\nTo support our framing of contemporary data, we take on an historical view.\n\nFederalStateFederal and State\n\n\nFederal racialization data\n\n\n\n\n\n\n\nState racialization data\n\n\n\n\n\n\n\nFederal and State racialization data"
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#racism-vs.-anti-blackness",
@@ -292,145 +145,5 @@
     "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Racism vs. Anti-Blackness",
     "text": "Racism vs. Anti-Blackness\nIn a 2020 NY Times article, kihana miraya ross chronicles the realities of anti-Blackness. ross (2020) deals with the related but differing functions of racism and anti-Blackness.\n\n\nross notes that “‘racism’ fails to fully capture what black people in this country are facing.”\nross continues by noting that “Anti-blackness is one way some black scholars have articulated what it means to be marked as black in an anti-black world.”\nBroadly, ross defines anti-Blackness as society’s inability to recognize Black people’s humanity."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Quantitative Histories Workshop",
-    "section": "",
-    "text": "we quantify history and the social sciences to learn about in/justice & futurity."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Our Work",
-    "section": "",
-    "text": "We quantify history and the social sciences to learn about in/justice & futurity.\nOur lab works to identify sources of information for engagement and analysis across historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below.\nRecent Talks\n\n2024 Bob Moses Conference"
-  },
-  {
-    "objectID": "programs.html",
-    "href": "programs.html",
-    "title": "Programs",
-    "section": "",
-    "text": "Learn more about our programs!\n\nData Science and Critical Mathematics Program\nSummer program for high school students (info)\n\n\n\n\n\n\n\nCommunity Data Fellowship\nUndergraduate and graduate student academic year program\n\nAY2022-2023 projects\nAY2023-2024 projects\n\n\n\nTeaching and Community Educator Fellowships\nYear-round k-12 teacher and community educator program\n\nMen of Math Fellowship at the Institute for Racial Justice\n\n\n\nFaculty Development Program\nCollaborative faculty workshop series\n\nTeaching Open Source Workshop Series for HBCU faculty\n\n\n\nVirtual Exchange Program\nInternational cultural exchange program"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People and Partners",
-    "section": "",
-    "text": "Our lab is made up of a highly versatile and collaborative team of researchers."
-  },
-  {
-    "objectID": "people.html#collaborators",
-    "href": "people.html#collaborators",
-    "title": "People and Partners",
-    "section": "Collaborators",
-    "text": "Collaborators\n\nProject collaborators\nHye Ryeon Jang, Morehouse College\nHarlin Lee, University of North Carolina at Chapel Hill\nJoseph Dixon, Independent Consultant\nLorenzo Harper, University of North Carolina at Charlotte\n\n\nProgram collaborators\nThe Carpentries\nData Science Academy at NC State\nData Science Institute (DSI) at the University of Chicago\nUS-Africa Institute\n\n\nFunders\nAlfred P. Sloan Foundation\nAtlanta University Center Data Science Initiative (AUC DSI)\nCenter for Applied Data Science and Analytics (CADSA) at Howard University\nData.org\nInstitute for Racial Justice at Loyola University, Chicago\n\nFormer Lab Members\n\nRonald Carter (Howard University, MS student)\nMaya Phillips (Spelman College, Class of 2023)\nDalton Favors (Morehouse College, Class of 2024)\nHasan Henry (Morehouse College, Class of 2024)\nMatthew Mann (Morehouse College, Class of 2022)\nXavier McKenzie (Morehouse College, Class of 2023)"
-  },
-  {
-    "objectID": "lessons/lesson02-slides.html#overview-of-fatal-force-v2-files",
-    "href": "lessons/lesson02-slides.html#overview-of-fatal-force-v2-files",
-    "title": "Lesson 2",
-    "section": "Overview of Fatal Force v2 files",
-    "text": "Overview of Fatal Force v2 files"
-  },
-  {
-    "objectID": "lessons/lesson02-slides.html#data-prep-a-series-of-steps",
-    "href": "lessons/lesson02-slides.html#data-prep-a-series-of-steps",
-    "title": "Lesson 2",
-    "section": "Data prep: A series of steps",
-    "text": "Data prep: A series of steps"
-  },
-  {
-    "objectID": "lessons/lesson02.html#data-prep-a-series-of-steps",
-    "href": "lessons/lesson02.html#data-prep-a-series-of-steps",
-    "title": "Lesson 2",
-    "section": "Data prep: A series of steps",
-    "text": "Data prep: A series of steps"
-  },
-  {
-    "objectID": "lessons/lesson01-slides.html#the-quantitative-histories-workshop-model",
-    "href": "lessons/lesson01-slides.html#the-quantitative-histories-workshop-model",
-    "title": "Lesson 1",
-    "section": "The Quantitative Histories Workshop Model",
-    "text": "The Quantitative Histories Workshop Model\nPrep\nCode and data prep should follow the Good enough practices in scientific computing model.\nCode directory\nAnalysis\nAnalyses can be done in any software program and a clear summary of steps should be included.\nReporting\nAll reports should be generated using an .RMarkdown.\nCase study\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
-  },
-  {
-    "objectID": "lessons/lesson01-slides.html#data-prep-a-series-of-steps",
-    "href": "lessons/lesson01-slides.html#data-prep-a-series-of-steps",
-    "title": "Lesson 1",
-    "section": "Data prep: A series of steps",
-    "text": "Data prep: A series of steps\nStep 01: Import data Step 02: Process data Step 03: Clean data Step 04: Explore data Step 05: Analyze data"
-  },
-  {
-    "objectID": "lessons/lesson01-slides.html#data-analysis-your-theoretical-framework",
-    "href": "lessons/lesson01-slides.html#data-analysis-your-theoretical-framework",
-    "title": "Lesson 1",
-    "section": "Data analysis: Your theoretical framework",
-    "text": "Data analysis: Your theoretical framework\nWhat is your theoretical basis? What are your main hypotheses?"
-  },
-  {
-    "objectID": "lessons/lesson01-slides.html#data-reporting-creating-a-report",
-    "href": "lessons/lesson01-slides.html#data-reporting-creating-a-report",
-    "title": "Lesson 1",
-    "section": "Data reporting: Creating a report",
-    "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
-  },
-  {
-    "objectID": "lessons/lesson01.html",
-    "href": "lessons/lesson01.html",
-    "title": "Lesson 1",
-    "section": "",
-    "text": "Code and data prep should follow the Good enough practices in scientific computing model.\nCode directory\n\n\n\nAnalyses can be done in any software program and a clear summary of steps should be included.\n\n\n\nAll reports should be generated using an .RMarkdown.\n\n\n\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
-  },
-  {
-    "objectID": "lessons/lesson01.html#the-quantitative-histories-workshop-model",
-    "href": "lessons/lesson01.html#the-quantitative-histories-workshop-model",
-    "title": "Lesson 1",
-    "section": "",
-    "text": "Code and data prep should follow the Good enough practices in scientific computing model.\nCode directory\n\n\n\nAnalyses can be done in any software program and a clear summary of steps should be included.\n\n\n\nAll reports should be generated using an .RMarkdown.\n\n\n\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
-  },
-  {
-    "objectID": "lessons/lesson01.html#data-prep-a-series-of-steps",
-    "href": "lessons/lesson01.html#data-prep-a-series-of-steps",
-    "title": "Lesson 1",
-    "section": "Data prep: A series of steps",
-    "text": "Data prep: A series of steps\nStep 01: Import data Step 02: Process data Step 03: Clean data Step 04: Explore data Step 05: Analyze data"
-  },
-  {
-    "objectID": "lessons/lesson01.html#data-analysis-your-theoretical-framework",
-    "href": "lessons/lesson01.html#data-analysis-your-theoretical-framework",
-    "title": "Lesson 1",
-    "section": "Data analysis: Your theoretical framework",
-    "text": "Data analysis: Your theoretical framework\nWhat is your theoretical basis? What are your main hypotheses?"
-  },
-  {
-    "objectID": "lessons/lesson01.html#data-reporting-creating-a-report",
-    "href": "lessons/lesson01.html#data-reporting-creating-a-report",
-    "title": "Lesson 1",
-    "section": "Data reporting: Creating a report",
-    "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#a-focus-on-data-wells-data-ida-b.-wells-barnett",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#a-focus-on-data-wells-data-ida-b.-wells-barnett",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "A focus on “Data Wells”: Data + Ida B. Wells-Barnett",
-    "text": "A focus on “Data Wells”: Data + Ida B. Wells-Barnett\n\n\nWe use the term “Data Wells” to describe how we practice the identification, input, and storage of what can be termed as critical insights data, or CIDs.\nWe use information in databases in four ways:\n\nstudying problems in the quantification of historical information across various axes: time, social constructs, and/or systemic issues,\ndata identification and wrangling,\ndata analysis and communication, and\nmodeling abstract inquiries.\n\nWe begin our analysis with Ida B. Wells-Barnett’s organization and analysis of lynching.\nWe describe “Data Wells” of U.S. state violence using quantitative history as a frame."
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#fatal-police-interactions",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#fatal-police-interactions",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Fatal police interactions",
-    "text": "Fatal police interactions\nAlicia Chugtai (2020) developed an interactive site, Know their names, that chronicles Black people killed by police in the United States."
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#principles-of-reconstruction",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#principles-of-reconstruction",
-    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
-    "section": "Principles of Reconstruction",
-    "text": "Principles of Reconstruction\n\n\nDu Bois’ (1935) Black Reconstruction: An Essay Toward a History of the Part which Black Folk Played in the Attempt to Reconstruct Democracy in America, 1860-1880 offers an alternative assessment of the post-Civil War period in the United States.\nDemocracy provided a new narrative at the time to examine African American progress post enslavement, and it continued to challenge long-standing narratives about racial hierarchy.\nRecently, notable scholars, such as Gloria Ladson-Billings, return to the importance of narratives of democracy in relation to the promise and perils of education and society broadly, while also highlighting the limits of liberalism."
   }
 ]

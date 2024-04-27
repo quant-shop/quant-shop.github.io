@@ -1,0 +1,89 @@
+---
+title: "Data Wells: Race and State Violence in the United States from 1892"
+subtitle: "Quantitative Histories Workshop"
+author:
+  - name: Nathan Alexander
+    affiliations:
+      - ref: hu
+  - name: Kade Davis
+    affiliations:
+      - ref: mc
+  - name: Basil Ghali
+    affiliations:
+      - ref: hu
+  - name: Qyana Stewart
+    affiliations:
+      - ref: hu
+  - name: Gabriella La Cour
+    affiliations:
+      - ref: sc
+affiliations:
+  - id: hu
+    name: Howard University
+    city: Washington
+    state: DC
+  - id: mc
+    name: Morehouse College
+    city: Atlanta
+    state: GA
+  - id: sc
+    name: Spelman College
+    city: Atlanta
+    state: GA
+  - id: cd
+    name: Center for Applied Data Science and Analytics
+    city: Washington
+    state: DC
+format:
+  pdf:
+    pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+    self-contained: true
+    embed-resources: true 
+  html:
+    self-contained: true
+    embed-resources: true
+  revealjs:
+    output-file: 2024_04_27_bob_moses.qmd
+    height: 900
+    width: 1600
+    smaller: false
+    scrollable: true
+    slide-number: c/t #< collapsted/total
+    footer: ""
+    logo: "howard-logo.png"
+    toc: false
+    echo: true
+    incremental: false
+    self-contained: true
+---
+
+## [*Data*]{style="color:blue;"} + Ida Bell [*Wells*]{style="color:blue;"}-Barnett
+
+  - We use the term "[Data Wells]{style="color:blue;"}" to describe the planning, input, and storage of historical data.
+  
+  - We begin our analysis with Ida B. Wells-Barnett's development of a lynching database.
+  
+  - We describe other "Data Wells" on race and U.S. state violence via quantitative history.
+
+Thank you for citing today's presentation:
+
+Alexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. *The 2024 Bob Moses Conference*. [Online](https://www.bobmosesconference.com/){target="blank"}.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+

@@ -6,15 +6,9 @@ We quantify history and the social sciences to learn about in/justice & futurity
 
 Our lab works to identify sources of information for engagement and analysis across historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below.
 
-## Open activity (OA) projects
 
-::: column-inset
-| Research focus | Project Group | Links |
-|:--|:-|:-|
-| Measures of segregation | DSCM | |
-| Fatal force analysis | AJLab |  |
-| Census data | ECHO |  |
-:::
+Recent Talks
 
-## Quant-shop database
+  - [2024 Bob Moses Conference](work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd)
+
 

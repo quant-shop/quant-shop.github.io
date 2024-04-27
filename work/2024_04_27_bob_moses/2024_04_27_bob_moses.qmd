@@ -61,27 +61,29 @@ format:
     theme: default
 ---
 
-## [*Data*]{style="color:blue;"} + Ida B. [*Wells*]{style="color:blue;"}-Barnett
+## [*Data*]{style="color:darkgreen;"} + Ida B. [*Wells*]{style="color:darkgreen;"}-Barnett
 
 ::: {.incremental}
 
-  - A *well* is a structure created in the earth by digging, driving, or drilling to access valuable resources; a water well, unlike a cistern, draws from the *foundation* for resources.
+  - We use the term "[Data Wells]{style="color:darkgreen;"}" to describe how we practice the identification, input, and storage of what can be termed as critical insights data, or CIDs.
   
-  - We use "[Data Wells]{style="color:blue;"}" to describe the planning, input, and storage of critical historical data.
+  - We use information in databases in four ways: 
   
-  - We begin our analysis with Ida B. Wells-Barnett's development of a lynching database.
+    (1) studying problems in the [quantification of historical information]{style="color:red;"} across various axes: time, social constructs, and/or systemic issues, 
+    
+    (2) data [identification]{style="color:red;"} and [wrangling]{style="color:red;"}, 
+    
+    (3) data [analysis]{style="color:red;"} and [communication]{style="color:red;"}, and 
+    
+    (4) [modeling]{style="color:red;"} abstract inquiries.
   
-  - We describe other "Data Wells" on race and U.S. state violence via quantitative history.
+  - We begin our analysis with Ida B. Wells-Barnett's organization and analysis of lynching.
+  
+  - We describe "Data Wells" of U.S. state violence using quantitative history as a frame.
 
 :::
 
-. . .
-
-Thank you for citing today's presentation:
-
-Alexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. *The 2024 Bob Moses Conference*. [Online](https://www.bobmosesconference.com/){target="blank"}.
-
-# Quantitative Histories Workshop
+# Quantitative Histories Workshop {background-color="lightgrey"}
 
 `Curriculum & software development collective` 
 
@@ -122,15 +124,15 @@ library(patchwork)
 
 ::: {.column width="40%"}
 
-  - Quantitative history considers methods in the quantification of historical information.
+  - Quantitative history considers methods and approaches to artifacts as data and information.
   
-  - Historians like Pierre Chanu, author of the text to the right, are often centered but highlight more conservative historical narratives[^chanu].
+  - Historians like Pierre Chanu (book to the right) are centered in traditional texts; more traditional perspectives are uncovering troubling practices with regard to race[^chanu].
   
-  - Despite long-standing critiques, fewer historical narratives focus on the computational and data aspects of [critical histories]{style="color:orange;"}.
+  - Despite many long-standing critiques, there are [fewer critical dimensions]{style="color:orange;"} in [quantitative history] narratives.
   
 :::
 
-[^chanu]: Vovelle, Michel (1987). Bourgeoisies de province et Revolution. Presses Universitaires de Grenoble. p. quoted in Féhér.
+[^chanu]: Vovelle, Michel (1987). Bourgeoisies de province et Revolution. Presses Universitaires de Grenoble.
 
 ::: {.column width="60%"}
 
@@ -142,6 +144,10 @@ library(patchwork)
 
 ## Racialization and U.S. State Violence
 
+Today, we will explore three forms of state sponsored violence.
+
+. . .
+
   - Lynching
 
 . . .
@@ -152,19 +158,21 @@ library(patchwork)
 
   - Prisons
 
+## The Red Record
+
+  - **Personal experience**. In 1892, a close friend of Ida B. Wells-Barnett was lynched. Wells-Barnett, a known activist, community organizer, and journalist, would generate quantitative indicators of lynching as state violence.
+
+. . .
+
+  - **Intuition and method**. Like many Black communities at the time and other allies, Wells-Barnett acknowledged both the personal (micro) social forces of racism and the systemic (macro) nature of white racial violence. In this case, this violence was expressed through the practice of lynching.
+
+. . .
+
+  - **Impact**. Wells-Barnett's databases, and the use of number and quantification have a profound impact on the current view of state-sponsored racial violence.
+
 ## Lynching
 
-  - **Personal experience**. In 1892, a friend of Ida B. Wells-Barnett was lynched. Wells-Barnett, a known activist, community organizer, and journalist, would generate then-complex indicators of lynching.
-
-. . .
-
-  - **Intuition and method**. Like many other Black communities at the time and her allies, Wells-Barnett acknowledged both the very personal (micro) social forces of lynching and the systemic (macro) nature of white racial violence.
-
-. . .
-
-  - **Research impact**. Her development of a series of databases, and the use of number and quantification would have profound impact on the view of state-sponsored white racial violence for centuries.
-
-## The Red Record
+Caitlin Pollock has created [software](https://redrecord.cmjpollock.com/) based on a series of extracted data from Wells-Barnett's work. Although the data provides for quick loading and analysis, it does require some data wrangling.
 
 ::: {.panel-tabset}
 
@@ -172,13 +180,86 @@ library(patchwork)
 
 Content for 1893
 
+```{r}
+#| echo: false
+#| output: true
+#| warning: false
+df1893 <- read_sf("https://raw.githubusercontent.com/quant-shop/IdaBWellsProject/master/RedRecord/redrecord1893.geojson.txt")
+df1893
+
+```
+
 ### 1894
 
 Content for 1894
+
+```{r}
+#| echo: false
+#| output: true
+#| warning: false
+df1894 <- read_sf("https://raw.githubusercontent.com/quant-shop/IdaBWellsProject/master/RedRecord/redrecord1894.geojson.txt")
+df1894
+
+```
 
 ### 1895
 
 Content for 1895
 
+```{r}
+#| echo: false
+#| output: false
+#| warning: false
+install.packages("xml2", repos = "http://cran.us.r-project.org")
+install.packages("XML", repos = "http://cran.us.r-project.org")
+library(xml2)
+library(XML)
+df1895t <- read_xml("https://raw.githubusercontent.com/quant-shop/IdaBWellsProject/master/RedRecord/redrecord1895.xml")
+df1895t
+df1895s <- xmlParse(df1895t)
+```
+
+```{r}
+#| echo: false
+#| output: true
+#| warning: false
+df1895s
+```
+
 :::
+
+---
+
+## Concerns
+
+Pollock deals with the issue of erasure in their development of the data.
+
+## Police
+
+
+## Prisons
+
+::: {.panel-tabset}
+
+### Federal
+
+Content for federal
+
+### State
+
+Content for state
+
+### Federal and State
+
+Content for federal and state
+
+:::
+
+
+# Thank you
+. . .
+
+Thank you for joining us and citing today's presentation.
+
+Alexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. *The 2024 Bob Moses Conference*. [Online](https://www.bobmosesconference.com/){target="blank"}.
 

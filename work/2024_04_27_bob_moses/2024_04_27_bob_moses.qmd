@@ -127,7 +127,7 @@ library(geojsonio)
 
   - Quantitative history considers methods and approaches to artifacts as data and information.
   
-  - Historians like Pierre Chanu (book to the right) are centered in traditional texts; more traditional perspectives are uncovering troubling practices with regard to race[^chanu].
+  - Historians like Pierre Chanu (text to right) are centered in traditional texts; more perspectives are uncovering troubling practices with regard to race[^chanu].
   
   - Despite long-standing critiques, there are [few critical dimensions]{style="color:orange;"} in [quantitative history] narratives.
   
@@ -145,7 +145,7 @@ library(geojsonio)
 
 ## Racialization and U.S. State Violence
 
-Today, we will explore three forms of state sponsored violence.
+Today, we will discuss race and racialization in *data wells* of state sponsored violence:
 
 . . .
 
@@ -153,13 +153,13 @@ Today, we will explore three forms of state sponsored violence.
 
 . . .
 
-  - Police
+  - Policing
 
 . . .
 
   - Prisons
 
-## The Red Record
+## Ida B. Wells-Barnett on lynching
 
   - **Personal experience**. In 1892, a close friend of Ida B. Wells-Barnett was lynched. Wells-Barnett, a known activist, community organizer, and journalist, would generate quantitative indicators of lynching as state violence.
 
@@ -273,6 +273,9 @@ Pollock deals with the issue of erasure in their development of the data.
 #| echo: false
 #| output: false
 #| warning: false
+library(ggplot2)
+library(readr)
+library(dplyr)
 race <- c("Black", "American Indian", "Latinx", "White", "Asian")
 rate <- c(901, 763, 434, 181, 72)
 prison_rates_ethnicity <- data.frame(race, rate)
@@ -282,9 +285,11 @@ prison_rates_ethnicity <- data.frame(race, rate)
 #| echo: false
 #| output: true
 #| warning: false
-library(ggplot2)
-library(readr)
-library(dplyr)
+
+ggplot(prison_rates_ethnicity, aes(race, rate)) +
+  geom_col(fill="darkred") +
+  geom_text(aes(label=rate), vjust=1.6, color="white", size=3.5)+
+  theme_minimal()
 
 ```
 

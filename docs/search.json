@@ -1,5 +1,131 @@
 [
   {
+    "objectID": "manual.html",
+    "href": "manual.html",
+    "title": "Lab Manual",
+    "section": "",
+    "text": "This area is for lab members only.\nIf you are interested in our work, join us by clicking here."
+  },
+  {
+    "objectID": "manual.html#lessons",
+    "href": "manual.html#lessons",
+    "title": "Lab Manual",
+    "section": "Lessons",
+    "text": "Lessons\n\n\n\n\nLesson\nTitle\nResources\n\n\n\n\n0\nGetting started\n\n\n\n1\nIntroduction to the Quantitative Histories Workshop Model\n\n\n\n2\nCase Study 1: Fatal Police Interactions\n\n\n\n3\nCase Study 2: The Red Record"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "",
+    "text": "We use the term “Data Wells” to describe how we practice the identification, input, and storage of what can be termed as critical insights data, or CIDs.\nWe use information in databases in four ways:\n\nstudying problems in the quantification of historical information across various axes: time, social constructs, and/or systemic issues,\ndata identification and wrangling,\ndata analysis and communication, and\nmodeling abstract inquiries.\n\nWe begin our analysis with Ida B. Wells-Barnett’s organization and analysis of lynching.\nWe describe “Data Wells” of U.S. state violence using quantitative history as a frame."
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#data-ida-b.-wells-barnett",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#data-ida-b.-wells-barnett",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "",
+    "text": "We use the term “Data Wells” to describe how we practice the identification, input, and storage of what can be termed as critical insights data, or CIDs.\nWe use information in databases in four ways:\n\nstudying problems in the quantification of historical information across various axes: time, social constructs, and/or systemic issues,\ndata identification and wrangling,\ndata analysis and communication, and\nmodeling abstract inquiries.\n\nWe begin our analysis with Ida B. Wells-Barnett’s organization and analysis of lynching.\nWe describe “Data Wells” of U.S. state violence using quantitative history as a frame."
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#quantitative-history",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#quantitative-history",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Quantitative history",
+    "text": "Quantitative history\n\n\n\nQuantitative history considers methods and approaches to artifacts as data and information.\nHistorians like Pierre Chanu (book to the right) are centered in traditional texts; more traditional perspectives are uncovering troubling practices with regard to race1.\nDespite long-standing critiques, there are few critical dimensions in quantitative history narratives.\n\n\n\n\n\nHistoire Quantitative by Pierre Chanu"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#racialization-and-u.s.-state-violence",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#racialization-and-u.s.-state-violence",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Racialization and U.S. State Violence",
+    "text": "Racialization and U.S. State Violence\nToday, we will explore three forms of state sponsored violence.\n. . .\n\nLynching\n\n. . .\n\nPolice\n\n. . .\n\nPrisons"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#the-red-record",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#the-red-record",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "The Red Record",
+    "text": "The Red Record\n\nPersonal experience. In 1892, a close friend of Ida B. Wells-Barnett was lynched. Wells-Barnett, a known activist, community organizer, and journalist, would generate quantitative indicators of lynching as state violence.\n\n. . .\n\nIntuition and method. Like many Black communities at the time and other allies, Wells-Barnett acknowledged both the personal (micro) social forces of racism and the systemic (macro) nature of white racial violence. In this case, this violence was expressed through the practice of lynching.\n\n. . .\n\nImpact. Wells-Barnett’s databases, and the use of number and quantification have a profound impact on the current view of state-sponsored racial violence."
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#lynching",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#lynching",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Lynching",
+    "text": "Lynching\nCaitlin Pollock has created software based on a series of extracted data from Wells-Barnett’s work. Although the data provides for quick loading and analysis, it does require some data wrangling.\n\n18931893 map18941895\n\n\nContent for 1893\n\n\n\n\n\nContent for 1894\n\n\nContent for 1895"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#concerns",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#concerns",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Concerns",
+    "text": "Concerns\nPollock deals with the issue of erasure in their development of the data."
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#policing",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#policing",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Policing",
+    "text": "Policing"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#fatal-police-interactions",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#fatal-police-interactions",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Fatal police interactions",
+    "text": "Fatal police interactions\n\n\n\nFaculty and student research poster"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#campus-policing",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#campus-policing",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Campus Policing",
+    "text": "Campus Policing"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#campus-policing-timeline",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#campus-policing-timeline",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Campus Policing Timeline",
+    "text": "Campus Policing Timeline"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#racism",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#racism",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Racism",
+    "text": "Racism"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#prisons",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#prisons",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Prisons",
+    "text": "Prisons\n\n\n“In 2021, Black Americans were imprisoned at 5.0 times the rate of whites, while American Indians and Latinx people were imprisoned at 4.2 times and 2.4 times the white rate, respectively.” (The Sentencing Project, 2023)\n“One in five Black men born in 2001 is likely to experience imprisonment within their lifetime, a decline from one in three for those born in 1981. Pushback from policymakers threatens further progress in reducing racial inequity in incarceration.” (The Sentencing Project, 2023)"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#prisons-1",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#prisons-1",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Prisons",
+    "text": "Prisons"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#prisons-2",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#prisons-2",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Prisons",
+    "text": "Prisons\n\nFederalStateFederal and State\n\n\nContent for federal\n\n\nContent for state\n\n\nContent for federal and state"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#footnotes",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#footnotes",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nVovelle, Michel (1987). Bourgeoisies de province et Revolution. Presses Universitaires de Grenoble.↩︎"
+  },
+  {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#data-ida-b.-wells-barnett",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#data-ida-b.-wells-barnett",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
@@ -11,14 +137,14 @@
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#quantitative-history",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
     "section": "Quantitative history",
-    "text": "Quantitative history\n\n\n\nQuantitative history considers methods and approaches to artifacts as data and information.\nHistorians like Pierre Chanu (book to the right) are centered in traditional texts; more traditional perspectives are uncovering troubling practices with regard to race1.\nDespite long-standing critiques, there are few critical dimensions in quantitative history narratives.\n\n\n\n\n\nHistoire Quantitative by Pierre Chanu\n\n\n\n\nVovelle, Michel (1987). Bourgeoisies de province et Revolution. Presses Universitaires de Grenoble."
+    "text": "Quantitative history\n\n\n\nQuantitative history considers methods and approaches to artifacts as data and information.\nHistorians like Pierre Chanu (text to right) are centered in traditional texts; more perspectives are uncovering troubling practices with regard to race1.\nDespite long-standing critiques, there are few critical dimensions in quantitative history narratives.\n\n\n\n\n\nHistoire Quantitative by Pierre Chanu\n\n\n\n\nVovelle, Michel (1987). Bourgeoisies de province et Revolution. Presses Universitaires de Grenoble."
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#racialization-and-u.s.-state-violence",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#racialization-and-u.s.-state-violence",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
     "section": "Racialization and U.S. State Violence",
-    "text": "Racialization and U.S. State Violence\nToday, we will explore three forms of state sponsored violence.\n\n\nLynching\n\n\n\n\nPolice\n\n\n\n\nPrisons"
+    "text": "Racialization and U.S. State Violence\nToday, we will discuss race and racialization in data wells of state sponsored violence:\n\n\nLynching\n\n\n\n\nPolicing\n\n\n\n\nPrisons"
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#the-red-record",
@@ -49,6 +175,13 @@
     "text": "Policing"
   },
   {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#fatal-police-interactions",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#fatal-police-interactions",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Fatal police interactions",
+    "text": "Fatal police interactions\n\nFaculty and student research poster"
+  },
+  {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#campus-policing",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#campus-policing",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
@@ -61,6 +194,13 @@
     "title": "Data Wells: Race and State Violence in the United States from 1892",
     "section": "Campus Policing Timeline",
     "text": "Campus Policing Timeline"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#racism",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#racism",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Racism",
+    "text": "Racism"
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#prisons",
@@ -84,17 +224,129 @@
     "text": "Prisons\n\nFederalStateFederal and State\n\n\nContent for federal\n\n\nContent for state\n\n\nContent for federal and state"
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#racism",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#racism",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "Racism",
-    "text": "Racism"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Quantitative Histories Workshop",
+    "section": "",
+    "text": "we quantify history and the social sciences to learn about in/justice & futurity."
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#fatal-police-interactions",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#fatal-police-interactions",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Our Work",
+    "section": "",
+    "text": "We quantify history and the social sciences to learn about in/justice & futurity.\nOur lab works to identify sources of information for engagement and analysis across historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below.\nRecent Talks\n\n2024 Bob Moses Conference"
+  },
+  {
+    "objectID": "programs.html",
+    "href": "programs.html",
+    "title": "Programs",
+    "section": "",
+    "text": "Learn more about our programs!\n\nData Science and Critical Mathematics Program\nSummer program for high school students (info)\n\n\n\n\n\n\n\nCommunity Data Fellowship\nUndergraduate and graduate student academic year program\n\nAY2022-2023 projects\nAY2023-2024 projects\n\n\n\nTeaching and Community Educator Fellowships\nYear-round k-12 teacher and community educator program\n\nMen of Math Fellowship at the Institute for Racial Justice\n\n\n\nFaculty Development Program\nCollaborative faculty workshop series\n\nTeaching Open Source Workshop Series for HBCU faculty\n\n\n\nVirtual Exchange Program\nInternational cultural exchange program"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People and Partners",
+    "section": "",
+    "text": "Our lab is made up of a highly versatile and collaborative team of researchers."
+  },
+  {
+    "objectID": "people.html#collaborators",
+    "href": "people.html#collaborators",
+    "title": "People and Partners",
+    "section": "Collaborators",
+    "text": "Collaborators\n\nProject collaborators\nHye Ryeon Jang, Morehouse College\nHarlin Lee, University of North Carolina at Chapel Hill\nJoseph Dixon, Independent Consultant\nLorenzo Harper, University of North Carolina at Charlotte\n\n\nProgram collaborators\nThe Carpentries\nData Science Academy at NC State\nData Science Institute (DSI) at the University of Chicago\nUS-Africa Institute\n\n\nFunders\nAlfred P. Sloan Foundation\nAtlanta University Center Data Science Initiative (AUC DSI)\nCenter for Applied Data Science and Analytics (CADSA) at Howard University\nData.org\nInstitute for Racial Justice at Loyola University, Chicago\n\nFormer Lab Members\n\nRonald Carter (Howard University, MS student)\nMaya Phillips (Spelman College, Class of 2023)\nDalton Favors (Morehouse College, Class of 2024)\nHasan Henry (Morehouse College, Class of 2024)\nMatthew Mann (Morehouse College, Class of 2022)\nXavier McKenzie (Morehouse College, Class of 2023)"
+  },
+  {
+    "objectID": "lessons/lesson02-slides.html#overview-of-fatal-force-v2-files",
+    "href": "lessons/lesson02-slides.html#overview-of-fatal-force-v2-files",
+    "title": "Lesson 2",
+    "section": "Overview of Fatal Force v2 files",
+    "text": "Overview of Fatal Force v2 files"
+  },
+  {
+    "objectID": "lessons/lesson02-slides.html#data-prep-a-series-of-steps",
+    "href": "lessons/lesson02-slides.html#data-prep-a-series-of-steps",
+    "title": "Lesson 2",
+    "section": "Data prep: A series of steps",
+    "text": "Data prep: A series of steps"
+  },
+  {
+    "objectID": "lessons/lesson02.html#data-prep-a-series-of-steps",
+    "href": "lessons/lesson02.html#data-prep-a-series-of-steps",
+    "title": "Lesson 2",
+    "section": "Data prep: A series of steps",
+    "text": "Data prep: A series of steps"
+  },
+  {
+    "objectID": "lessons/lesson01-slides.html#the-quantitative-histories-workshop-model",
+    "href": "lessons/lesson01-slides.html#the-quantitative-histories-workshop-model",
+    "title": "Lesson 1",
+    "section": "The Quantitative Histories Workshop Model",
+    "text": "The Quantitative Histories Workshop Model\nPrep\nCode and data prep should follow the Good enough practices in scientific computing model.\nCode directory\nAnalysis\nAnalyses can be done in any software program and a clear summary of steps should be included.\nReporting\nAll reports should be generated using an .RMarkdown.\nCase study\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
+  },
+  {
+    "objectID": "lessons/lesson01-slides.html#data-prep-a-series-of-steps",
+    "href": "lessons/lesson01-slides.html#data-prep-a-series-of-steps",
+    "title": "Lesson 1",
+    "section": "Data prep: A series of steps",
+    "text": "Data prep: A series of steps\nStep 01: Import data Step 02: Process data Step 03: Clean data Step 04: Explore data Step 05: Analyze data"
+  },
+  {
+    "objectID": "lessons/lesson01-slides.html#data-analysis-your-theoretical-framework",
+    "href": "lessons/lesson01-slides.html#data-analysis-your-theoretical-framework",
+    "title": "Lesson 1",
+    "section": "Data analysis: Your theoretical framework",
+    "text": "Data analysis: Your theoretical framework\nWhat is your theoretical basis? What are your main hypotheses?"
+  },
+  {
+    "objectID": "lessons/lesson01-slides.html#data-reporting-creating-a-report",
+    "href": "lessons/lesson01-slides.html#data-reporting-creating-a-report",
+    "title": "Lesson 1",
+    "section": "Data reporting: Creating a report",
+    "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
+  },
+  {
+    "objectID": "lessons/lesson01.html",
+    "href": "lessons/lesson01.html",
+    "title": "Lesson 1",
+    "section": "",
+    "text": "Code and data prep should follow the Good enough practices in scientific computing model.\nCode directory\n\n\n\nAnalyses can be done in any software program and a clear summary of steps should be included.\n\n\n\nAll reports should be generated using an .RMarkdown.\n\n\n\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
+  },
+  {
+    "objectID": "lessons/lesson01.html#the-quantitative-histories-workshop-model",
+    "href": "lessons/lesson01.html#the-quantitative-histories-workshop-model",
+    "title": "Lesson 1",
+    "section": "",
+    "text": "Code and data prep should follow the Good enough practices in scientific computing model.\nCode directory\n\n\n\nAnalyses can be done in any software program and a clear summary of steps should be included.\n\n\n\nAll reports should be generated using an .RMarkdown.\n\n\n\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
+  },
+  {
+    "objectID": "lessons/lesson01.html#data-prep-a-series-of-steps",
+    "href": "lessons/lesson01.html#data-prep-a-series-of-steps",
+    "title": "Lesson 1",
+    "section": "Data prep: A series of steps",
+    "text": "Data prep: A series of steps\nStep 01: Import data Step 02: Process data Step 03: Clean data Step 04: Explore data Step 05: Analyze data"
+  },
+  {
+    "objectID": "lessons/lesson01.html#data-analysis-your-theoretical-framework",
+    "href": "lessons/lesson01.html#data-analysis-your-theoretical-framework",
+    "title": "Lesson 1",
+    "section": "Data analysis: Your theoretical framework",
+    "text": "Data analysis: Your theoretical framework\nWhat is your theoretical basis? What are your main hypotheses?"
+  },
+  {
+    "objectID": "lessons/lesson01.html#data-reporting-creating-a-report",
+    "href": "lessons/lesson01.html#data-reporting-creating-a-report",
+    "title": "Lesson 1",
+    "section": "Data reporting: Creating a report",
+    "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#ida-b.-wells-barnett-on-lynching",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#ida-b.-wells-barnett-on-lynching",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "Fatal police interactions",
-    "text": "Fatal police interactions\n\nFaculty and student research poster"
+    "section": "Ida B. Wells-Barnett on lynching",
+    "text": "Ida B. Wells-Barnett on lynching\n\nPersonal experience. In 1892, a close friend of Ida B. Wells-Barnett was lynched. Wells-Barnett, a known activist, community organizer, and journalist, would generate quantitative indicators of lynching as state violence.\n\n\n\nIntuition and method. Like many Black communities at the time and other allies, Wells-Barnett acknowledged both the personal (micro) social forces of racism and the systemic (macro) nature of white racial violence. In this case, this violence was expressed through the practice of lynching.\n\n\n\n\nImpact. Wells-Barnett’s databases, and the use of number and quantification have a profound impact on the current view of state-sponsored racial violence."
   }
 ]

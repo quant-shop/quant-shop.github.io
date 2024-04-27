@@ -244,7 +244,25 @@ Content for 1895
 
 Pollock deals with the issue of erasure in their development of the data.
 
-## Policing {background-image="https://media.cnn.com/api/v1/images/stellar/prod/200709194059-09-week-in-photos-0710.jpg?q=w_1480,c_fill" background-opacity=0.5}
+## {background-image="https://www.bostonreview.net/wp-content/uploads/2022/10/Nathan-Waller-feature-1.jpg" background-opacity=0.5}
+
+Sandra Bland, killed by police in 2015, Texas
+
+## {background-image="https://media.cnn.com/api/v1/images/stellar/prod/200709194059-09-week-in-photos-0710.jpg?q=w_1480,c_fill" background-opacity=0.5}
+
+Breonna Taylor, killed by police in 2020, Louisville
+
+## {background-image="https://media.cnn.com/api/v1/images/stellar/prod/200615134817-atlanta-wendys-fire-0613.jpg?q=w_1576,c_fill" background-opacity=0.5}
+
+Rayshard Brooks, killed by police in 2020, Atlanta
+
+## {background-image="https://media.cnn.com/api/v1/images/stellar/prod/200613193913-16-protests-0613-atlanta.jpg?q=w_1576,c_fill" background-opacity=0.5}
+
+Rayshard Brooks, killed by police in 2020, Atlanta
+
+## {background-image="https://media.cnn.com/api/v1/images/stellar/prod/200615140632-brooklyn-hospital-protest-0611.jpg?q=w_1576,c_fill" background-opacity=0.5}
+
+George Floyd, killed by police on May 25, 2020, Minneapolis
 
 ## Fatal police interactions
 

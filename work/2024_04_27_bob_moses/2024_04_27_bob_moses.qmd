@@ -72,18 +72,8 @@ Thank you for citing today's presentation:
 
 Alexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. *The 2024 Bob Moses Conference*. [Online](https://www.bobmosesconference.com/){target="blank"}.
 
-## Bullets
+## Slide
 
-When you click the **Render** button a document will be generated that includes:
 
--   Content authored with markdown
--   Output from executable code
-
-## Code
-
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
+## Slide
 

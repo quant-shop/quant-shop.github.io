@@ -53,7 +53,6 @@ format:
     scrollable: true
     slide-number: c/t #< collapsted/total
     footer: ""
-    logo: "howard-logo.png"
     toc: false
     echo: true
     incremental: false
@@ -130,7 +129,7 @@ library(geojsonio)
   
   - Historians like Pierre Chanu (book to the right) are centered in traditional texts; more traditional perspectives are uncovering troubling practices with regard to race[^chanu].
   
-  - Despite many long-standing critiques, there are [fewer critical dimensions]{style="color:orange;"} in [quantitative history] narratives.
+  - Despite long-standing critiques, there are [few critical dimensions]{style="color:orange;"} in [quantitative history] narratives.
   
 :::
 
@@ -151,8 +150,6 @@ Today, we will explore three forms of state sponsored violence.
 . . .
 
   - Lynching 
-
-![Ida B. Wells-Barnett](ida1.jpg){width=50%}
 
 . . .
 
@@ -249,17 +246,24 @@ Pollock deals with the issue of erasure in their development of the data.
 
 ## Policing {background-image="https://media.cnn.com/api/v1/images/stellar/prod/200709194059-09-week-in-photos-0710.jpg?q=w_1480,c_fill" background-opacity=0.5}
 
+## Fatal police interactions
+
+![Faculty and student research poster](poster3.png)
 
 ## Campus Policing {background-image="https://media.cnn.com/api/v1/images/stellar/prod/240425164732-30-university-campus-protests-unf.jpg?q=w_1480,c_fill" background-opacity=0.5}
 
+## Campus Policing Timeline {background-image="campus-policing-timeline.jpg" background-opacity=1}
+
+## Racism {background-image="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MZZA54YTFZFGZD3GMHM7LBDGLE.jpg&w=1484
+" background-opacity=0.5}
 
 ## Prisons {background-image="https://www.urban.org/sites/default/files/shutterstock_365427041_crop.jpg" background-opacity=0.5}
 
 ::: {.incremental}
 
-  - In 2021, Black Americans were imprisoned at 5.0 times the rate of whites, while American Indians and Latinx people were imprisoned at 4.2 times and 2.4 times the white rate, respectively ([The Sentencing Project](https://www.sentencingproject.org/reports/one-in-five-ending-racial-inequity-in-incarceration/), 2023)
+  - "In 2021, Black Americans were imprisoned at 5.0 times the rate of whites, while American Indians and Latinx people were imprisoned at 4.2 times and 2.4 times the white rate, respectively." ([The Sentencing Project](https://www.sentencingproject.org/reports/one-in-five-ending-racial-inequity-in-incarceration/), 2023)
 
-  - One in five Black men born in 2001 is likely to experience imprisonment within their lifetime, a decline from one in three for those born in 1981. Pushback from policymakers threatens further progress in reducing racial inequity in incarceration.
+  - "One in five Black men born in 2001 is likely to experience imprisonment within their lifetime, a decline from one in three for those born in 1981. Pushback from policymakers threatens further progress in reducing racial inequity in incarceration." ([The Sentencing Project](https://www.sentencingproject.org/reports/one-in-five-ending-racial-inequity-in-incarceration/), 2023)
 
 :::
 

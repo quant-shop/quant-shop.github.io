@@ -252,9 +252,17 @@ Rayshard Brooks, killed by police in 2020, Atlanta
 
 ## {background-image="https://media.cnn.com/api/v1/images/stellar/prod/200615140632-brooklyn-hospital-protest-0611.jpg?q=w_1576,c_fill" background-opacity=0.5}
 
-George Floyd, killed by police on May 25, 2020, Minneapolis
+George Floyd, killed by police in 2020, Minneapolis
 
-## Fatal police interactions
+## Fatal interactions
+
+[Alicia Chugtai (2020)](https://interactive.aljazeera.com/aje/2020/know-their-names/index.html) developed an interactive site, **Know their names**, that chronicles Black people killed by police in the United States.
+
+```{=html}
+<iframe width="1540" height="1000" src="https://interactive.aljazeera.com/aje/2020/know-their-names/index.html" title="Know their names"></iframe>
+```
+
+## Modeling fatal police interactions in the U.S.
 
 ![Faculty and student research poster](poster3.png)
 
@@ -274,7 +282,7 @@ George Floyd, killed by police on May 25, 2020, Minneapolis
 
 ## Prisons
 
-The U.S. Bureua of Justice Statistics maintains records of federal and state prison populations[^carson].
+The U.S. Bureau of Justice Statistics maintains records of federal and state prison populations[^carson].
 
 ```{r}
 #| echo: false
@@ -342,7 +350,7 @@ In a 2020 NY Times article, kihana miraya ross chronicles the realities of anti-
 
 . . .
 
-# Thank you
+# Gratitude for your time.
 . . .
 
 Thank you for joining us and citing today's presentation.

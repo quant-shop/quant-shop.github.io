@@ -72,7 +72,46 @@ Thank you for citing today's presentation:
 
 Alexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. *The 2024 Bob Moses Conference*. [Online](https://www.bobmosesconference.com/){target="blank"}.
 
-## Slide
+# Quantitative Histories Workshop
+
+`Curriculum & software development collective` 
+
+and
+
+[research lab]{style="color:orange;"}
+
+
+```{r}
+#| echo: false
+#| output: false
+#| warning: false
+
+# install all required packages
+require("terra")
+require(tidyverse)
+install.packages("tidycensus", repos = "http://cran.us.r-project.org")
+require(tmap)
+require("ggiraph")
+require(mapdeck)
+require(ggplot2)
+
+# load all required libraries
+library(tidycensus)
+library(tidyverse)
+library(tigris)
+library(tidycensus)
+library(tidyverse)
+library(patchwork)
+library(scales)
+library(ggplot2)
+library(sf)
+library(patchwork)
+
+```
+
+# Quantitative history
+
+![*Historie Quantitative* by Pierre Chaunu](quanthist.jpg){width=50%}
 
 
 ## Slide

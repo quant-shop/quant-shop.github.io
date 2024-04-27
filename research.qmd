@@ -9,6 +9,6 @@ Our lab works to identify sources of information for engagement and analysis acr
 
 Recent Talks
 
-  - [2024 Bob Moses Conference](work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd)
+  - [2024 Bob Moses Conference](work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#/title-slide)
 
 

@@ -230,8 +230,6 @@ df1895
 
 :::
 
----
-
 ## {background-image="https://www.bostonreview.net/wp-content/uploads/2022/10/Nathan-Waller-feature-1.jpg" background-opacity=0.5}
 
 Sandra Bland, killed by police in 2015, Texas
@@ -256,6 +254,7 @@ George Floyd, killed by police in 2020, Minneapolis
 <iframe width="1540" height="1000" src="https://interactive.aljazeera.com/aje/2020/know-their-names/index.html" title="Know their names" data-external="1"></iframe>
 ```
 
+
 ## Histories of police violence
 
   - Ku Klux Klan origin and membership
@@ -263,6 +262,7 @@ George Floyd, killed by police in 2020, Minneapolis
   - *American Policing: Protect Private Property, Not People*, by David Todd
   
   - Cop Cities (see, Atlanta) and the militarization of local police
+
 
 ## Media Framing
 
@@ -283,6 +283,7 @@ In *Race and Police Brutality: The Importance of Media Framing* (Fridkin, 2017) 
     - Black Americans make up 40 percent of police fatalities and 14 percent of the population.
   
 :::
+
 
 ## Anlayzing policing data
 
@@ -308,13 +309,12 @@ In *Race and Police Brutality: The Importance of Media Framing* (Fridkin, 2017) 
 
 [^cor]: **Correlation is significant at the 0.01 level
 
+
 ## Modeling fatal police interactions in the U.S.
 
 ![Faculty and student research poster](poster3.png)
 
 ## Campus Policing {background-image="https://media.cnn.com/api/v1/images/stellar/prod/240425164732-30-university-campus-protests-unf.jpg?q=w_1480,c_fill" background-opacity=0.5}
-
-## Campus Policing Timeline {background-image="campus-policing-timeline.jpg" background-opacity=1}
 
 ## Prisons {background-image="https://www.urban.org/sites/default/files/shutterstock_365427041_crop.jpg" background-opacity=0.5}
 
@@ -325,6 +325,7 @@ In *Race and Police Brutality: The Importance of Media Framing* (Fridkin, 2017) 
   - "One in five Black men born in 2001 is likely to experience imprisonment within their lifetime, a decline from one in three for those born in 1981. Pushback from policymakers threatens further progress in reducing racial inequity in incarceration." ([The Sentencing Project](https://www.sentencingproject.org/reports/one-in-five-ending-racial-inequity-in-incarceration/), 2023)
 
 :::
+
 
 ## Policing on college campuses
 
@@ -361,6 +362,7 @@ In *Race and Police Brutality: The Importance of Media Framing* (Fridkin, 2017) 
     - Need for consensus on protection versus imperilment
 
 :::
+
 
 ## Policing on college campuses
 
@@ -472,7 +474,6 @@ f1 + f2
 ```
 
 
-
 ### State
 
 State racialization data
@@ -505,7 +506,6 @@ s2 <- ggplot(df_federal, aes(x=date, y=BlackPct)) +
 #| output: true
 #| warning: false
 s1 + s2
-
 ```
 
 ### Federal and State
@@ -558,29 +558,6 @@ In a 2020 NY Times article, kihana miraya ross chronicles the realities of anti-
 
 :::
 
-## Exploration of journal articles and citations related racism
-
-Topic modeling research approach in STEM education journals
-
-  - Bibliometric analysis: who is citing who? who is discussing what?
-  
-  - Topic modeling: what are different networks discussing? and how?
-
-## Exploration of journal articles and citations related to racism
-
-Topic modeling research approach in STEM education journals
-
-  - What are the historical trends and patterns in the research on racism as reflected in journal articles? 
-  
-![Quanteda topic modeling framework by Benoit et al. (2018) ](quanteda.png){width=50%}
-
-## Hypothesis 1: Peaks in research occur within some key historical interval $(t_1, t_2)$.
-
-![Publications and citations related to racism in STEM education](report.png)
-
-## Hypothesis 2: These intervals are lag models of broader system searches $(t_1, t_2)$.
-
-![Searches related to racism](racism-10year.jpeg)
 
 # Broad Implications
 
@@ -599,5 +576,5 @@ Topic modeling research approach in STEM education journals
 
 Thank you for joining us and citing today's presentation.
 
-Alexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). The Principles of Reconstruction: Still a Viable Route to Full Citizenship. *The 2024 Bob Moses Conference*. [Online](https://www.bobmosesconference.com/){target="blank"}.
+Alexander, N., Davis, K., Ghali, B., Stewart, Q., & La Cour, G. (2024, April 26). The Principles of Reconstruction: Still a Viable Route to Full Citizenship. *The 2024 Bob Moses Conference*. [Online](https://www.bobmosesconference.com/){target="blank"}.
 

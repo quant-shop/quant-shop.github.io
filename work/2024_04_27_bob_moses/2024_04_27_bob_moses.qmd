@@ -65,7 +65,9 @@ format:
 
 ::: {.incremental}
 
-  - We use "[Data Wells]{style="color:blue;"}" to describe the planning, input, and storage of historical data.
+  - A *well* is a structure created in the earth by digging, driving, or drilling to access valuable resources; a water well, unlike a cistern, draws from the *foundation* for resources.
+  
+  - We use "[Data Wells]{style="color:blue;"}" to describe the planning, input, and storage of critical historical data.
   
   - We begin our analysis with Ida B. Wells-Barnett's development of a lynching database.
   
@@ -138,13 +140,24 @@ library(patchwork)
 
 ::::
 
+## Race and State Violence
+
+
+## Ida B. Wells-Barnett and the lynching incident
+
+  - **Personal experience**. In 1892, a friend of Ida B. Wells-Barnett was lynched. Wells-Barnett, a known activist, community organizer, and journalist, would generate then-complex indicators of lynching.
+
+. . .
+
+  - **Intuition and method**. Like many other Black communities at the time and her allies, Wells-Barnett acknowledged both the very personal (micro) social forces of lynching and the systemic (macro) nature of white racial violence.
+
+. . .
+
+  - **Research impact**. Her development of a series of databases, and the use of number and quantification would have profound impact on the view of state-sponsored white racial violence for centuries.
+
 ## The Red Record
 
 ::: {.panel-tabset}
-
-### 1892
-
-Content for 1892
 
 ### 1893
 
@@ -153,6 +166,10 @@ Content for 1893
 ### 1894
 
 Content for 1894
+
+### 1895
+
+Content for 1895
 
 :::
 

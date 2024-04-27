@@ -35,11 +35,11 @@
     "text": "Quantitative history\n\n\n\nQuantitative history considers methods in the quantification of historical information.\nHistorians like Pierre Chanu, author of the text to the right, are often centered but highlight more conservative historical narratives1.\nDespite long-standing critiques, fewer historical narratives focus on the computational and data aspects of critical histories.\n\n\n\n\n\nHistoire Quantitative by Pierre Chanu"
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#slide",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#slide",
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#the-red-record",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#the-red-record",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "Slide",
-    "text": "Slide"
+    "section": "The Red Record",
+    "text": "The Red Record\n\n189218931894\n\n\nContent for 1892\n\n\nContent for 1893\n\n\nContent for 1894"
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#footnotes",
@@ -53,7 +53,7 @@
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#data-ida-bell-wells-barnett",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
     "section": "Data + Ida Bell Wells-Barnett",
-    "text": "Data + Ida Bell Wells-Barnett\n\n\nWe use “Data Wells” to describe the planning, input, and storage of historical data.\nWe begin our analysis with Ida B. Wells-Barnett’s development of a lynching database.\nWe describe other “Data Wells” on race and U.S. state violence via quantitative history.\n\n\n\nThank you for citing today’s presentation:\nAlexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. The 2024 Bob Moses Conference. Online."
+    "text": "Data + Ida Bell Wells-Barnett\n\n\nA well is a structure created in the earth by digging, driving, or drilling to access valuable resources; a water well, unlike a cistern, draws from the foundation for resources.\nWe use “Data Wells” to describe the planning, input, and storage of critical historical data.\nWe begin our analysis with Ida B. Wells-Barnett’s development of a lynching database.\nWe describe other “Data Wells” on race and U.S. state violence via quantitative history.\n\n\n\nThank you for citing today’s presentation:\nAlexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. The 2024 Bob Moses Conference. Online."
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#quantitative-history",
@@ -63,11 +63,11 @@
     "text": "Quantitative history\n\n\n\nQuantitative history considers methods in the quantification of historical information.\nHistorians like Pierre Chanu, author of the text to the right, are often centered but highlight more conservative historical narratives1.\nDespite long-standing critiques, fewer historical narratives focus on the computational and data aspects of critical histories.\n\n\n\n\n\nHistoire Quantitative by Pierre Chanu\n\n\n\n\nVovelle, Michel (1987). Bourgeoisies de province et Revolution. Presses Universitaires de Grenoble. p. quoted in Féhér."
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#slide",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#slide",
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#the-red-record",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#the-red-record",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "Slide",
-    "text": "Slide"
+    "section": "The Red Record",
+    "text": "The Red Record\n\n189318941895\n\n\nContent for 1893\n\n\nContent for 1894\n\n\nContent for 1895"
   },
   {
     "objectID": "about.html",
@@ -189,10 +189,17 @@
     "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#the-red-record",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#the-red-record",
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#race-and-state-violence",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#race-and-state-violence",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "The Red Record",
-    "text": "The Red Record\n\n189218931894\n\n\nContent for 1892\n\n\nContent for 1893\n\n\nContent for 1894"
+    "section": "Race and State Violence",
+    "text": "Race and State Violence"
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#ida-b.-wells-barnett-and-the-lynching-incident",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#ida-b.-wells-barnett-and-the-lynching-incident",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Ida B. Wells-Barnett and the lynching incident",
+    "text": "Ida B. Wells-Barnett and the lynching incident\n\nPersonal experience. In 1892, a friend of Ida B. Wells-Barnett was lynched. Wells-Barnett, a known activist, community organizer, and journalist, would generate then-complex indicators of lynching.\n\n\n\nIntuition and method. Like many other Black communities at the time and her allies, Wells-Barnett acknowledged both the very personal (micro) social forces of lynching and the systemic (macro) nature of white racial violence.\n\n\n\n\nResearch impact. Her development of a series of databases, and the use of number and quantification would have profound impact on the view of state-sponsored white racial violence for centuries."
   }
 ]

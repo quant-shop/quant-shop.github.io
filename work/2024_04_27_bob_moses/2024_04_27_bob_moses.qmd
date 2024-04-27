@@ -259,7 +259,7 @@ George Floyd, killed by police in 2020, Minneapolis
 [Alicia Chugtai (2020)](https://interactive.aljazeera.com/aje/2020/know-their-names/index.html) developed an interactive site, **Know their names**, that chronicles Black people killed by police in the United States.
 
 ```{=html}
-<iframe width="1540" height="1000" src="https://interactive.aljazeera.com/aje/2020/know-their-names/index.html" title="Know their names"></iframe>
+<iframe width="1540" height="1000" src="https://interactive.aljazeera.com/aje/2020/know-their-names/index.html" title="Know their names" data-external="1"></iframe>
 ```
 
 ## Modeling fatal police interactions in the U.S.

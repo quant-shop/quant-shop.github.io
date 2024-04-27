@@ -150,7 +150,9 @@ Today, we will explore three forms of state sponsored violence.
 
 . . .
 
-  - Lynching
+  - Lynching 
+
+![Ida B. Wells-Barnett](ida1.jpg){width=50%}
 
 . . .
 
@@ -184,12 +186,21 @@ Content for 1893
 
 ```{r}
 #| echo: false
+#| output: false
+#| warning: false
+library(geojsonio)
+df1893 <- geojson_read("https://raw.githubusercontent.com/professornaite/red-record/main/data/1893map.geojson")
+df1893
+```
+
+```{r}
+#| echo: false
 #| output: true
 #| warning: false
-df1893 <- read_sf("https://raw.githubusercontent.com/quant-shop/IdaBWellsProject/master/RedRecord/redrecord1893.geojson.txt")
-df1893
+library(geojsonio)
 
 ```
+
 
 ### 1893 map
 
@@ -303,7 +314,29 @@ df1895s
 
 Pollock deals with the issue of erasure in their development of the data.
 
-## Police
+## Policing {background-image="https://media.cnn.com/api/v1/images/stellar/prod/200709194059-09-week-in-photos-0710.jpg?q=w_1480,c_fill" background-opacity=0.5}
+
+
+## Campus Policing {background-image="https://media.cnn.com/api/v1/images/stellar/prod/240425164732-30-university-campus-protests-unf.jpg?q=w_1480,c_fill" background-opacity=0.5}
+
+
+## Prisons {background-image="https://www.urban.org/sites/default/files/shutterstock_365427041_crop.jpg" background-opacity=0.5}
+
+::: {.incremental}
+
+  - In 2021, Black Americans were imprisoned at 5.0 times the rate of whites, while American Indians and Latinx people were imprisoned at 4.2 times and 2.4 times the white rate, respectively ([The Sentencing Project](https://www.sentencingproject.org/reports/one-in-five-ending-racial-inequity-in-incarceration/), 2023)
+
+  - One in five Black men born in 2001 is likely to experience imprisonment within their lifetime, a decline from one in three for those born in 1981. Pushback from policymakers threatens further progress in reducing racial inequity in incarceration.
+
+:::
+
+```{r}
+
+```
+
+```{r}
+
+```
 
 
 ## Prisons

@@ -267,7 +267,9 @@ Pollock deals with the issue of erasure in their development of the data.
 
 :::
 
-## Prisons {background-image="https://www.urban.org/sites/default/files/shutterstock_365427041_crop.jpg" background-opacity=0.5}
+## Prisons
+
+The U.S. Bureua of Justice Statistics maintains records of federal and state prison populations[^carson].
 
 ```{r}
 #| echo: false
@@ -288,11 +290,17 @@ prison_rates_ethnicity <- data.frame(race, rate)
 
 ggplot(prison_rates_ethnicity, aes(race, rate)) +
   geom_col(fill="darkred") +
-  geom_text(aes(label=rate), vjust=1.6, color="white", size=3.5)+
-  theme_minimal()
+  geom_text(aes(label=rate), vjust=1.6, color="white", size=3.5) +
+  theme_minimal() +
+  labs(title= "Imprisonment Rates by Race, 2021",
+       subtitle = "Per 100,000 of US residents of each demographic group",
+       x ="Race",
+       y = "",
+       caption = "Carson (2022). Prisoners in 2021.") + 
+  theme(panel.background = element_blank())
 
 ```
-
+[^carson]: Source of data: [Carson (2022). Prisoners in 2021 – Statistical tables. Bureau of Justice Statistics.](https://bjs.ojp.gov/library/publications/prisoners-2021-statistical-tables)
 
 ## Prisons
 

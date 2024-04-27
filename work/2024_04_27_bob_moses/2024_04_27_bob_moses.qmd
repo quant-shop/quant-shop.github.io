@@ -58,15 +58,22 @@ format:
     echo: true
     incremental: false
     self-contained: true
+    theme: default
 ---
 
 ## [*Data*]{style="color:blue;"} + Ida Bell [*Wells*]{style="color:blue;"}-Barnett
 
-  - We use the term "[Data Wells]{style="color:blue;"}" to describe the planning, input, and storage of historical data.
+::: {.incremental}
+
+  - We use "[Data Wells]{style="color:blue;"}" to describe the planning, input, and storage of historical data.
   
   - We begin our analysis with Ida B. Wells-Barnett's development of a lynching database.
   
   - We describe other "Data Wells" on race and U.S. state violence via quantitative history.
+
+:::
+
+. . .
 
 Thank you for citing today's presentation:
 
@@ -79,7 +86,6 @@ Alexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26)
 and
 
 [research lab]{style="color:orange;"}
-
 
 ```{r}
 #| echo: false
@@ -106,13 +112,31 @@ library(scales)
 library(ggplot2)
 library(sf)
 library(patchwork)
-
 ```
 
-# Quantitative history
+## Quantitative history
 
-![*Historie Quantitative* by Pierre Chaunu](quanthist.jpg){width=50%}
+:::: {.columns}
 
+::: {.column width="40%"}
+
+  - Quantitative history considers methods in the quantification of historical information.
+  
+  - Historians like Pierre Chanu, author of the text to the right, are often centered but highlight more conservative historical narratives[^chanu].
+  
+  - Despite long-standing critiques, fewer historical narratives focus on the computational and data aspects of [critical histories]{style="color:orange;"}.
+  
+:::
+
+[^chanu]: Vovelle, Michel (1987). Bourgeoisies de province et Revolution. Presses Universitaires de Grenoble. p. quoted in Féhér.
+
+::: {.column width="60%"}
+
+![[*Histoire Quantitative*](https://www.jstor.org/stable/1876930){target="blank"} by Pierre Chanu](quanthist.jpg){width=40%}
+
+:::
+
+::::
 
 ## Slide
 

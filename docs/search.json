@@ -277,14 +277,14 @@
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#prisons-1",
     "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Prisons",
-    "text": "Prisons\nThe U.S. Bureau of Justice Statistics maintains records of federal and state prison populations1.\n\n\n\n\n\nSource of data: Carson (2022). Prisoners in 2021 – Statistical tables. Bureau of Justice Statistics."
+    "text": "Prisons\nThe U.S. Bureau of Justice Statistics maintains records of federal and state prison populations1.\n\n\n\n\n\nSource: Carson (2022). Prisoners in 2021 – Statistical tables. Bureau of Justice Statistics."
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#prisons-2",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#prisons-2",
     "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
     "section": "Prisons",
-    "text": "Prisons\n\nFederalStateFederal and State\n\n\nContent for federal\n\n\nContent for state\n\n\nContent for federal and state"
+    "text": "Prisons\nTo support our framing of contemporary data, we take on an historical view.\n\nFederalStateFederal and State\n\n\nContent for federal\n\n\n\n\n\n\n\nContent for state\n\n\n\n\n\n\n\nContent for federal and state"
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#racism-vs.-anti-blackness",
@@ -411,5 +411,26 @@
     "title": "Lesson 1",
     "section": "Data reporting: Creating a report",
     "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#a-focus-on-data-wells-data-ida-b.-wells-barnett",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#a-focus-on-data-wells-data-ida-b.-wells-barnett",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
+    "section": "A focus on “Data Wells”: Data + Ida B. Wells-Barnett",
+    "text": "A focus on “Data Wells”: Data + Ida B. Wells-Barnett\n\n\nWe use the term “Data Wells” to describe how we practice the identification, input, and storage of what can be termed as critical insights data, or CIDs.\nWe use information in databases in four ways:\n\nstudying problems in the quantification of historical information across various axes: time, social constructs, and/or systemic issues,\ndata identification and wrangling,\ndata analysis and communication, and\nmodeling abstract inquiries.\n\nWe begin our analysis with Ida B. Wells-Barnett’s organization and analysis of lynching.\nWe describe “Data Wells” of U.S. state violence using quantitative history as a frame."
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#fatal-police-interactions",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#fatal-police-interactions",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
+    "section": "Fatal police interactions",
+    "text": "Fatal police interactions\nAlicia Chugtai (2020) developed an interactive site, Know their names, that chronicles Black people killed by police in the United States."
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#principles-of-reconstruction",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#principles-of-reconstruction",
+    "title": "The Principles of Reconstruction: Still a Viable Route to Full Citizenship",
+    "section": "Principles of Reconstruction",
+    "text": "Principles of Reconstruction\n\n\nDu Bois’ (1935) Black Reconstruction: An Essay Toward a History of the Part which Black Folk Played in the Attempt to Reconstruct Democracy in America, 1860-1880 offers an alternative assessment of the post-Civil War period in the United States.\nDemocracy provided a new narrative at the time to examine African American progress post enslavement, and it continued to challenge long-standing narratives about racial hierarchy.\nRecently, notable scholars, such as Gloria Ladson-Billings, return to the importance of narratives of democracy in relation to the promise and perils of education and society broadly, while also highlighting the limits of liberalism."
   }
 ]

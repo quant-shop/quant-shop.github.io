@@ -61,7 +61,7 @@ format:
     theme: default
 ---
 
-## [*Data*]{style="color:blue;"} + Ida Bell [*Wells*]{style="color:blue;"}-Barnett
+## [*Data*]{style="color:blue;"} + Ida B. [*Wells*]{style="color:blue;"}-Barnett
 
 ::: {.incremental}
 
@@ -140,10 +140,19 @@ library(patchwork)
 
 ::::
 
-## Race and State Violence
+## Racialization and U.S. State Violence
 
+  - Lynching
 
-## Ida B. Wells-Barnett and the lynching incident
+. . .
+
+  - Police
+
+. . .
+
+  - Prisons
+
+## Lynching
 
   - **Personal experience**. In 1892, a friend of Ida B. Wells-Barnett was lynched. Wells-Barnett, a known activist, community organizer, and journalist, would generate then-complex indicators of lynching.
 

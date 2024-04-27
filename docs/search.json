@@ -28,18 +28,18 @@
     "text": "We use the term “Data Wells” to describe the planning, input, and storage of historical data.\nWe begin our analysis with Ida B. Wells-Barnett’s development of a lynching database.\nWe describe other “Data Wells” on race and U.S. state violence via quantitative history.\n\nThank you for citing today’s presentation:\nAlexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. The 2024 Bob Moses Conference. Online."
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#bullets",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#bullets",
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#slide",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#slide",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "Bullets",
-    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+    "section": "Slide",
+    "text": "Slide"
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#code",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#code",
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#slide-1",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#slide-1",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "Code",
-    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2"
+    "section": "Slide",
+    "text": "Slide"
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#data-ida-bell-wells-barnett",
@@ -49,18 +49,18 @@
     "text": "Data + Ida Bell Wells-Barnett\n\nWe use the term “Data Wells” to describe the planning, input, and storage of historical data.\nWe begin our analysis with Ida B. Wells-Barnett’s development of a lynching database.\nWe describe other “Data Wells” on race and U.S. state violence via quantitative history.\n\nThank you for citing today’s presentation:\nAlexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. The 2024 Bob Moses Conference. Online."
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#bullets",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#bullets",
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#slide",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#slide",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "Bullets",
-    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+    "section": "Slide",
+    "text": "Slide"
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#code",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#code",
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#slide-1",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#slide-1",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "Code",
-    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2"
+    "section": "Slide",
+    "text": "Slide"
   },
   {
     "objectID": "about.html",
@@ -180,19 +180,5 @@
     "title": "Lesson 1",
     "section": "Data reporting: Creating a report",
     "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#slide",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#slide",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "Slide",
-    "text": "Slide"
-  },
-  {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#slide-1",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#slide-1",
-    "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "Slide",
-    "text": "Slide"
   }
 ]

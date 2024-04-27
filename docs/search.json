@@ -18,14 +18,21 @@
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
     "section": "",
-    "text": "We use the term “Data Wells” to describe the planning, input, and storage of historical data.\nWe begin our analysis with Ida B. Wells-Barnett’s development of a lynching database.\nWe describe other “Data Wells” on race and U.S. state violence via quantitative history.\n\nThank you for citing today’s presentation:\nAlexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. The 2024 Bob Moses Conference. Online."
+    "text": "We use “Data Wells” to describe the planning, input, and storage of historical data.\nWe begin our analysis with Ida B. Wells-Barnett’s development of a lynching database.\nWe describe other “Data Wells” on race and U.S. state violence via quantitative history.\n\n\n. . .\nThank you for citing today’s presentation:\nAlexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. The 2024 Bob Moses Conference. Online."
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#data-ida-bell-wells-barnett",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#data-ida-bell-wells-barnett",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
     "section": "",
-    "text": "We use the term “Data Wells” to describe the planning, input, and storage of historical data.\nWe begin our analysis with Ida B. Wells-Barnett’s development of a lynching database.\nWe describe other “Data Wells” on race and U.S. state violence via quantitative history.\n\nThank you for citing today’s presentation:\nAlexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. The 2024 Bob Moses Conference. Online."
+    "text": "We use “Data Wells” to describe the planning, input, and storage of historical data.\nWe begin our analysis with Ida B. Wells-Barnett’s development of a lynching database.\nWe describe other “Data Wells” on race and U.S. state violence via quantitative history.\n\n\n. . .\nThank you for citing today’s presentation:\nAlexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. The 2024 Bob Moses Conference. Online."
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#quantitative-history",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#quantitative-history",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Quantitative history",
+    "text": "Quantitative history\n\n\n\nQuantitative history considers methods in the quantification of historical information.\nHistorians like Pierre Chanu, author of the text to the right, are often centered but highlight more conservative historical narratives1.\nDespite long-standing critiques, fewer historical narratives focus on the computational and data aspects of critical histories.\n\n\n\n\n\nHistoire Quantitative by Pierre Chanu"
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#slide",
@@ -35,11 +42,25 @@
     "text": "Slide"
   },
   {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#footnotes",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.html#footnotes",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nVovelle, Michel (1987). Bourgeoisies de province et Revolution. Presses Universitaires de Grenoble. p. quoted in Féhér.↩︎"
+  },
+  {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#data-ida-bell-wells-barnett",
     "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#data-ida-bell-wells-barnett",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
     "section": "Data + Ida Bell Wells-Barnett",
     "text": "Data + Ida Bell Wells-Barnett\n\n\nWe use “Data Wells” to describe the planning, input, and storage of historical data.\nWe begin our analysis with Ida B. Wells-Barnett’s development of a lynching database.\nWe describe other “Data Wells” on race and U.S. state violence via quantitative history.\n\n\n\nThank you for citing today’s presentation:\nAlexander, N., Davis, K., Ghali, B., Stewart, K., & La Cour, G. (2024, April 26). Data Wells: Race and State Violence in the United States from 1892. The 2024 Bob Moses Conference. Online."
+  },
+  {
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#quantitative-history",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#quantitative-history",
+    "title": "Data Wells: Race and State Violence in the United States from 1892",
+    "section": "Quantitative history",
+    "text": "Quantitative history\n\n\n\nQuantitative history considers methods in the quantification of historical information.\nHistorians like Pierre Chanu, author of the text to the right, are often centered but highlight more conservative historical narratives1.\nDespite long-standing critiques, fewer historical narratives focus on the computational and data aspects of critical histories.\n\n\n\n\n\nHistoire Quantitative by Pierre Chanu\n\n\n\n\nVovelle, Michel (1987). Bourgeoisies de province et Revolution. Presses Universitaires de Grenoble. p. quoted in Féhér."
   },
   {
     "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#slide",
@@ -168,10 +189,10 @@
     "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
   },
   {
-    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#quantitative-history",
-    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#quantitative-history",
+    "objectID": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#the-red-record",
+    "href": "work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#the-red-record",
     "title": "Data Wells: Race and State Violence in the United States from 1892",
-    "section": "Quantitative history",
-    "text": "Quantitative history\n\n\n\nQuantitative history considers methods in the quantification of historical information.\nHistorians like Pierre Chanu, author of the text to the right, are often centered but highlight more conservative historical narratives1.\nDespite long-standing critiques, fewer historical narratives focus on the computational and data aspects of critical histories.\n\n\n\n\n\nHistoire Quantitative by Pierre Chanu\n\n\n\n\nVovelle, Michel (1987). Bourgeoisies de province et Revolution. Presses Universitaires de Grenoble. p. quoted in Féhér."
+    "section": "The Red Record",
+    "text": "The Red Record\n\n189218931894\n\n\nContent for 1892\n\n\nContent for 1893\n\n\nContent for 1894"
   }
 ]

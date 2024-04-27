@@ -138,5 +138,21 @@ library(patchwork)
 
 ::::
 
-## Slide
+## The Red Record
+
+::: {.panel-tabset}
+
+### 1892
+
+Content for 1892
+
+### 1893
+
+Content for 1893
+
+### 1894
+
+Content for 1894
+
+:::
 

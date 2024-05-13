@@ -4,7 +4,7 @@ title: "Our Work"
 
 We quantify history and the social sciences to learn about in/justice & futurity.
 
-Our lab works to identify sources of information for engagement and analysis across historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below.
+Our lab works with and sources information and data for engagement and analysis using software programs to support historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below.
 
 
 Recent Talks

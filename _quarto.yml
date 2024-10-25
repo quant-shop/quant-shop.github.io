@@ -11,8 +11,7 @@ website:
       - href: programs.qmd
       - href: people.qmd
       - href: research.qmd
-      - href: manual.qmd
-
+      
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2024, The Quantitative Histories Workshop"

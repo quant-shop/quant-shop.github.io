@@ -6,9 +6,3 @@ We quantify history and the social sciences to learn about in/justice & futurity
 
 Our lab works with and sources information and data for engagement and analysis using software programs to support historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below.
 
-
-Recent Talks
-
-  - [2024 Bob Moses Conference](work/2024_04_27_bob_moses/2024_04_27_bob_moses.qmd.html#/title-slide)
-
-

@@ -190,7 +190,7 @@ Caitlin Pollock developed [maps](https://redrecord.cmjpollock.com/) using data e
 
 df1893 <- read.csv("https://raw.githubusercontent.com/quant-shop/IdaBWellsProject/master/RedRecord/redrecord1893.csv")
 df1894 <- read.csv("https://raw.githubusercontent.com/quant-shop/IdaBWellsProject/master/RedRecord/redrecord1894.csv")
-df1895 <- read.csv("https://github.com/quant-shop/IdaBWellsProject/blob/master/RedRecord/redrecord1894.geojson.txt")
+# df1895 <- read.csv("https://github.com/quant-shop/IdaBWellsProject/blob/master/RedRecord/redrecord1894.geojson.txt")
 ```
 
 ::: {.panel-tabset}
@@ -225,7 +225,7 @@ Content for 1895
 #| echo: false
 #| output: true
 #| warning: false
-df1895
+
 ```
 
 :::
@@ -260,6 +260,8 @@ George Floyd, killed by police in 2020, Minneapolis
   - Ku Klux Klan origin and membership
   
   - *American Policing: Protect Private Property, Not People*, by David Todd
+  
+  - *The History of Police in America and the First Force*, by Olivia Waxman
   
   - Cop Cities (see, Atlanta) and the militarization of local police
 
@@ -316,21 +318,6 @@ In *Race and Police Brutality: The Importance of Media Framing* (Fridkin, 2017) 
 
 ## Campus Policing {background-image="https://media.cnn.com/api/v1/images/stellar/prod/240425164732-30-university-campus-protests-unf.jpg?q=w_1480,c_fill" background-opacity=0.5}
 
-## Prisons {background-image="https://www.urban.org/sites/default/files/shutterstock_365427041_crop.jpg" background-opacity=0.5}
-
-::: {.incremental}
-
-  - "In 2021, Black Americans were imprisoned at 5.0 times the rate of whites, while American Indians and Latinx people were imprisoned at 4.2 times and 2.4 times the white rate, respectively." ([The Sentencing Project](https://www.sentencingproject.org/reports/one-in-five-ending-racial-inequity-in-incarceration/), 2023)
-
-  - "One in five Black men born in 2001 is likely to experience imprisonment within their lifetime, a decline from one in three for those born in 1981. Pushback from policymakers threatens further progress in reducing racial inequity in incarceration." ([The Sentencing Project](https://www.sentencingproject.org/reports/one-in-five-ending-racial-inequity-in-incarceration/), 2023)
-
-:::
-
-
-## Policing on college campuses
-
-![Timeline of campus policing](campus-policing-timeline.jpg){width=25%}
-
 ## Policing on college campuses
 
 ::: {.incremental}
@@ -363,11 +350,19 @@ In *Race and Police Brutality: The Importance of Media Framing* (Fridkin, 2017) 
 
 :::
 
-
 ## Policing on college campuses
 
-![Weapons authorized for use by campus law enforcement agencies](ypd-weapons.png)
+![Timeline of campus policing](campus-policing-timeline.jpg){width=25%}
 
+## Prisons {background-image="https://www.urban.org/sites/default/files/shutterstock_365427041_crop.jpg" background-opacity=0.5}
+
+::: {.incremental}
+
+  - "In 2021, Black Americans were imprisoned at 5.0 times the rate of whites, while American Indians and Latinx people were imprisoned at 4.2 times and 2.4 times the white rate, respectively." ([The Sentencing Project](https://www.sentencingproject.org/reports/one-in-five-ending-racial-inequity-in-incarceration/), 2023)
+
+  - "One in five Black men born in 2001 is likely to experience imprisonment within their lifetime, a decline from one in three for those born in 1981. Pushback from policymakers threatens further progress in reducing racial inequity in incarceration." ([The Sentencing Project](https://www.sentencingproject.org/reports/one-in-five-ending-racial-inequity-in-incarceration/), 2023)
+
+:::
 
 ## Prisons
 

@@ -16,16 +16,23 @@
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "People and Partners",
+    "title": "People",
     "section": "",
     "text": "Our lab is made up of a highly versatile and collaborative team of researchers."
   },
   {
     "objectID": "people.html#collaborators",
     "href": "people.html#collaborators",
-    "title": "People and Partners",
+    "title": "People",
     "section": "Collaborators",
     "text": "Collaborators\n\nProject collaborators\nHye Ryeon Jang, Morehouse College\nHarlin Lee, University of North Carolina at Chapel Hill\nJoseph Dixon, Independent Consultant\nLorenzo Harper, University of North Carolina at Charlotte\n\n\nProgram collaborators\nThe Carpentries\nData Science Academy at NC State\nData Science Institute (DSI) at the University of Chicago\nUS-Africa Institute\n\n\nFunders\nAlfred P. Sloan Foundation\nAtlanta University Center Data Science Initiative (AUC DSI)\nCenter for Applied Data Science and Analytics (CADSA) at Howard University\nData.org\nInstitute for Racial Justice at Loyola University, Chicago\n\nFormer Lab Members\n\nRonald Carter (Howard University, MS student)\nMaya Phillips (Spelman College, Class of 2023)\nDalton Favors (Morehouse College, Class of 2024)\nHasan Henry (Morehouse College, Class of 2024)\nMatthew Mann (Morehouse College, Class of 2022)\nXavier McKenzie (Morehouse College, Class of 2023)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quantitative Histories Workshop",
+    "section": "",
+    "text": "welcome user. choose your quest:\n\narchive\ncensus-users\ncritstats-users\ndscm\nquant-shop-users\n\nwhat is a user group?"
   },
   {
     "objectID": "programs.html",
@@ -37,7 +44,7 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Our Work",
+    "title": "Research",
     "section": "",
     "text": "We quantify history and the social sciences to learn about in/justice & futurity.\nOur lab works with and sources information and data for engagement and analysis using software programs to support historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below."
   },
@@ -133,10 +140,17 @@
     "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
     "title": "Quantitative Histories Workshop",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nwhat is a user group?↩︎"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
     "section": "",
-    "text": "welcome user. choose your quest.\n\naj-lab\nquant-shop-users\ncensus-users\ncritstats-users\nthe-archive\ndscm"
+    "text": "We quantify history and the social sciences to learn about in/justice & futurity.\nOur lab works with and sources information and data for engagement and analysis using software programs to support historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below."
   }
 ]

@@ -1,5 +1,36 @@
 ---
 title: ""
+image: img/logo.png
+page-layout: full
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: email
+      text: Email
+      href: mailto:quant-shop@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/quant-shop
+    - icon: linktree
+      text: Linktree
+      href: https://linktr.ee/QuantHistories
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/qhworkshop
 ---
 
-![](img/quant_workshop_logo.png){fig-align="center" width="50%"}
+welcome user. choose your quest.
+
+- [aj-lab](){.external target="_blank"}
+
+- [quant-shop-users](){.external target="_blank"}
+
+- [census-users](https://github.com/quant-shop/census){.external target="_blank"}
+
+- [critstats-users](https://professornaite.github.io/critstats/){.external target="_blank"}
+
+- [the-archive](){.external target="_blank"}
+
+- [dscm](){.external target="_blank"}

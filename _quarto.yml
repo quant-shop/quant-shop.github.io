@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Quantitative Histories Workshop"
+  image: img/quant_workshop_logo.png
   navbar:
     left:
       - href: index.qmd
@@ -14,15 +15,15 @@ website:
       
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2024, The Quantitative Histories Workshop"
+    left: "&copy; 2024 Quantitative Histories Workshop"
    
 format:
   html:
     page-layout: full
-    theme: flatly
+    theme: minty
     toc: true
     grid:
       sidebar-width: 0px
-      body-width: 1200px
+      body-width: 1600px
     
 editor: source

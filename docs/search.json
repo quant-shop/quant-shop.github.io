@@ -131,5 +131,12 @@
     "title": "Lesson 1",
     "section": "Data reporting: Creating a report",
     "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quantitative Histories Workshop",
+    "section": "",
+    "text": "welcome user. choose your quest.\n\naj-lab\nquant-shop-users\ncensus-users\ncritstats-users\nthe-archive\ndscm"
   }
 ]

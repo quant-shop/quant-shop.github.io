@@ -25,6 +25,8 @@ welcome user.
 
 we are a network of projects and user groups. choose your quest.
 
+- [the-archive](){.external target="_blank"}
+
 - [census-users](https://quant-shop.github.io/census/){.external target="_blank"}
 
 - [critstats-users](https://professornaite.github.io/critstats/){.external target="_blank"}

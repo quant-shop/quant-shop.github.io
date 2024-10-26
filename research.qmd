@@ -1,6 +1,8 @@
 ---
-title: "Research and products"
+title: ""
 ---
+
+### Research and products
 
 <ol reversed>
 
@@ -17,5 +19,21 @@ title: "Research and products"
 <li> Jang, H. R., Quinones-Marrero, J., & Hincapie-Castillo, J. M. (2022). Environmental scan of COVID-19 infection dashboards in the Florida public school system. Frontiers in Public Health, 10, Article 925808. https://doi.org/10.3389/fpubh.2022.925808 </li>
 
 <li> Alexander, N. N. (2019). Daija’s awakening: Critical race theory and Afrofuturism in mathematics education. In J. Davis & C. Jett, *Critical Race Theory in Mathematics Education* (pp. 56-74). Routledge. </li>
+
+</ol>
+
+### Grants and funding
+
+<ol reversed>
+
+<li> **Sloan Foundation**. Open Source Workshops and Lesson Development for Faculty and Students at Historically Black Colleges and Universities. Principal Investigator (PI) with Hye Ryeon Jang (Co-PI) and Kari Jordan (Co-PI). Open Source Software Development, 2023-2024. (Funded, $249,705) </li>
+
+<li> **New Ventures Fund**. Development of Community-based Experiential Learning Programs in Data Science. Principal Investigator (PI), Data.org Capacity Accelerator Network. 2022-2023. (Funded, $115,000) </li>
+
+<li> **Microsoft Corporation**. Summer Research Experience in Data Science and Critical Mathematics (DSCM). Principal Investigator (PI), 2022-2024. (Funded, $47,000) </li>
+
+<li> **AUC Data Science Initiative**. Initial Development of a Problem-based Active Learning Framework for Data Science. Principal Investigator (PI), Summer Research Grant. 2022. (Funded, $3,000) </li>
+
+<li> **Associated Colleges of the South (ACS)**. Teaching Social Justice Mathematics. Co-Principal Investigator (Co-PI) with Dr. Viveka Borum (PI) and Dr. Zeynep Teymuroglu (Co-PI). Diversity & Inclusion Faculty Grant, 2019-2020. (Funded, $27,765) </li>
 
 </ol>

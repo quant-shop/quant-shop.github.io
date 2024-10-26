@@ -14,25 +14,11 @@
     "text": "Lessons\n\n\n\n\nLesson\nTitle\nResources\n\n\n\n\n0\nGetting started\n\n\n\n1\nIntroduction to the Quantitative Histories Workshop Model\n\n\n\n2\nCase Study 1: Fatal Police Interactions\n\n\n\n3\nCase Study 2: The Red Record"
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "Our lab is made up of a highly versatile and collaborative team of researchers."
-  },
-  {
-    "objectID": "people.html#collaborators",
-    "href": "people.html#collaborators",
-    "title": "People",
-    "section": "Collaborators",
-    "text": "Collaborators\n\nProject collaborators\nHye Ryeon Jang, Morehouse College\nHarlin Lee, University of North Carolina at Chapel Hill\nJoseph Dixon, Independent Consultant\nLorenzo Harper, University of North Carolina at Charlotte\n\n\nProgram collaborators\nThe Carpentries\nData Science Academy at NC State\nData Science Institute (DSI) at the University of Chicago\nUS-Africa Institute\n\n\nFunders\nAlfred P. Sloan Foundation\nAtlanta University Center Data Science Initiative (AUC DSI)\nCenter for Applied Data Science and Analytics (CADSA) at Howard University\nData.org\nInstitute for Racial Justice at Loyola University, Chicago\n\nFormer Lab Members\n\nRonald Carter (Howard University, MS student)\nMaya Phillips (Spelman College, Class of 2023)\nDalton Favors (Morehouse College, Class of 2024)\nHasan Henry (Morehouse College, Class of 2024)\nMatthew Mann (Morehouse College, Class of 2022)\nXavier McKenzie (Morehouse College, Class of 2023)"
-  },
-  {
     "objectID": "quant-shop.html",
     "href": "quant-shop.html",
-    "title": "Notes from the Quant Shop User Groups",
+    "title": "Notes from the workshop",
     "section": "",
-    "text": "Data and DuBois\nA Quantitative Abolitionist Inquiry, phase 1: Lynching\nFATAL: A Study of Fatal Police Interactions in the United States\nA Quantitative Abolitionist Inquiry, phase 2: Police\nA Quantitative Abolitionist Inquiry, phase 3: Prisons\nCensus History Project, phase 1: Race and Ethnicity"
+    "text": "Workshops are intense explorations into a topic of study.\n\nData and Du Bois\nA quantitative abolitionist inquiry, phase 1: Wells on lynching\nFATAL: A study of fatal police interactions in the United States\nA quantitative abolitionist inquiry, phase 2: Police\nA quantitative abolitionist inquiry, phase 3: Prisons\nCensus history project, phase 1: Race and ethnicity"
   },
   {
     "objectID": "blog/2024-10-math-of-democracy.html",
@@ -67,14 +53,14 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Register online\n\n\n\n\n\nRegister online\n\n\n\n\n\nRegistration ended"
+    "text": "2025 spring\n\n\n2024 fall\n\n\n\nIntermediate R/Posit Workshpo for Social Scientists\n\n\n\n\n\nThe Mathematics of Democracy\n\n\n\n\n\nWhat happened to Chocolate City?"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "welcome user.\nwe are a network of projects and user groups. choose your quest.\n\nthe-archive\ncensus-users\ncritstats-users\necho: education, community, and health outcomes\n\nsee our lab work at quant-shop-users\nwhat is a user group?"
+    "text": "welcome user. choose your quest.\n\nsee our workshop at quant-shop-users\nor visit:\n\naj-lab\narchives\ncensus-users\ncritstats-users\ned-users\n\n\nwhat is a user group?"
   },
   {
     "objectID": "blog/blog.html",
@@ -86,9 +72,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "about",
     "section": "",
-    "text": "We make use of modern computational tools and software to learn about and respond to local and global issues of in/justice. Our work empowers our members to set up community-centered, near-peer user groups. In these groups, individuals and organizations engage with our team and set up small learning communities to sustain longer term engagement in their local contexts.\nwe quantify history and the social sciences to learn about in/justice & futurity."
+    "text": "we are a network of projects and small groups.\nWe make use of modern computational tools and software to learn about and respond to local and global issues of in/justice. Our work empowers our members to set up community-centered, near-peer user groups. In these groups, individuals and organizations engage with our team and set up small learning communities to sustain longer term engagement in their local contexts.\nwe quantify history and the social sciences to learn about in/justice & futurity."
   },
   {
     "objectID": "lessons/lesson02-slides.html#overview-of-fatal-force-v2-files",

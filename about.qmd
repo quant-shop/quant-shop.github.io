@@ -1,6 +1,8 @@
 ---
-title: "About"
+title: "about"
 ---
+
+we are a network of projects and small groups. 
 
 We make use of modern computational tools and software to learn about and respond to local and global issues of in/justice. Our work empowers our members to set up community-centered, near-peer user groups. In these groups, individuals and organizations engage with our team and set up small learning communities to sustain longer term engagement in their local contexts.
 

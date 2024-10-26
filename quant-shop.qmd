@@ -1,5 +1,5 @@
 ---
-title: "Notes from the Quant Shop User Groups"
+title: "Notes from the workshop"
 image: img/code-directory-tree.png
 page-layout: full
 about:
@@ -12,14 +12,16 @@ about:
       href: https://github.com/quant-shop
 ---
 
-- [Data and DuBois](){.external target="_blank"}
+Workshops are intense explorations into a topic of study.
 
-- [A Quantitative Abolitionist Inquiry, phase 1: Lynching](){.external target="_blank"}
+- [Data and Du Bois](https:quant-shop.github.io/dubois-infographics){.external target="_blank"}
 
-- [FATAL: A Study of Fatal Police Interactions in the United States](https://quant-shop.github.io/fatalv2){.external target="_blank"}
+- [A quantitative abolitionist inquiry, phase 1: Wells on lynching](https:quant-shop.github.io/red-record){.external target="_blank"}
 
-- [A Quantitative Abolitionist Inquiry, phase 2: Police](){.external target="_blank"}
+- [FATAL: A study of fatal police interactions in the United States](https://quant-shop.github.io/fatalv2){.external target="_blank"}
 
-- [A Quantitative Abolitionist Inquiry, phase 3: Prisons](){.external target="_blank"}
+- [A quantitative abolitionist inquiry, phase 2: Police](https:quant-shop.github.io/police){.external target="_blank"}
 
-- [Census History Project, phase 1: Race and Ethnicity](https://quant-shop.github.io/census/){.external target="_blank"}
+- [A quantitative abolitionist inquiry, phase 3: Prisons](https:quant-shop.github.io/prisons){.external target="_blank"}
+
+- [Census history project, phase 1: Race and ethnicity](https://quant-shop.github.io/census-race/){.external target="_blank"}

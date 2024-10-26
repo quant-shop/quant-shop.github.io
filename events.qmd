@@ -2,9 +2,13 @@
 title: "Events"
 ---
 
-![Register online](img/events/2024-nov-workshop.jpg){width=50%}
+# 2025 spring
 
-![Register online](img/events/volic-guest-workshop.png){width=50%}
+# 2024 fall
 
-![Registration ended](img/events/chocolate-city.png){width=50%}
+![Intermediate R/Posit Workshpo for Social Scientists](img/events/2024-nov-workshop.jpg){width=50%}
+
+![The Mathematics of Democracy](img/events/volic-guest-workshop.png){width=50%}
+
+![What happened to Chocolate City?](img/events/chocolate-city.png){width=50%}
 

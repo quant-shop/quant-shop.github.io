@@ -1,0 +1,62 @@
+---
+title: "Exploring the ABC News' 538 data"
+author: 
+  - "Nathan Alexander, PhD"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+  pdf_document:
+    toc: false
+    toc_depth: 2
+    number_section: true 
+---
+
+Data from [ABC News' 538](https://abcnews.go.com/538) is useful for exploring and analyzing data used in stories from a national news outlet.
+
+Set up your enviornment.
+
+```{r setup, include=T, warning=F}
+knitr::opts_chunk$set(
+  echo = FALSE, # By default, hide code; set to TRUE to see code
+  fig.pos = 'th', # Places figures at top or here
+  out.width = '100%', dpi = 300, # Figure resolution and size
+  fig.env="figure"
+) # Latex figure environment
+
+# packages and libraries
+# install.packages("fivethiryeight")
+library(fivethirtyeight)
+
+options(knitr.table.format = "latex") # For kable tables to write LaTeX table directly
+```
+
+Load essential libraries.
+
+```{r, include=T, warning=F}
+## set up, load libraries
+library(dplyr)
+library(readtext)
+library(tidyverse)
+library(here)
+library(gt)
+library(ggplot2)
+library(dplyr)
+library(knitr)
+library(kableExtra)
+here::i_am("five-thirty-eight.Rmd")
+```
+
+```{r}
+data(package="fivethirtyeight") #This function will return all the data frames that are available in the named package.
+```
+
+Return the attributes of the data frame.
+
+```{r}
+attributes(trumpworld_polls)
+```
+
+```{r, include=T}
+mean(trumpworld_polls$avg)
+```

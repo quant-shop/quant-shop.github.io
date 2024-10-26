@@ -32,7 +32,14 @@
     "href": "index.html",
     "title": "Quantitative Histories Workshop",
     "section": "",
-    "text": "welcome user. choose your quest:\n\narchive\ncensus-users\ncritstats-users\ndscm\nquant-shop-users\n\nwhat is a user group?"
+    "text": "welcome user. choose your quest:\n\nquant-shop\ncensus-users\ncritstats-users\ndscm\nquant-shop-users\n\nwhat is a user group?"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "We quantify history and the social sciences to learn about in/justice & futurity.\nOur lab works with and sources information and data for engagement and analysis using software programs to support historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below."
   },
   {
     "objectID": "programs.html",
@@ -42,9 +49,9 @@
     "text": "Learn more about our programs!\n\nData Science and Critical Mathematics Program\nSummer program for high school students (info)\n\n\n\n\n\n\n\nCommunity Data Fellowship\nUndergraduate and graduate student academic year program\n\nAY2022-2023 projects\nAY2023-2024 projects\n\n\n\nTeaching and Community Educator Fellowships\nYear-round k-12 teacher and community educator program\n\nMen of Math Fellowship at the Institute for Racial Justice\n\n\n\nFaculty Development Program\nCollaborative faculty workshop series\n\nTeaching Open Source Workshop Series for HBCU faculty\n\n\n\nVirtual Exchange Program\nInternational cultural exchange program"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
     "section": "",
     "text": "We quantify history and the social sciences to learn about in/justice & futurity.\nOur lab works with and sources information and data for engagement and analysis using software programs to support historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below."
   },
@@ -138,19 +145,5 @@
     "title": "Lesson 1",
     "section": "Data reporting: Creating a report",
     "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
-  },
-  {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "Quantitative Histories Workshop",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nwhat is a user group?↩︎"
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "We quantify history and the social sciences to learn about in/justice & futurity.\nOur lab works with and sources information and data for engagement and analysis using software programs to support historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below."
   }
 ]

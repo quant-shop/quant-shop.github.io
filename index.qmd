@@ -23,7 +23,7 @@ about:
 
 welcome user. choose your quest:
 
-- [archive](https://github.com/quant-shop){.external target="_blank"}
+- [quant-shop](https://github.com/quant-shop){.external target="_blank"}
 
 - [census-users](https://quant-shop.github.io/census/){.external target="_blank"}
 

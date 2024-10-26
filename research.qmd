@@ -1,6 +1,21 @@
 ---
-title: "Research"
+title: "Research and products"
 ---
 
-Alexander, N. N. (2019). A Legacy of Literacy: Mathematics Teachers and the Quest for Racial Justice.
+<ol reversed>
 
+<li> Alexander, N. N., Appling, T., Banuelos, M., Bello, G., Brown, A., Century, J., Connor, K., Ji, H., Levy, R., Mitchell, P., Mongeau, D., Mysliwiec, M., Niu, J., Paykin, S., Quarkume, A., Schiffman, J., Skinner, L., Uminsky, D. & Zhong, P. (2024). Data Science for Social Impact in Higher Education: First Steps. Data.org Playbook. Available at: [https://data.org/playbooks/data-science-for-social-impact-in-higher-education/](https://data.org/playbooks/data-science-for-social-impact-in-higher-education/){.external target="_blank"} </li>
+
+<li> Ballenger, H. J., Washington, T., Clark, R., Lockhart, J. W., Adebowale, J., Hearn, D., Dotson, E., Gaines, J., Bennett, V., Teodorescu, D., Alexander, N. N., Gilbert, N., Lamar, T., Morris, M., Neely, A., Borum, V., Ellis, V., & Johnson, K. (December 2023). Atlanta University Center Data Science Initiative - Data Science for K-12 Listening Session Report. Available at SSRN: [http://dx.doi.org/10.2139/ssrn.4493108](http://dx.doi.org/10.2139/ssrn.4493108){.external target="_blank"} </li>
+
+<li> Jones, Q., Vindas Meléndez, A. R., Mendible, A., Aminian, M., Brooks, H. Z., Alexander, N., Diaz Eaton, C., & Chodrow, P. (2023). Data science and social justice in the mathematics community. *Notices of the American Mathematical Society*. </li>
+
+<li> Alexander, N. N., Ratliff, B., Levy, R., Voigt, M., Hagman, J. E., Gehrtz, J. (2023). Cross-cutting inquiries: Moving Towards a Systems-critical Practice. In M. Voigt, J. E. Hagman, J. Gehrtz, B. Ratliff, N. N. Alexander, & R. Levy (Eds.). Justice through the lens of calculus: Framing new possibilities for diversity, equity, and inclusion. MAA Notes Volume. </li>
+
+<li> Alexander N., Diaz Eaton C., Shrout A. H., Tsinnajinnie B., & Tsosie K. (2022). Beyond ethics: Considerations for centering equity-minded data science. *Journal of Humanistic Mathematics, 12*(2), 254–300. https://doi.org/10.5642/ jhummath.OCYS6929 </li>
+
+<li> Jang, H. R., Quinones-Marrero, J., & Hincapie-Castillo, J. M. (2022). Environmental scan of COVID-19 infection dashboards in the Florida public school system. Frontiers in Public Health, 10, Article 925808. https://doi.org/10.3389/fpubh.2022.925808 </li>
+
+<li> Alexander, N. N. (2019). Daija’s awakening: Critical race theory and Afrofuturism in mathematics education. In J. Davis & C. Jett, *Critical Race Theory in Mathematics Education* (pp. 56-74). Routledge. </li>
+
+</ol>

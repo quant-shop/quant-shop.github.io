@@ -28,11 +28,25 @@
     "text": "Collaborators\n\nProject collaborators\nHye Ryeon Jang, Morehouse College\nHarlin Lee, University of North Carolina at Chapel Hill\nJoseph Dixon, Independent Consultant\nLorenzo Harper, University of North Carolina at Charlotte\n\n\nProgram collaborators\nThe Carpentries\nData Science Academy at NC State\nData Science Institute (DSI) at the University of Chicago\nUS-Africa Institute\n\n\nFunders\nAlfred P. Sloan Foundation\nAtlanta University Center Data Science Initiative (AUC DSI)\nCenter for Applied Data Science and Analytics (CADSA) at Howard University\nData.org\nInstitute for Racial Justice at Loyola University, Chicago\n\nFormer Lab Members\n\nRonald Carter (Howard University, MS student)\nMaya Phillips (Spelman College, Class of 2023)\nDalton Favors (Morehouse College, Class of 2024)\nHasan Henry (Morehouse College, Class of 2024)\nMatthew Mann (Morehouse College, Class of 2022)\nXavier McKenzie (Morehouse College, Class of 2023)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
+    "objectID": "quant-shop.html",
+    "href": "quant-shop.html",
+    "title": "Notes from the Quant Shop User Groups",
     "section": "",
-    "text": "welcome user.\nwe are a network of projects and user groups. choose your quest.\n\ncensus-users\ncritstats-users\ndscm\necho: education, community, and health outcomes\nquant-shop-users\n\nwhat is a user group?"
+    "text": "A Quantitative Abolitionist Inquiry, phase 1: Lynching\nFATAL: A Study of Fatal Police Interactions in the United States\nA Quantitative Abolitionist Inquiry, phase 2: Police\nA Quantitative Abolitionist Inquiry, phase 3: Prisons\nCensus History Project, phase 1: Race and Ethnicity"
+  },
+  {
+    "objectID": "blog/2024-10-math-of-democracy.html",
+    "href": "blog/2024-10-math-of-democracy.html",
+    "title": "The Mathematics of Democracy",
+    "section": "",
+    "text": "On the mathematics of democracy."
+  },
+  {
+    "objectID": "code/five-thirty-eight.html",
+    "href": "code/five-thirty-eight.html",
+    "title": "Exploring the ABC News’ 538 data",
+    "section": "",
+    "text": "Data from ABC News’ 538 is useful for exploring and analyzing data used in stories from a national news outlet.\nSet up your enviornment.\n\nknitr::opts_chunk$set(\n  echo = FALSE, # By default, hide code; set to TRUE to see code\n  fig.pos = 'th', # Places figures at top or here\n  out.width = '100%', dpi = 300, # Figure resolution and size\n  fig.env=\"figure\"\n) # Latex figure environment\n\n# packages and libraries\n# install.packages(\"fivethiryeight\")\nlibrary(fivethirtyeight)\n\nSome larger datasets need to be installed separately, like senators and\nhouse_district_forecast. To install these, we recommend you install the\nfivethirtyeightdata package by running:\ninstall.packages('fivethirtyeightdata', repos =\n'https://fivethirtyeightdata.github.io/drat/', type = 'source')\n\noptions(knitr.table.format = \"latex\") # For kable tables to write LaTeX table directly\n\nLoad essential libraries.\n\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ forcats   1.0.0     ✔ readr     2.1.5\n✔ ggplot2   3.5.1     ✔ stringr   1.5.1\n✔ lubridate 1.9.3     ✔ tibble    3.2.1\n✔ purrr     1.0.2     ✔ tidyr     1.3.1\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\nhere() starts at /Users/nathanalexander/Dropbox/Project_admin/quant-shop\n\n\nAttaching package: 'kableExtra'\n\n\nThe following object is masked from 'package:dplyr':\n\n    group_rows\n\n\nhere() starts at /Users/nathanalexander/Dropbox/Project_admin/quant-shop/code\n\n\nReturn the attributes of the data frame.\n\n\n$names\n [1] \"year\"         \"avg\"          \"canada\"       \"france\"       \"germany\"     \n [6] \"greece\"       \"hungary\"      \"italy\"        \"netherlands\"  \"poland\"      \n[11] \"spain\"        \"sweden\"       \"uk\"           \"russia\"       \"australia\"   \n[16] \"india\"        \"indonesia\"    \"japan\"        \"philippines\"  \"south_korea\" \n[21] \"vietnam\"      \"israel\"       \"jordan\"       \"lebanon\"      \"tunisia\"     \n[26] \"turkey\"       \"ghana\"        \"kenya\"        \"nigeria\"      \"senegal\"     \n[31] \"south_africa\" \"tanzania\"     \"argentina\"    \"brazil\"       \"chile\"       \n[36] \"colombia\"     \"mexico\"       \"peru\"         \"venezuela\"    \"question\"    \n\n$row.names\n [1]  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25\n[26] 26 27 28 29 30 31 32\n\n$class\n[1] \"tbl_df\"     \"tbl\"        \"data.frame\"\n\n\n\n\n[1] 49.66913"
   },
   {
     "objectID": "research.html",
@@ -46,7 +60,7 @@
     "href": "programs.html",
     "title": "Programs",
     "section": "",
-    "text": "Learn more about our programs!\n\nData Science and Critical Mathematics Program\nSummer program for high school students (info)\n\n\n\n\n\n\n\nCommunity Data Fellowship\nUndergraduate and graduate student academic year program\n\nAY2022-2023 projects\nAY2023-2024 projects\n\n\n\nTeaching and Community Educator Fellowships\nYear-round k-12 teacher and community educator program\n\nMen of Math Fellowship at the Institute for Racial Justice\n\n\n\nFaculty Development Program\nCollaborative faculty workshop series\n\nTeaching Open Source Workshop Series for HBCU faculty\n\n\n\nVirtual Exchange Program\nInternational cultural exchange program"
+    "text": "Learn more about the our programs.\n\nData Science and Critical Mathematics Program\nSummer program for high school students (info)\n\n\n\n\n\n\n\nCommunity Data Fellowship\nUndergraduate and graduate student academic year program\n\nAY2022-2023 projects\nAY2023-2024 projects\n\n\n\nTeaching and Community Educator Fellowships\nYear-round k-12 teacher and community educator program\n\nMen of Math Fellowship at the Institute for Racial Justice\n\n\n\nFaculty Development Program\nCollaborative faculty workshop series\n\nTeaching Open Source Workshop Series for HBCU faculty\n\n\n\nVirtual Exchange Program\nInternational cultural exchange program"
   },
   {
     "objectID": "events.html",
@@ -56,9 +70,23 @@
     "text": "Register online\n\n\n\n\n\nRegister online\n\n\n\n\n\nRegistration ended"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "welcome user.\nwe are a network of projects and user groups. choose your quest.\n\ncensus-users\ncritstats-users\necho: education, community, and health outcomes\n\nsee our lab work at quant-shop-users\nwhat is a user group?"
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "welcome to the quant-shop blog!",
+    "section": "",
+    "text": "the mathematics of democracy\nwhat happened to chocolate city?\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Quantitative Histories Workshop",
+    "title": "",
     "section": "",
     "text": "we quantify history and the social sciences to learn about in/justice & futurity."
   },
@@ -145,33 +173,5 @@
     "title": "Lesson 1",
     "section": "Data reporting: Creating a report",
     "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
-  },
-  {
-    "objectID": "blog/blog.html",
-    "href": "blog/blog.html",
-    "title": "welcome to the quant-shop blog!",
-    "section": "",
-    "text": "the mathematics of democracy\nwhat happened to chocolate city?\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/2024-10-math-of-democracy.html",
-    "href": "blog/2024-10-math-of-democracy.html",
-    "title": "The Mathematics of Democracy",
-    "section": "",
-    "text": "On the mathematics of democracy."
-  },
-  {
-    "objectID": "code/five-thirty-eight.html",
-    "href": "code/five-thirty-eight.html",
-    "title": "Exploring the ABC News’ 538 data",
-    "section": "",
-    "text": "Data from ABC News’ 538 is useful for exploring and analyzing data used in stories from a national news outlet.\nSet up your enviornment.\n\nknitr::opts_chunk$set(\n  echo = FALSE, # By default, hide code; set to TRUE to see code\n  fig.pos = 'th', # Places figures at top or here\n  out.width = '100%', dpi = 300, # Figure resolution and size\n  fig.env=\"figure\"\n) # Latex figure environment\n\n# packages and libraries\n# install.packages(\"fivethiryeight\")\nlibrary(fivethirtyeight)\n\nSome larger datasets need to be installed separately, like senators and\nhouse_district_forecast. To install these, we recommend you install the\nfivethirtyeightdata package by running:\ninstall.packages('fivethirtyeightdata', repos =\n'https://fivethirtyeightdata.github.io/drat/', type = 'source')\n\noptions(knitr.table.format = \"latex\") # For kable tables to write LaTeX table directly\n\nLoad essential libraries.\n\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ forcats   1.0.0     ✔ readr     2.1.5\n✔ ggplot2   3.5.1     ✔ stringr   1.5.1\n✔ lubridate 1.9.3     ✔ tibble    3.2.1\n✔ purrr     1.0.2     ✔ tidyr     1.3.1\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\nhere() starts at /Users/nathanalexander/Dropbox/Project_admin/quant-shop\n\n\nAttaching package: 'kableExtra'\n\n\nThe following object is masked from 'package:dplyr':\n\n    group_rows\n\n\nhere() starts at /Users/nathanalexander/Dropbox/Project_admin/quant-shop/code\n\n\nReturn the attributes of the data frame.\n\n\n$names\n [1] \"year\"         \"avg\"          \"canada\"       \"france\"       \"germany\"     \n [6] \"greece\"       \"hungary\"      \"italy\"        \"netherlands\"  \"poland\"      \n[11] \"spain\"        \"sweden\"       \"uk\"           \"russia\"       \"australia\"   \n[16] \"india\"        \"indonesia\"    \"japan\"        \"philippines\"  \"south_korea\" \n[21] \"vietnam\"      \"israel\"       \"jordan\"       \"lebanon\"      \"tunisia\"     \n[26] \"turkey\"       \"ghana\"        \"kenya\"        \"nigeria\"      \"senegal\"     \n[31] \"south_africa\" \"tanzania\"     \"argentina\"    \"brazil\"       \"chile\"       \n[36] \"colombia\"     \"mexico\"       \"peru\"         \"venezuela\"    \"question\"    \n\n$row.names\n [1]  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25\n[26] 26 27 28 29 30 31 32\n\n$class\n[1] \"tbl_df\"     \"tbl\"        \"data.frame\"\n\n\n\n\n[1] 49.66913"
-  },
-  {
-    "objectID": "quant-shop.html",
-    "href": "quant-shop.html",
-    "title": "Notes from the Quant Shop User Groups",
-    "section": "",
-    "text": "A Quantitative Abolitionist Inquiry, phase 1: Lynching\nFATAL: A Study of Fatal Police Interactions in the United States\nA Quantitative Abolitionist Inquiry, phase 2: Police\nA Quantitative Abolitionist Inquiry, phase 3: Prisons\nCensus History Project, phase 1: Race and Ethnicity"
   }
 ]

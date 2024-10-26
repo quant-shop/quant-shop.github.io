@@ -12,10 +12,11 @@ website:
       - href: programs.qmd
         text: About
       - href: people.qmd
-        text: People + Places
+        text: People
       - href: research.qmd
-        text: Research + Products
+        text: Research
       - href: events.qmd
+        text: Events
       - href: blog/blog.qmd
         text: Blog
       
@@ -26,7 +27,7 @@ website:
 format:
   html:
     page-layout: full
-    theme: cosmo dark
+    theme: cosmo light
     css: styles.css
     toc: true
     grid:

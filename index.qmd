@@ -29,11 +29,9 @@ we are a network of projects and user groups. choose your quest.
 
 - [critstats-users](https://professornaite.github.io/critstats/){.external target="_blank"}
 
-- [dscm](https://quant-shop.github.io/dscm/){.external target="_blank"}
-
 - [echo: education, community, and health outcomes](https://professornaite.github.io/echo/){.external target="_blank"}
 
-- [quant-shop-users](quant-shop.qmd){.external target="_blank"}
+see our lab work at [quant-shop-users](quant-shop.qmd){.external target="_blank"}
 
 [what is a user group?](https://dictionary.cambridge.org/us/dictionary/english/user-group){target="_blank"}
 

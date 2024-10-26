@@ -12,6 +12,8 @@ about:
       href: https://github.com/quant-shop
 ---
 
+- [Data and DuBois](){.external target="_blank"}
+
 - [A Quantitative Abolitionist Inquiry, phase 1: Lynching](){.external target="_blank"}
 
 - [FATAL: A Study of Fatal Police Interactions in the United States](https://quant-shop.github.io/fatalv2){.external target="_blank"}

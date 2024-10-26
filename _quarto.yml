@@ -9,7 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: programs.qmd
+      - href: about.qmd
         text: About
       - href: people.qmd
         text: People

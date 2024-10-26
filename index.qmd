@@ -23,7 +23,7 @@ about:
 
 welcome user. choose your quest:
 
-- [quant-shop](https://github.com/quant-shop){.external target="_blank"}
+- [quant-shop-users](https://github.com/quant-shop){.external target="_blank"}
 
 - [census-users](https://quant-shop.github.io/census/){.external target="_blank"}
 
@@ -31,7 +31,7 @@ welcome user. choose your quest:
 
 - [dscm](){.external target="_blank"}
 
-- [quant-shop-users](){.external target="_blank"}
+- [echo](https://professornaite.github.io/echo/){.external target="_blank"}
 
 [what is a user group?](https://dictionary.cambridge.org/us/dictionary/english/user-group){target="_blank"}
 

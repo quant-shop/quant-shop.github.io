@@ -2,7 +2,9 @@
 title: "Events"
 ---
 
-We quantify history and the social sciences to learn about in/justice & futurity.
+![Register online](img/events/2024-nov-workshop.jpg){width=50%}
 
-Our lab works with and sources information and data for engagement and analysis using software programs to support historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below.
+![Register online](img/events/volic-guest-workshop.png){width=50%}
+
+![Registration ended](img/events/chocolate-city.png){width=50%}
 

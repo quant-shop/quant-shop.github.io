@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Quantitative Histories Workshop",
     "section": "",
-    "text": "welcome user. choose your quest:\n\nquant-shop\ncensus-users\ncritstats-users\ndscm\nquant-shop-users\n\nwhat is a user group?"
+    "text": "welcome user. choose your quest:\n\nquant-shop-users\ncensus-users\ncritstats-users\ndscm\necho\n\nwhat is a user group?"
   },
   {
     "objectID": "research.html",
@@ -53,7 +53,7 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "We quantify history and the social sciences to learn about in/justice & futurity.\nOur lab works with and sources information and data for engagement and analysis using software programs to support historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below."
+    "text": "Register online\n\n\n\n\n\nRegister online\n\n\n\n\n\nRegistration ended"
   },
   {
     "objectID": "about.html",
@@ -145,5 +145,19 @@
     "title": "Lesson 1",
     "section": "Data reporting: Creating a report",
     "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "welcome to the quant-shop blog!",
+    "section": "",
+    "text": "the mathematics of democracy\nwhat happened to chocolate city?\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/2024-10-math-of-democracy.html",
+    "href": "blog/2024-10-math-of-democracy.html",
+    "title": "The Mathematics of Democracy",
+    "section": "",
+    "text": "On the mathematics of democracy."
   }
 ]

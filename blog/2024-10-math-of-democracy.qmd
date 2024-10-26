@@ -1,0 +1,13 @@
+---
+title: "The Mathematics of Democracy"
+description: "How can mathematics teach us about democracy?"
+author: "Nathan Alexander, PhD"
+date: "10/25/2024"
+categories:
+  - news
+  - code
+  - analysis
+  - mathematics
+---
+
+On the mathematics of democracy.

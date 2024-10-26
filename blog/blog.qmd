@@ -1,0 +1,14 @@
+---
+title: "welcome to the quant-shop blog!"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  feed:
+    categories: [news, code, analytics, mathematics, posts]
+---
+
+- [the mathematics of democracy](2024-10-math-of-democracy.qmd)
+
+- [what happened to chocolate city?]()

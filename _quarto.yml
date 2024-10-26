@@ -3,15 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "Quantitative Histories Workshop"
+  title: ""
   image: img/quant_workshop_logo.png
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: programs.qmd
+        text: About
       - href: people.qmd
+        text: People + Places
       - href: research.qmd
+        text: Research + Products
       - href: events.qmd
       - href: blog/blog.qmd
         text: Blog
@@ -23,7 +26,8 @@ website:
 format:
   html:
     page-layout: full
-    theme: minty
+    theme: cosmo dark
+    css: styles.css
     toc: true
     grid:
       sidebar-width: 0px

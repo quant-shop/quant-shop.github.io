@@ -1,0 +1,23 @@
+---
+title: "Notes from the Quant Shop User Groups"
+image: img/code-directory-tree.png
+page-layout: full
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/quant-shop
+---
+
+- [A Quantitative Abolitionist Inquiry, phase 1: Lynching](){.external target="_blank"}
+
+- [FATAL: A Study of Fatal Police Interactions in the United States](https://quant-shop.github.io/fatalv2){.external target="_blank"}
+
+- [A Quantitative Abolitionist Inquiry, phase 2: Police](){.external target="_blank"}
+
+- [A Quantitative Abolitionist Inquiry, phase 3: Prisons](){.external target="_blank"}
+
+- [Census History Project, phase 1: Race and Ethnicity](https://quant-shop.github.io/census/){.external target="_blank"}

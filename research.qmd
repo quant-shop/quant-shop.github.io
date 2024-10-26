@@ -2,19 +2,5 @@
 title: "Research"
 ---
 
-We quantify history and the social sciences to learn about in/justice & futurity.
-
-Our lab works with and sources information and data for engagement and analysis using software programs to support historical, contemporary, and future-oriented perspectives. These data are meant to support critical quantitative analyses. Data sources, software programs, and public code are outlined below.
-
-fatal force
-
-- [quant-shop-users](https://github.com/quant-shop){.external target="_blank"}
-
-- [census-users](https://quant-shop.github.io/census/){.external target="_blank"}
-
-- [critstats-users](https://professornaite.github.io/critstats/){.external target="_blank"}
-
-- [dscm](){.external target="_blank"}
-
-- [echo](https://professornaite.github.io/echo/){.external target="_blank"}
+Alexander, N. N. (2019). A Legacy of Literacy: Mathematics Teachers and the Quest for Racial Justice.
 

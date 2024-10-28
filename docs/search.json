@@ -14,18 +14,32 @@
     "text": "Lessons\n\n\n\n\nLesson\nTitle\nResources\n\n\n\n\n0\nGetting started\n\n\n\n1\nIntroduction to the Quantitative Histories Workshop Model\n\n\n\n2\nCase Study 1: Fatal Police Interactions\n\n\n\n3\nCase Study 2: The Red Record"
   },
   {
-    "objectID": "quant-shop.html",
-    "href": "quant-shop.html",
-    "title": "Notes from The Workshop",
+    "objectID": "files/user-group.html",
+    "href": "files/user-group.html",
+    "title": "What is a user group?",
     "section": "",
-    "text": "Data and Du Bois\n\n1900 Paris Exhibition infographics\nAtlanta University Studies\n\nA quantitative abolitionist inquiry, phase 1: Wells on lynching\nFATAL: A study of fatal police interactions in the United States\nA quantitative abolitionist inquiry, phase 2: Police\nA quantitative abolitionist inquiry, phase 3: Prisons\nCensus history project, phase 1: Race and ethnicity\n\nWe support equitable open source practices.\nSee a list of our project repositories here."
+    "text": "In computer science a user group is a collection of people who are interested in a specific topic, area of study, or development. This collection often uses the same products and tools to complete their work, and they use the internet and other digital tools and software to share their work."
   },
   {
-    "objectID": "blog/2024-10-math-of-democracy.html",
-    "href": "blog/2024-10-math-of-democracy.html",
-    "title": "The Mathematics of Democracy",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
     "section": "",
-    "text": "On the mathematics of democracy."
+    "text": "we are a network of projects and small groups.\nWe make use of modern computational tools and software to learn about and respond to local and global issues of in/justice. Our work empowers our members to set up community-centered, near-peer user groups. In these groups, individuals and organizations engage with our team and set up small learning communities to sustain longer term engagement in their local contexts.\nwe quantify history and the social sciences to learn about in/justice & futurity."
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "welcome to the quant-shop blog!",
+    "section": "",
+    "text": "what happened to chocolate city?\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/chocolate-city.html",
+    "href": "blog/chocolate-city.html",
+    "title": "What happened to Chocolate City?",
+    "section": "",
+    "text": "On October 4th, the Quantitative Histories Workshop partnered with Nubian Hueman in Anacostia, DC to host a #publicmath event focused on the mathematics behind DC’s changing demographics. During the event, participants engaged in a host of activities related to gerrymandering, gentrification, and the analysis of U.S. census data on historically Black communities."
   },
   {
     "objectID": "code/five-thirty-eight.html",
@@ -51,9 +65,72 @@
   {
     "objectID": "events.html",
     "href": "events.html",
-    "title": "Events",
+    "title": "Recurring events",
     "section": "",
-    "text": "2025 spring\n\ncensus-users group\n\n\ned-users group\n\n\n\n2024 fall\n\nHBCU STEM Day\n\n\nIntermediate R/Posit Workshop for Social Scientists\nPresenter: Lyrric Jackson\n\n\n\nIntermediate R/Posit Workshpo for Social Scientists\n\n\n\n\nThe Mathematics of Democracy\nModerator: Jalil Cooper\n\n\n\nThe Mathematics of Democracy\n\n\n\n\nChocolate City Mathy Hour\nPresenters: Zoe Williams and Nathan Alexander\n\n\n\nWhat happened to Chocolate City?\n\n\n\n\n\n2024 spring\n\nBob Moses Conference\nPresenters: Kade Davis, Gabriella La Cour, Basil Ghali, Nathan Alexander, and Qyana Stewart\n\n\n\nBob Moses Conference\n\n\n\n\n\n2023 fall\n\n\n2022 spring\n\n\n2021 fall\n\nInstitute for Mathematics and Democracy (IMD) Conference\nPresenters: Jalil Cooper and Nathan Alexander\n\n\n\nInstitute for Mathematics and Democracy Conference"
+    "text": "Thursday at 9:30am ET via Zoom.\n\n\n\nDetails forthcoming."
+  },
+  {
+    "objectID": "events.html#census-users-group",
+    "href": "events.html#census-users-group",
+    "title": "Recurring events",
+    "section": "",
+    "text": "Thursday at 9:30am ET via Zoom."
+  },
+  {
+    "objectID": "events.html#ed-users-group",
+    "href": "events.html#ed-users-group",
+    "title": "Recurring events",
+    "section": "",
+    "text": "Details forthcoming."
+  },
+  {
+    "objectID": "events.html#spring",
+    "href": "events.html#spring",
+    "title": "Recurring events",
+    "section": "2025 spring",
+    "text": "2025 spring"
+  },
+  {
+    "objectID": "events.html#fall",
+    "href": "events.html#fall",
+    "title": "Recurring events",
+    "section": "2024 fall",
+    "text": "2024 fall\n\nHBCU STEM Day\n\n\nIntermediate R/Posit Workshop for Social Scientists\nPresenter: Lyrric Jackson\n\n\n\nIntermediate R/Posit Workshpo for Social Scientists\n\n\n\n\nThe Mathematics of Democracy\nModerator: Jalil Cooper\n\n\n\nThe Mathematics of Democracy\n\n\n\n\nChocolate City Mathy Hour\nPresenters: Zoe Williams and Nathan Alexander\n\n\n\nWhat happened to Chocolate City?"
+  },
+  {
+    "objectID": "events.html#spring-1",
+    "href": "events.html#spring-1",
+    "title": "Recurring events",
+    "section": "2024 spring",
+    "text": "2024 spring\n\nBob Moses Conference\nPresenters: Kade Davis, Gabriella La Cour, Basil Ghali, Nathan Alexander, and Qyana Stewart\n\n\n\nBob Moses Conference"
+  },
+  {
+    "objectID": "events.html#fall-1",
+    "href": "events.html#fall-1",
+    "title": "Recurring events",
+    "section": "2023 fall",
+    "text": "2023 fall"
+  },
+  {
+    "objectID": "events.html#spring-2",
+    "href": "events.html#spring-2",
+    "title": "Recurring events",
+    "section": "2023 spring",
+    "text": "2023 spring\n\nAmerican Educational Research Association (AERA) conference\nPresenters: Nathan Alexander, Blake O’Neal Turner, Darnell Leatherwood, Francis Henderson, David Wallace, Candace Kyles"
+  },
+  {
+    "objectID": "events.html#spring-3",
+    "href": "events.html#spring-3",
+    "title": "Recurring events",
+    "section": "2022 spring",
+    "text": "2022 spring"
+  },
+  {
+    "objectID": "events.html#fall-2",
+    "href": "events.html#fall-2",
+    "title": "Recurring events",
+    "section": "2021 fall",
+    "text": "2021 fall\n\nInstitute for Mathematics and Democracy (IMD) Conference\nPresenters: Jalil Cooper and Nathan Alexander\n\n\n\nInstitute for Mathematics and Democracy Conference"
   },
   {
     "objectID": "index.html",
@@ -63,18 +140,18 @@
     "text": "welcome user. choose your quest.\n\nsee our workshops at quant-shop-users\nvisit:\n\naj-lab\narchives\ncensus-users\ncritstats-users\ned-users\n\n\nwhat is a user group?"
   },
   {
-    "objectID": "blog/blog.html",
-    "href": "blog/blog.html",
-    "title": "welcome to the quant-shop blog!",
+    "objectID": "blog/2024-10-math-of-democracy.html",
+    "href": "blog/2024-10-math-of-democracy.html",
+    "title": "The Mathematics of Democracy",
     "section": "",
-    "text": "the mathematics of democracy\nwhat happened to chocolate city?\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "On the mathematics of democracy."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "about",
+    "objectID": "quant-shop.html",
+    "href": "quant-shop.html",
+    "title": "Notes from The Workshop",
     "section": "",
-    "text": "we are a network of projects and small groups.\nWe make use of modern computational tools and software to learn about and respond to local and global issues of in/justice. Our work empowers our members to set up community-centered, near-peer user groups. In these groups, individuals and organizations engage with our team and set up small learning communities to sustain longer term engagement in their local contexts.\nwe quantify history and the social sciences to learn about in/justice & futurity."
+    "text": "Data and Du Bois\n\n1900 Paris Exhibition infographics\nAtlanta University Studies\n\nA quantitative abolitionist inquiry, phase 1: Wells on lynching\nFATAL: A study of fatal police interactions in the United States\nA quantitative abolitionist inquiry, phase 2: Police\nA quantitative abolitionist inquiry, phase 3: Prisons\nCensus history project, phase 1: Race and ethnicity\n\nWe support equitable open source practices.\nSee a list of our project repositories here."
   },
   {
     "objectID": "lessons/lesson02-slides.html#overview-of-fatal-force-v2-files",
@@ -159,68 +236,5 @@
     "title": "Lesson 1",
     "section": "Data reporting: Creating a report",
     "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
-  },
-  {
-    "objectID": "files/user-group.html",
-    "href": "files/user-group.html",
-    "title": "What is a user group?",
-    "section": "",
-    "text": "In computer science a user group is a collection of people who are interested in a specific topic, area of study, or development. This collection often uses the same products and tools to complete their work, and they use the internet and other digital tools and software to share their work."
-  },
-  {
-    "objectID": "events.html#fall-1",
-    "href": "events.html#fall-1",
-    "title": "Recurring events",
-    "section": "2023 fall",
-    "text": "2023 fall"
-  },
-  {
-    "objectID": "events.html#spring-1",
-    "href": "events.html#spring-1",
-    "title": "Recurring events",
-    "section": "2024 spring",
-    "text": "2024 spring\n\nBob Moses Conference\nPresenters: Kade Davis, Gabriella La Cour, Basil Ghali, Nathan Alexander, and Qyana Stewart\n\n\n\nBob Moses Conference"
-  },
-  {
-    "objectID": "events.html#fall-2",
-    "href": "events.html#fall-2",
-    "title": "Recurring events",
-    "section": "2021 fall",
-    "text": "2021 fall\n\nInstitute for Mathematics and Democracy (IMD) Conference\nPresenters: Jalil Cooper and Nathan Alexander\n\n\n\nInstitute for Mathematics and Democracy Conference"
-  },
-  {
-    "objectID": "events.html#spring-2",
-    "href": "events.html#spring-2",
-    "title": "Recurring events",
-    "section": "2023 spring",
-    "text": "2023 spring\n\nAmerican Educational Research Association (AERA) conference\nPresenters: Nathan Alexander, Blake O’Neal Turner, Darnell Leatherwood, Francis Henderson, David Wallace, Candace Kyles"
-  },
-  {
-    "objectID": "events.html#spring-3",
-    "href": "events.html#spring-3",
-    "title": "Recurring events",
-    "section": "2022 spring",
-    "text": "2022 spring"
-  },
-  {
-    "objectID": "events.html#events-by-term",
-    "href": "events.html#events-by-term",
-    "title": "2024 spring",
-    "section": "Events by term",
-    "text": "Events by term\n\n2025 spring\n\n\n2024 fall\n\nHBCU STEM Day\n\n\nIntermediate R/Posit Workshop for Social Scientists\nPresenter: Lyrric Jackson\n\n\n\nIntermediate R/Posit Workshpo for Social Scientists\n\n\n\n\n\nThe Mathematics of Democracy\nModerator: Jalil Cooper\n\n\n\nThe Mathematics of Democracy\n\n\n\n\nChocolate City Mathy Hour\nPresenters: Zoe Williams and Nathan Alexander\n\n\n\nWhat happened to Chocolate City?"
-  },
-  {
-    "objectID": "events.html#spring",
-    "href": "events.html#spring",
-    "title": "Recurring events",
-    "section": "2025 spring",
-    "text": "2025 spring"
-  },
-  {
-    "objectID": "events.html#fall",
-    "href": "events.html#fall",
-    "title": "Recurring events",
-    "section": "2024 fall",
-    "text": "2024 fall\n\nHBCU STEM Day\n\n\nIntermediate R/Posit Workshop for Social Scientists\nPresenter: Lyrric Jackson\n\n\n\nIntermediate R/Posit Workshpo for Social Scientists\n\n\n\n\nThe Mathematics of Democracy\nModerator: Jalil Cooper\n\n\n\nThe Mathematics of Democracy\n\n\n\n\nChocolate City Mathy Hour\nPresenters: Zoe Williams and Nathan Alexander\n\n\n\nWhat happened to Chocolate City?"
   }
 ]

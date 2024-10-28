@@ -1,0 +1,5 @@
+---
+title: "What is a user group?"
+---
+
+In computer science a user group is a collection of people who are interested in a specific topic, area of study, or development. This collection often uses the same products and tools to complete their work, and they use the internet and other digital tools and software to share their work.

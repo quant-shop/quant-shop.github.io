@@ -1,14 +1,70 @@
 ---
-title: "Events"
+title: ""
 ---
 
-# 2025 spring
+# Recurring events
 
-# 2024 fall
+## census-users group
+
+Thursday at 9:30am ET via Zoom.
+
+## ed-users group
+
+Details forthcoming.
+
+# Events by term
+
+## 2025 spring
+
+## 2024 fall
+
+### HBCU STEM Day
+
+### Intermediate R/Posit Workshop for Social Scientists
+
+Presenter: Lyrric Jackson
 
 ![Intermediate R/Posit Workshpo for Social Scientists](img/events/2024-nov-workshop.jpg){width=50%}
 
+### The Mathematics of Democracy
+
+Moderator: Jalil Cooper
+
 ![The Mathematics of Democracy](img/events/volic-guest-workshop.png){width=50%}
 
+### Chocolate City Mathy Hour
+
+Presenters: Zoe Williams and Nathan Alexander
+
 ![What happened to Chocolate City?](img/events/chocolate-city.png){width=50%}
+
+## 2024 spring
+
+### Bob Moses Conference
+
+Presenters: Kade Davis, Gabriella La Cour, Basil Ghali, Nathan Alexander, and Qyana Stewart
+
+[![Bob Moses Conference](img/events/bob-moses-conf copy.png){width=75%}](https://www.bobmosesconference.com/)
+
+## 2023 fall
+
+## 2023 spring
+
+### American Educational Research Association (AERA) conference
+
+Presenters: Nathan Alexander, Blake O'Neal Turner, Darnell Leatherwood, Francis Henderson, David Wallace, Candace Kyles
+
+## 2022 spring
+
+## 2021 fall
+
+### Institute for Mathematics and Democracy (IMD) Conference
+
+Presenters: Jalil Cooper and Nathan Alexander
+
+[![Institute for Mathematics and Democracy Conference](img/events/imd-2021-conf.png){width=75%}](https://mathematics-democracy-institute.org/2021-conference/)
+
+
+
+
 

@@ -1,0 +1,13 @@
+---
+title: "What happened to Chocolate City?"
+description: ""
+author: "Nathan Alexander, PhD"
+date: "10/29/2024"
+categories:
+  - DC
+  - black
+  - analysis
+  - mathematics
+---
+
+On October 4th, the Quantitative Histories Workshop partnered with Nubian Hueman in Anacostia, DC to host a #publicmath event focused on the mathematics behind DC's changing demographics. During the event, participants engaged in a host of activities related to gerrymandering, gentrification, and the analysis of U.S. census data on historically Black communities.

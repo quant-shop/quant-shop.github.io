@@ -9,6 +9,4 @@ listing:
     categories: [news, code, analytics, mathematics, posts]
 ---
 
-- [the mathematics of democracy](2024-10-math-of-democracy.qmd)
-
-- [what happened to chocolate city?]()
+- [what happened to chocolate city?](blog/chocolate-city.qmd)

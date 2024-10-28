@@ -16,9 +16,9 @@
   {
     "objectID": "quant-shop.html",
     "href": "quant-shop.html",
-    "title": "Notes from the workshop",
+    "title": "Notes from The Workshop",
     "section": "",
-    "text": "Workshops are intense explorations into a topic of study.\n\nData and Du Bois\nA quantitative abolitionist inquiry, phase 1: Wells on lynching\nFATAL: A study of fatal police interactions in the United States\nA quantitative abolitionist inquiry, phase 2: Police\nA quantitative abolitionist inquiry, phase 3: Prisons\nCensus history project, phase 1: Race and ethnicity"
+    "text": "Data and Du Bois\n\n1900 Paris Exhibition infographics\nAtlanta University Studies\n\nA quantitative abolitionist inquiry, phase 1: Wells on lynching\nFATAL: A study of fatal police interactions in the United States\nA quantitative abolitionist inquiry, phase 2: Police\nA quantitative abolitionist inquiry, phase 3: Prisons\nCensus history project, phase 1: Race and ethnicity\n\nWe support equitable open source practices.\nSee a list of our project repositories here."
   },
   {
     "objectID": "blog/2024-10-math-of-democracy.html",
@@ -53,14 +53,14 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "2025 spring\n\n\n2024 fall\n\n\n\nIntermediate R/Posit Workshpo for Social Scientists\n\n\n\n\n\nThe Mathematics of Democracy\n\n\n\n\n\nWhat happened to Chocolate City?"
+    "text": "2025 spring\n\ncensus-users group\n\n\ned-users group\n\n\n\n2024 fall\n\nHBCU STEM Day\n\n\nIntermediate R/Posit Workshop for Social Scientists\nPresenter: Lyrric Jackson\n\n\n\nIntermediate R/Posit Workshpo for Social Scientists\n\n\n\n\nThe Mathematics of Democracy\nModerator: Jalil Cooper\n\n\n\nThe Mathematics of Democracy\n\n\n\n\nChocolate City Mathy Hour\nPresenters: Zoe Williams and Nathan Alexander\n\n\n\nWhat happened to Chocolate City?\n\n\n\n\n\n2024 spring\n\nBob Moses Conference\nPresenters: Kade Davis, Gabriella La Cour, Basil Ghali, Nathan Alexander, and Qyana Stewart\n\n\n\nBob Moses Conference\n\n\n\n\n\n2023 fall\n\n\n2022 spring\n\n\n2021 fall\n\nInstitute for Mathematics and Democracy (IMD) Conference\nPresenters: Jalil Cooper and Nathan Alexander\n\n\n\nInstitute for Mathematics and Democracy Conference"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "welcome user. choose your quest.\n\nsee our workshop at quant-shop-users\nor visit:\n\naj-lab\narchives\ncensus-users\ncritstats-users\ned-users\n\n\nwhat is a user group?"
+    "text": "welcome user. choose your quest.\n\nsee our workshops at quant-shop-users\nvisit:\n\naj-lab\narchives\ncensus-users\ncritstats-users\ned-users\n\n\nwhat is a user group?"
   },
   {
     "objectID": "blog/blog.html",
@@ -159,5 +159,68 @@
     "title": "Lesson 1",
     "section": "Data reporting: Creating a report",
     "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
+  },
+  {
+    "objectID": "files/user-group.html",
+    "href": "files/user-group.html",
+    "title": "What is a user group?",
+    "section": "",
+    "text": "In computer science a user group is a collection of people who are interested in a specific topic, area of study, or development. This collection often uses the same products and tools to complete their work, and they use the internet and other digital tools and software to share their work."
+  },
+  {
+    "objectID": "events.html#fall-1",
+    "href": "events.html#fall-1",
+    "title": "Recurring events",
+    "section": "2023 fall",
+    "text": "2023 fall"
+  },
+  {
+    "objectID": "events.html#spring-1",
+    "href": "events.html#spring-1",
+    "title": "Recurring events",
+    "section": "2024 spring",
+    "text": "2024 spring\n\nBob Moses Conference\nPresenters: Kade Davis, Gabriella La Cour, Basil Ghali, Nathan Alexander, and Qyana Stewart\n\n\n\nBob Moses Conference"
+  },
+  {
+    "objectID": "events.html#fall-2",
+    "href": "events.html#fall-2",
+    "title": "Recurring events",
+    "section": "2021 fall",
+    "text": "2021 fall\n\nInstitute for Mathematics and Democracy (IMD) Conference\nPresenters: Jalil Cooper and Nathan Alexander\n\n\n\nInstitute for Mathematics and Democracy Conference"
+  },
+  {
+    "objectID": "events.html#spring-2",
+    "href": "events.html#spring-2",
+    "title": "Recurring events",
+    "section": "2023 spring",
+    "text": "2023 spring\n\nAmerican Educational Research Association (AERA) conference\nPresenters: Nathan Alexander, Blake O’Neal Turner, Darnell Leatherwood, Francis Henderson, David Wallace, Candace Kyles"
+  },
+  {
+    "objectID": "events.html#spring-3",
+    "href": "events.html#spring-3",
+    "title": "Recurring events",
+    "section": "2022 spring",
+    "text": "2022 spring"
+  },
+  {
+    "objectID": "events.html#events-by-term",
+    "href": "events.html#events-by-term",
+    "title": "2024 spring",
+    "section": "Events by term",
+    "text": "Events by term\n\n2025 spring\n\n\n2024 fall\n\nHBCU STEM Day\n\n\nIntermediate R/Posit Workshop for Social Scientists\nPresenter: Lyrric Jackson\n\n\n\nIntermediate R/Posit Workshpo for Social Scientists\n\n\n\n\n\nThe Mathematics of Democracy\nModerator: Jalil Cooper\n\n\n\nThe Mathematics of Democracy\n\n\n\n\nChocolate City Mathy Hour\nPresenters: Zoe Williams and Nathan Alexander\n\n\n\nWhat happened to Chocolate City?"
+  },
+  {
+    "objectID": "events.html#spring",
+    "href": "events.html#spring",
+    "title": "Recurring events",
+    "section": "2025 spring",
+    "text": "2025 spring"
+  },
+  {
+    "objectID": "events.html#fall",
+    "href": "events.html#fall",
+    "title": "Recurring events",
+    "section": "2024 fall",
+    "text": "2024 fall\n\nHBCU STEM Day\n\n\nIntermediate R/Posit Workshop for Social Scientists\nPresenter: Lyrric Jackson\n\n\n\nIntermediate R/Posit Workshpo for Social Scientists\n\n\n\n\nThe Mathematics of Democracy\nModerator: Jalil Cooper\n\n\n\nThe Mathematics of Democracy\n\n\n\n\nChocolate City Mathy Hour\nPresenters: Zoe Williams and Nathan Alexander\n\n\n\nWhat happened to Chocolate City?"
   }
 ]

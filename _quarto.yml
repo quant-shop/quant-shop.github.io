@@ -6,6 +6,7 @@ website:
   title: ""
   image: img/quant_workshop_logo.png
   navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home
@@ -13,6 +14,8 @@ website:
         text: About
       - href: people.qmd
         text: People
+      - href: quant-shop.qmd
+        text: quant-shop
       - href: research.qmd
         text: Research
       - href: events.qmd

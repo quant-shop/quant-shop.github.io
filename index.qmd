@@ -23,9 +23,9 @@ about:
 
 welcome user. choose your quest.
 
-- see our workshop at [quant-shop-users](quant-shop.qmd){.external target="_blank"}
+- see our workshops at [quant-shop-users](quant-shop.qmd){.external target="_blank"}
 
-- or visit:
+- visit:
 
   - [aj-lab](){.external target="_blank"}
   
@@ -37,7 +37,7 @@ welcome user. choose your quest.
 
   - [ed-users](https://professornaite.github.io/racism-stem-ed/){.external target="_blank"}
 
-what is a [user group](https://dictionary.cambridge.org/us/dictionary/english/user-group){target="_blank"}?
+what is a [user group](files/user-group.qmd){target="_blank"}?
 
 ```{r, include=F, warning=F}
 library(igraph)

@@ -12,6 +12,8 @@ about:
       href: https://github.com/quant-shop
 ---
 
+- [State Violence](https://professornaite.github.io/bob){.external target="_blank"}
+
 - [Data and Du Bois](https:quant-shop.github.io/dubois-infographics){.external target="_blank"}
 
   - [1900 Paris Exhibition infographics](https:quant-shop.github.io/dubois-infographics){.external target="_blank"}

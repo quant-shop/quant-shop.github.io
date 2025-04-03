@@ -1,6 +1,101 @@
 ---
 title: "People"
+image: img/quant_workshop_logo.png
+format:
+  html:
+    page-layout: full
+    css: styles.css
 ---
 
+# Lab Members
 
+Meet the talented individuals who make up our lab. Below are photos and brief descriptions of each member.
+
+<div class="team-grid">
+
+<div class="team-member">
+  <img src="img/logo.png" alt="Dr. Jane Doe" class="circle">
+  <h3>Dr. Jane Doe</h3>
+  <p><strong>Role:</strong> Principal Investigator</p>
+  <p>Dr. Jane Doe is an expert in quantitative histories and has led the lab since its inception.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/logo.png" alt="John Smith" class="circle">
+  <h3>John Smith</h3>
+  <p><strong>Role:</strong> Postdoctoral Researcher</p>
+  <p>John specializes in machine learning applications in historical data analysis.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/logo.png" alt="Emily Johnson" class="circle">
+  <h3>Emily Johnson</h3>
+  <p><strong>Role:</strong> Graduate Student</p>
+  <p>Emily focuses on statistical modeling and data visualization for historical trends.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/logo.png" alt="Michael Brown" class="circle">
+  <h3>Michael Brown</h3>
+  <p><strong>Role:</strong> Data Analyst</p>
+  <p>Michael manages the lab's datasets and ensures data quality for all projects.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/logo.png" alt="Dr. Jane Doe" class="circle">
+  <h3>Dr. Jane Doe</h3>
+  <p><strong>Role:</strong> Principal Investigator</p>
+  <p>Dr. Jane Doe is an expert in quantitative histories and has led the lab since its inception.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/logo.png" alt="John Smith" class="circle">
+  <h3>John Smith</h3>
+  <p><strong>Role:</strong> Postdoctoral Researcher</p>
+  <p>John specializes in machine learning applications in historical data analysis.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/logo.png" alt="Emily Johnson" class="circle">
+  <h3>Emily Johnson</h3>
+  <p><strong>Role:</strong> Graduate Student</p>
+  <p>Emily focuses on statistical modeling and data visualization for historical trends.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/logo.png" alt="Michael Brown" class="circle">
+  <h3>Michael Brown</h3>
+  <p><strong>Role:</strong> Data Analyst</p>
+  <p>Michael manages the lab's datasets and ensures data quality for all projects.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/logo.png" alt="Dr. Jane Doe" class="circle">
+  <h3>Dr. Jane Doe</h3>
+  <p><strong>Role:</strong> Principal Investigator</p>
+  <p>Dr. Jane Doe is an expert in quantitative histories and has led the lab since its inception.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/logo.png" alt="John Smith" class="circle">
+  <h3>John Smith</h3>
+  <p><strong>Role:</strong> Postdoctoral Researcher</p>
+  <p>John specializes in machine learning applications in historical data analysis.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/logo.png" alt="Emily Johnson" class="circle">
+  <h3>Emily Johnson</h3>
+  <p><strong>Role:</strong> Graduate Student</p>
+  <p>Emily focuses on statistical modeling and data visualization for historical trends.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/logo.png" alt="Michael Brown" class="circle">
+  <h3>Michael Brown</h3>
+  <p><strong>Role:</strong> Data Analyst</p>
+  <p>Michael manages the lab's datasets and ensures data quality for all projects.</p>
+</div>
+
+</div>
 

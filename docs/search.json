@@ -236,5 +236,19 @@
     "title": "Lesson 1",
     "section": "Data reporting: Creating a report",
     "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Lab Members\nMeet the talented individuals who make up our lab. Below are photos and brief descriptions of each member.\n\n\n\n\nDr. Jane Doe\n\n\nRole: Principal Investigator\n\n\nDr. Jane Doe is an expert in quantitative histories and has led the lab since its inception.\n\n\n\n\n\nJohn Smith\n\n\nRole: Postdoctoral Researcher\n\n\nJohn specializes in machine learning applications in historical data analysis.\n\n\n\n\n\nEmily Johnson\n\n\nRole: Graduate Student\n\n\nEmily focuses on statistical modeling and data visualization for historical trends.\n\n\n\n\n\nMichael Brown\n\n\nRole: Data Analyst\n\n\nMichael manages the lab’s datasets and ensures data quality for all projects.\n\n\n\n\n\nDr. Jane Doe\n\n\nRole: Principal Investigator\n\n\nDr. Jane Doe is an expert in quantitative histories and has led the lab since its inception.\n\n\n\n\n\nJohn Smith\n\n\nRole: Postdoctoral Researcher\n\n\nJohn specializes in machine learning applications in historical data analysis.\n\n\n\n\n\nEmily Johnson\n\n\nRole: Graduate Student\n\n\nEmily focuses on statistical modeling and data visualization for historical trends.\n\n\n\n\n\nMichael Brown\n\n\nRole: Data Analyst\n\n\nMichael manages the lab’s datasets and ensures data quality for all projects.\n\n\n\n\n\nDr. Jane Doe\n\n\nRole: Principal Investigator\n\n\nDr. Jane Doe is an expert in quantitative histories and has led the lab since its inception.\n\n\n\n\n\nJohn Smith\n\n\nRole: Postdoctoral Researcher\n\n\nJohn specializes in machine learning applications in historical data analysis.\n\n\n\n\n\nEmily Johnson\n\n\nRole: Graduate Student\n\n\nEmily focuses on statistical modeling and data visualization for historical trends.\n\n\n\n\n\nMichael Brown\n\n\nRole: Data Analyst\n\n\nMichael manages the lab’s datasets and ensures data quality for all projects."
+  },
+  {
+    "objectID": "blog/2024-10-chocolate-city.html",
+    "href": "blog/2024-10-chocolate-city.html",
+    "title": "What happened to Chocolate City?",
+    "section": "",
+    "text": "On October 4th, the Quantitative Histories Workshop partnered with Nubian Hueman in Anacostia, DC to host a #publicmath event focused on the mathematics behind DC’s changing demographics. During the event, participants engaged in a host of activities related to gerrymandering, gentrification, and the analysis of U.S. census data on historically Black communities."
   }
 ]

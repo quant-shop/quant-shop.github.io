@@ -20,6 +20,8 @@ website:
         text: research
       - href: events.qmd
         text: events
+      - href: manual.qmd
+        text: lab manual
       
   page-footer:
     right: "Built with love in [Quarto](https://quarto.org/)"

@@ -22,19 +22,19 @@ about:
 
 - the OG: Du Bois
 
-  - [data and Du Bois](https:quant-shop.github.io/dubois-infographics){.external target="_blank"}
+  - [data and Du Bois](https://quant-shop.github.io/dubois-infographics){.external target="_blank"}
 
-  - [1900 paris exhibition infographics](https:quant-shop.github.io/dubois-infographics){.external target="_blank"}
+  - [1900 paris exhibition infographics](https://quant-shop.github.io/dubois-infographics){.external target="_blank"}
   
-  - [the Atlanta University Studies](https:quant-shop.github.io/atlanta-university-studies){.external target="_blank"}
+  - [the Atlanta University Studies](https://quant-shop.github.io/atlanta-university-studies){.external target="_blank"}
 
 - abolition
 
-  - [a quantitative abolitionist inquiry, phase 1: lynching](https:quant-shop.github.io/red-record){.external target="_blank"}
+  - [a quantitative abolitionist inquiry, phase 1: lynching](https://quant-shop.github.io/red-record){.external target="_blank"}
 
-  - [a quantitative abolitionist inquiry, phase 2: policing](https:quant-shop.github.io/police){.external target="_blank"}
+  - [a quantitative abolitionist inquiry, phase 2: policing](https://quant-shop.github.io/police){.external target="_blank"}
 
-  - [a quantitative abolitionist inquiry, phase 3: prisons](https:quant-shop.github.io/prisons){.external target="_blank"}
+  - [a quantitative abolitionist inquiry, phase 3: prisons](https://quant-shop.github.io/prisons){.external target="_blank"}
 
 - demography
 

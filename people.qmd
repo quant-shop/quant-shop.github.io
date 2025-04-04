@@ -116,8 +116,6 @@ Meet the talented individuals who make up our lab!
   <p>Nicholas is a junior elementary education major at Howard University.</p>
 </div>
 
-</div>
-
 <div class="alumni">
 
 <b><u>Lab Alum</u></b>

@@ -27,7 +27,7 @@ welcome user. choose your quest.
 
 - visit our current projects:
 
-  - [hj-lab](){.external target="_blank"}
+  - [hj-lab](https://hyeryeonjang.com/){.external target="_blank"}
   
   - [census-users](https://quant-shop.github.io/census/){.external target="_blank"}
 

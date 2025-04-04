@@ -13,12 +13,15 @@ about:
     - icon: github
       text: Github
       href: https://github.com/quant-shop
+      target: _blank
     - icon: linktree
       text: Linktree
       href: https://linktr.ee/QuantHistories
+      target: _blank
     - icon: twitter
       text: Twitter
       href: https://twitter.com/qhworkshop
+      target: _blank
 ---
 
 welcome user. choose your quest.
@@ -38,32 +41,4 @@ welcome user. choose your quest.
   - [ed-users](https://professornaite.github.io/racism-stem-ed/){.external target="_blank"}
 
 what is a [user group](files/user-group.qmd){target="_blank"}?
-
-```{r, include=F, warning=F}
-library(igraph)
-
-# Create a small graph
-nodes <- c("archive", "critstats", "census", "D", "E")
-edges <- c("archive", "archive", "critstats", "critstats", "census", "census", "D", "D", "E", "E", "A", "critstats", "archive", "census")
-
-g <- graph(edges, directed = FALSE)
-
-# Set node colors
-V(g)$color <- "grey"
-
-# Set node sizes
-V(g)$size <- 30
-
-# Set edge width
-E(g)$width <- 3
-```
-
-```{r, include=F, echo=F}
-# Plot the graph
-plot(g, 
-     layout = layout_in_circle,
-     vertex.label.color = "black",
-     vertex.label.cex = 1.2,
-     edge.color = "gray50")
-```
 

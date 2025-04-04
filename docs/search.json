@@ -25,7 +25,7 @@
     "href": "about.html",
     "title": "about",
     "section": "",
-    "text": "we are a network of projects and small groups.\nWe make use of modern computational tools and software to learn about and respond to local and global issues of in/justice. Our work empowers our members to set up community-centered, near-peer user groups. In these groups, individuals and organizations engage with our team and set up small learning communities to sustain longer term engagement in their local contexts.\nwe quantify history and the social sciences to learn about in/justice & futurity."
+    "text": "we are a network of small group projects who use interdisiciplinary inquiries to understand history.\n\n\n\nhoward university lab members at the 2025 DC Open Data Showcase\n\n\nmore specifically, we quantify historical events and the social sciences to learn about in/justice and futurity. we make use of critical theories and modern computational tools to learn about and respond to local and global issues of in/justice. our work inspires our members to set up community-centered, near-peer research projects and user groups. in these groups, users engage with other members of their teams by setting up small learning communities to engage in interdisciplinary learning about pressing questions.\nour workshop is inspired by the legacy of the great, late Bob Moses, founder of the Algebra Project."
   },
   {
     "objectID": "blog/blog.html",
@@ -65,16 +65,16 @@
   {
     "objectID": "events.html",
     "href": "events.html",
-    "title": "Recurring events",
+    "title": "recurring",
     "section": "",
-    "text": "Thursdays at 9:30am ET via Zoom.\n\n\n\nDetails forthcoming."
+    "text": "Thursdays at 5:00pm ET via Zoom.\n\n\n\nThursdays at 5:30pm ET via Zoom."
   },
   {
     "objectID": "events.html#census-users-group",
     "href": "events.html#census-users-group",
-    "title": "Recurring events",
+    "title": "recurring events",
     "section": "",
-    "text": "Thursdays at 9:30am ET via Zoom."
+    "text": "Thursdays at 5:00pm ET via Zoom."
   },
   {
     "objectID": "events.html#ed-users-group",
@@ -86,58 +86,58 @@
   {
     "objectID": "events.html#spring",
     "href": "events.html#spring",
-    "title": "Recurring events",
+    "title": "recurring",
     "section": "2025 spring",
-    "text": "2025 spring"
+    "text": "2025 spring\n\nIntermediate R Workshop Series\n\n\n\nDC Open Data Showcase\nPresenters: Bayowa Onabajo, Jibek Gupta, and Kyshan Nichols-Smith"
   },
   {
     "objectID": "events.html#fall",
     "href": "events.html#fall",
-    "title": "Recurring events",
-    "section": "2024 fall",
-    "text": "2024 fall\n\nHBCU STEM Day\n\n\nIntermediate R/Posit Workshop for Social Scientists\nPresenter: Lyrric Jackson\n\n\n\nIntermediate R/Posit Workshpo for Social Scientists\n\n\n\n\nThe Mathematics of Democracy\nModerator: Jalil Cooper\n\n\n\nThe Mathematics of Democracy\n\n\n\n\nChocolate City Mathy Hour\nPresenters: Zoe Williams and Nathan Alexander\n\n\n\nWhat happened to Chocolate City?"
+    "title": "recurring",
+    "section": "2025 fall",
+    "text": "2025 fall\ncalendar forthcoming."
   },
   {
     "objectID": "events.html#spring-1",
     "href": "events.html#spring-1",
-    "title": "Recurring events",
+    "title": "recurring",
     "section": "2024 spring",
-    "text": "2024 spring\n\nBob Moses Conference\nPresenters: Kade Davis, Gabriella La Cour, Basil Ghali, Nathan Alexander, and Qyana Stewart\n\n\n\nBob Moses Conference"
+    "text": "2024 spring\n\nBob Moses Conference\nPresenters: Kade Davis, Gabriella La Cour, Basil Ghali, and Qyana Stewart\n\n\n\nBob Moses Conference"
   },
   {
     "objectID": "events.html#fall-1",
     "href": "events.html#fall-1",
-    "title": "Recurring events",
-    "section": "2023 fall",
-    "text": "2023 fall"
+    "title": "recurring",
+    "section": "2024 fall",
+    "text": "2024 fall\n\nHBCU STEM Day\nPresenter: Jibek Gupta\n\n\nIntermediate R/Posit Workshop for Social Scientists\nPresenter: Lyrric Jackson\n\n\n\nThe Mathematics of Democracy\nModerator: Jalil Cooper\n\n\n\nChocolate City Mathy Hour\nPresenter: Zoe Williams"
   },
   {
     "objectID": "events.html#spring-2",
     "href": "events.html#spring-2",
-    "title": "Recurring events",
+    "title": "recurring",
     "section": "2023 spring",
     "text": "2023 spring\n\nAmerican Educational Research Association (AERA) conference\nPresenters: Nathan Alexander, Blake O’Neal Turner, Darnell Leatherwood, Francis Henderson, David Wallace, Candace Kyles"
   },
   {
     "objectID": "events.html#spring-3",
     "href": "events.html#spring-3",
-    "title": "Recurring events",
+    "title": "recurring",
     "section": "2022 spring",
     "text": "2022 spring"
   },
   {
     "objectID": "events.html#fall-2",
     "href": "events.html#fall-2",
-    "title": "Recurring events",
+    "title": "recurring",
     "section": "2021 fall",
-    "text": "2021 fall\n\nInstitute for Mathematics and Democracy (IMD) Conference\nPresenters: Jalil Cooper and Nathan Alexander\n\n\n\nInstitute for Mathematics and Democracy Conference"
+    "text": "2021 fall\n\nInstitute for Mathematics and Democracy (IMD) Conference\nPresenter: Jalil Cooper\n\n\n\nInstitute for Mathematics and Democracy Conference"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "welcome user. choose your quest.\n\nsee our workshops at quant-shop-users\nvisit:\n\naj-lab\narchives\ncensus-users\ncritstats-users\ned-users\n\n\nwhat is a user group?"
+    "text": "welcome user. choose your quest.\n\nsee all of our workshops at quant-shop-users\nvisit our current projects:\n\nhj-lab\ncensus-users\ncritstats-users\ntext-users\ned-users\n\n\nwhat is a user group?"
   },
   {
     "objectID": "blog/2024-10-math-of-democracy.html",
@@ -151,7 +151,7 @@
     "href": "quant-shop.html",
     "title": "Notes from The Workshop",
     "section": "",
-    "text": "State Violence\nData and Du Bois\n\n1900 Paris Exhibition infographics\nAtlanta University Studies\n\nA quantitative abolitionist inquiry, phase 1: Wells on lynching\nFATAL: A study of fatal police interactions in the United States\nA quantitative abolitionist inquiry, phase 2: Police\nA quantitative abolitionist inquiry, phase 3: Prisons\nCensus history project, phase 1: Race and ethnicity\n\nWe support equitable open source practices.\nSee a list of our project repositories here."
+    "text": "state violence\n\ngenocide (forthcoming)\nFATAL: a study of fatal police interactions in the united states\nbombs over baghdad\n\nthe OG: Du Bois\n\ndata and Du Bois\n1900 paris exhibition infographics\nthe Atlanta University Studies\n\nabolition\n\na quantitative abolitionist inquiry, phase 1: lynching\na quantitative abolitionist inquiry, phase 2: policing\na quantitative abolitionist inquiry, phase 3: prisons\n\ndemography\n\ncensus history project, phase 1: race and ethnicity\ncensus history project, phase 2: multidimensionality (forthcoming)\n\npolitics and policy\n\nrocking the vote (forthcoming)\n\nhave a project idea!? hit us up at quantshopusers [at] gmail [dot] com\n\nwe support equitable open source practices. see a list of our project repositories here."
   },
   {
     "objectID": "lessons/lesson02-slides.html#overview-of-fatal-force-v2-files",
@@ -242,7 +242,7 @@
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "Lab Members\nMeet the talented individuals who make up our lab. Below are photos and brief descriptions of each member.\n\n\n\n\nDr. Jane Doe\n\n\nRole: Principal Investigator\n\n\nDr. Jane Doe is an expert in quantitative histories and has led the lab since its inception.\n\n\n\n\n\nJohn Smith\n\n\nRole: Postdoctoral Researcher\n\n\nJohn specializes in machine learning applications in historical data analysis.\n\n\n\n\n\nEmily Johnson\n\n\nRole: Graduate Student\n\n\nEmily focuses on statistical modeling and data visualization for historical trends.\n\n\n\n\n\nMichael Brown\n\n\nRole: Data Analyst\n\n\nMichael manages the lab’s datasets and ensures data quality for all projects.\n\n\n\n\n\nDr. Jane Doe\n\n\nRole: Principal Investigator\n\n\nDr. Jane Doe is an expert in quantitative histories and has led the lab since its inception.\n\n\n\n\n\nJohn Smith\n\n\nRole: Postdoctoral Researcher\n\n\nJohn specializes in machine learning applications in historical data analysis.\n\n\n\n\n\nEmily Johnson\n\n\nRole: Graduate Student\n\n\nEmily focuses on statistical modeling and data visualization for historical trends.\n\n\n\n\n\nMichael Brown\n\n\nRole: Data Analyst\n\n\nMichael manages the lab’s datasets and ensures data quality for all projects.\n\n\n\n\n\nDr. Jane Doe\n\n\nRole: Principal Investigator\n\n\nDr. Jane Doe is an expert in quantitative histories and has led the lab since its inception.\n\n\n\n\n\nJohn Smith\n\n\nRole: Postdoctoral Researcher\n\n\nJohn specializes in machine learning applications in historical data analysis.\n\n\n\n\n\nEmily Johnson\n\n\nRole: Graduate Student\n\n\nEmily focuses on statistical modeling and data visualization for historical trends.\n\n\n\n\n\nMichael Brown\n\n\nRole: Data Analyst\n\n\nMichael manages the lab’s datasets and ensures data quality for all projects."
+    "text": "Meet the talented individuals who make up our lab!\n\n\n\n\nNathan Alexander, PhD\n\n\nPI, Howard University\n\n\nDr. Alexander is the founder of the Workshop and he has led the lab since its inception.\n\n\n\n\n\nHelen Jang, PhD\n\n\nPI, Morehouse College\n\n\nDr. Jang directs our sister lab, the HJLab, in the Atlanta University Center (AUC).\n\n\n\n\n\nLyrric Jackson\n\n\nSpelman College\n\n\nProf. Jackson is our coordinator, in-house technical expert, and lab manager.\n\n\n\n\n\nJalil Coooper\n\n\nStanford University\n\n\nJalil is a senior design major at Stanford and he has been with the lab since its inception.\n\n\n\n\n\nMyles Ndiritu\n\n\nMorehouse College\n\n\nMyles is a junior political science major at Morehouse College and a lab TA.\n\n\n\n\n\nKyshan Nichols-Smith\n\n\nMorehouse College\n\n\nKyshan is a senior political science major at Morehouse College and a lab TA.\n\n\n\n\n\nQyana Stewart, MS\n\n\nHoward University\n\n\nQyana is a PhD candidate in Higher Education Leadership and Policy Studies.\n\n\n\n\n\nBasil Ghali\n\n\nHoward University\n\n\nBasil is a doctoral student in psychology and he has been with the lab since its inception.\n\n\n\n\n\nKade Davis\n\n\nMorehouse College\n\n\nKade is a senior sociology major at Morehouse College and a lab TA.\n\n\n\n\n\nZoe Williams\n\n\nHoward University\n\n\nZoe is a junior political science major at Howard University.\n\n\n\n\n\nJibek Gupta\n\n\nHoward University\n\n\nJibek is a junior computer science major at Howard University.\n\n\n\n\n\nBayoa Onabajo\n\n\nHoward University\n\n\nBayowa is a MS student in Applied Data Science and Analytics.\n\n\n\n\n\nAmari Gray\n\n\nMorehouse College\n\n\nAmari is a junior political science major at Morehouse College.\n\n\n\n\n\nJahmere Jackson\n\n\nHoward University\n\n\nJahmere is a freshman elementary education major at Howard University.\n\n\n\n\n\nNicholas Angelo\n\n\nHoward University\n\n\nNicholas is a junior elementary education major at Howard University.\n\n\n\nLab Alum\n\nJulian Amaya, Morehouse College\n\n\nJeremiah Lowther, Morehouse College\n\n\nMaya Phillips, Spelman College\n\n\nSayid Achilov, Brown University\n\n\nKenthia Roberts, Columbia University\n\n\nGabriella Walker, Spelman College\n\n\nJana Turner, Howard University\n\n\nDissandou Becolli, HS Scholar\n\n\nKareem Weaver, Morehouse College\n\n\nAmir Harris, Morehouse College\n\n\nBenjamin Holman, Morehouse College\n\n\nDalton Favors, Morehouse College\n\n\nDylen Richmond, Morehouse College\n\n\nMatthew Mann, Morehouse College\n\n\nXavier McKenzie, Morehouse College\n\n\nHasan Henry, Morehouse College"
   },
   {
     "objectID": "blog/2024-10-chocolate-city.html",
@@ -250,5 +250,33 @@
     "title": "What happened to Chocolate City?",
     "section": "",
     "text": "On October 4th, the Quantitative Histories Workshop partnered with Nubian Hueman in Anacostia, DC to host a #publicmath event focused on the mathematics behind DC’s changing demographics. During the event, participants engaged in a host of activities related to gerrymandering, gentrification, and the analysis of U.S. census data on historically Black communities."
+  },
+  {
+    "objectID": "events.html#pre-2020-fall",
+    "href": "events.html#pre-2020-fall",
+    "title": "Recurring events",
+    "section": "pre-2020 fall",
+    "text": "pre-2020 fall\n\n\n\nnathan alexander and bob moses at the 2017 data for Black Lives Conference"
+  },
+  {
+    "objectID": "events.html#pre-2020",
+    "href": "events.html#pre-2020",
+    "title": "recurring",
+    "section": "pre-2020",
+    "text": "pre-2020\n\n\n\nnathan alexander and bob moses at the 2017 data for Black Lives Conference"
+  },
+  {
+    "objectID": "events.html#text-users-group",
+    "href": "events.html#text-users-group",
+    "title": "recurring events",
+    "section": "",
+    "text": "Thursdays at 5:30pm ET via Zoom."
+  },
+  {
+    "objectID": "events.html#fall-3",
+    "href": "events.html#fall-3",
+    "title": "recurring",
+    "section": "2021 fall",
+    "text": "2021 fall\n\nInstitute for Mathematics and Democracy (IMD) Conference\nPresenter: Jalil Cooper\n\n\n\nInstitute for Mathematics and Democracy Conference"
   }
 ]

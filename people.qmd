@@ -7,95 +7,136 @@ format:
     css: styles.css
 ---
 
-# Lab Members
-
-Meet the talented individuals who make up our lab. Below are photos and brief descriptions of each member.
+Meet the talented individuals who make up our lab!
 
 <div class="team-grid">
 
 <div class="team-member">
-  <img src="img/logo.png" alt="Dr. Jane Doe" class="circle">
-  <h3>Dr. Jane Doe</h3>
-  <p><strong>Role:</strong> Principal Investigator</p>
-  <p>Dr. Jane Doe is an expert in quantitative histories and has led the lab since its inception.</p>
+  <img src="img/people/naite.jpg" alt="Nathan Alexander, PhD" class="circle">
+  <h3>Nathan Alexander, PhD</h3>
+  <p>PI, Howard University</p>
+  <p>Dr. Alexander is the founder of the Workshop and he has led the lab since its inception. </p>
 </div>
 
 <div class="team-member">
-  <img src="img/logo.png" alt="John Smith" class="circle">
-  <h3>John Smith</h3>
-  <p><strong>Role:</strong> Postdoctoral Researcher</p>
-  <p>John specializes in machine learning applications in historical data analysis.</p>
+  <img src="img/people/jang.jpg" alt="Helen Jang, PhD" class="circle">
+  <h3>Helen Jang, PhD</h3>
+  <p>PI, Morehouse College</p>
+  <p>Dr. Jang directs our sister lab, the HJLab, in the Atlanta University Center (AUC).</p>
 </div>
 
 <div class="team-member">
-  <img src="img/logo.png" alt="Emily Johnson" class="circle">
-  <h3>Emily Johnson</h3>
-  <p><strong>Role:</strong> Graduate Student</p>
-  <p>Emily focuses on statistical modeling and data visualization for historical trends.</p>
+  <img src="img/people/lyrric.jpg" alt="Lyrric Jackson" class="circle">
+  <h3>Lyrric Jackson</h3>
+  <p>Spelman College</p>
+  <p>Prof. Jackson is our coordinator, in-house technical expert, and lab manager.</p>
 </div>
 
 <div class="team-member">
-  <img src="img/logo.png" alt="Michael Brown" class="circle">
-  <h3>Michael Brown</h3>
-  <p><strong>Role:</strong> Data Analyst</p>
-  <p>Michael manages the lab's datasets and ensures data quality for all projects.</p>
+  <img src="img/people/jalil.jpg" alt="Jalil Cooper" class="circle">
+  <h3>Jalil Coooper</h3>
+  <p>Stanford University</p>
+  <p>Jalil is a senior design major at Stanford and he has been with the lab since its inception.</p>
 </div>
 
 <div class="team-member">
-  <img src="img/logo.png" alt="Dr. Jane Doe" class="circle">
-  <h3>Dr. Jane Doe</h3>
-  <p><strong>Role:</strong> Principal Investigator</p>
-  <p>Dr. Jane Doe is an expert in quantitative histories and has led the lab since its inception.</p>
+  <img src="img/people/myles.jpg" alt="Myles Ndiritu" class="circle">
+  <h3>Myles Ndiritu</h3>
+  <p>Morehouse College</p>
+  <p>Myles is a junior political science major at Morehouse College and a lab TA.</p>
 </div>
 
 <div class="team-member">
-  <img src="img/logo.png" alt="John Smith" class="circle">
-  <h3>John Smith</h3>
-  <p><strong>Role:</strong> Postdoctoral Researcher</p>
-  <p>John specializes in machine learning applications in historical data analysis.</p>
+  <img src="img/people/kyshan.jpeg" alt="Kyshan Nichols-Smith" class="circle">
+  <h3>Kyshan Nichols-Smith</h3>
+  <p>Morehouse College</p>
+  <p>Kyshan is a senior political science major at Morehouse College and a lab TA.</p>
 </div>
 
 <div class="team-member">
-  <img src="img/logo.png" alt="Emily Johnson" class="circle">
-  <h3>Emily Johnson</h3>
-  <p><strong>Role:</strong> Graduate Student</p>
-  <p>Emily focuses on statistical modeling and data visualization for historical trends.</p>
+  <img src="img/people/qyana.png" alt="Qyana Stewart" class="circle">
+  <h3>Qyana Stewart, MS</h3>
+  <p>Howard University</p>
+  <p>Qyana is a PhD candidate in Higher Education Leadership and Policy Studies.</p>
 </div>
 
 <div class="team-member">
-  <img src="img/logo.png" alt="Michael Brown" class="circle">
-  <h3>Michael Brown</h3>
-  <p><strong>Role:</strong> Data Analyst</p>
-  <p>Michael manages the lab's datasets and ensures data quality for all projects.</p>
+  <img src="img/people/basil.jpg" alt="Basil Ghali" class="circle">
+  <h3>Basil Ghali</h3>
+  <p>Howard University</p>
+  <p>Basil is a doctoral student in psychology and he has been with the lab since its inception.</p>
 </div>
 
 <div class="team-member">
-  <img src="img/logo.png" alt="Dr. Jane Doe" class="circle">
-  <h3>Dr. Jane Doe</h3>
-  <p><strong>Role:</strong> Principal Investigator</p>
-  <p>Dr. Jane Doe is an expert in quantitative histories and has led the lab since its inception.</p>
+  <img src="img/people/kade.jpg" alt="Kade Davis" class="circle">
+  <h3>Kade Davis</h3>
+  <p>Morehouse College</p>
+  <p>Kade is a senior sociology major at Morehouse College and a lab TA.</p>
 </div>
 
 <div class="team-member">
-  <img src="img/logo.png" alt="John Smith" class="circle">
-  <h3>John Smith</h3>
-  <p><strong>Role:</strong> Postdoctoral Researcher</p>
-  <p>John specializes in machine learning applications in historical data analysis.</p>
+  <img src="img/people/zoe.jpg" alt="Zoe Williams" class="circle">
+  <h3>Zoe Williams</h3>
+  <p>Howard University</p>
+  <p>Zoe is a junior political science major at Howard University.</p>
 </div>
 
 <div class="team-member">
-  <img src="img/logo.png" alt="Emily Johnson" class="circle">
-  <h3>Emily Johnson</h3>
-  <p><strong>Role:</strong> Graduate Student</p>
-  <p>Emily focuses on statistical modeling and data visualization for historical trends.</p>
+  <img src="img/people/jibek.jpeg" alt="Jibek Gupta" class="circle">
+  <h3>Jibek Gupta</h3>
+  <p>Howard University</p>
+  <p>Jibek is a junior computer science major at Howard University.</p>
 </div>
 
 <div class="team-member">
-  <img src="img/logo.png" alt="Michael Brown" class="circle">
-  <h3>Michael Brown</h3>
-  <p><strong>Role:</strong> Data Analyst</p>
-  <p>Michael manages the lab's datasets and ensures data quality for all projects.</p>
+  <img src="img/people/bayowa.jpeg" alt="Bayowa Onabajo" class="circle">
+  <h3>Bayoa Onabajo</h3>
+  <p>Howard University</p>
+  <p>Bayowa is a MS student in Applied Data Science and Analytics.</p>
 </div>
 
+<div class="team-member">
+  <img src="img/people/amari.jpg" alt="Amari Gray" class="circle">
+  <h3>Amari Gray</h3>
+  <p>Morehouse College</p>
+  <p>Amari is a junior political science major at Morehouse College.</p>
 </div>
 
+<div class="team-member">
+  <img src="img/people/jahmere.jpeg" alt="Jahmere Jackson" class="circle">
+  <h3>Jahmere Jackson</h3>
+  <p>Howard University</p>
+  <p>Jahmere is a freshman elementary education major at Howard University.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/nicholas.jpeg" alt="Nicholas Angelo" class="circle">
+  <h3>Nicholas Angelo</h3>
+  <p>Howard University</p>
+  <p>Nicholas is a junior elementary education major at Howard University.</p>
+</div>
+
+<div class="alumni">
+
+<b><u>Lab Alum</u></b>
+
+<p>Julian Amaya, Morehouse College</p>
+<p>Jeremiah Lowther, Morehouse College</p>
+<p>Maya Phillips, Spelman College</p>
+<p>Sayid Achilov, Brown University</p>
+<p>Kenthia Roberts, Columbia University</p>
+<p>Gabriella Walker, Spelman College</p>
+<p>Jana Turner, Howard University</p>
+<p>Dissandou Becolli, HS Scholar</p>
+<p>Kareem Weaver, Morehouse College</p>
+<p>Amir Harris, Morehouse College</p>
+<p>Benjamin Holman, Morehouse College</p>
+<p>Dalton Favors, Morehouse College</p>
+<p>Dylen Richmond, Morehouse College</p>
+<p>Matthew Mann, Morehouse College</p>
+<p>Xavier McKenzie, Morehouse College</p>
+<p>Hasan Henry, Morehouse College</p>
+
+
+
+</div>

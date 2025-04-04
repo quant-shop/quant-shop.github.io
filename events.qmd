@@ -2,51 +2,67 @@
 title: ""
 ---
 
-# Recurring events
+# recurring
 
-## census-users group
+### census-users group
 
-Thursdays at 9:30am ET via Zoom.
+Thursdays at 5:00pm ET via Zoom.
 
-## ed-users group
+### text-users group
 
-Details forthcoming.
+Thursdays at 5:30pm ET via Zoom.
 
-# Events by term
+---
+
+# by term
+
+## 2025 fall
+
+calendar forthcoming.
 
 ## 2025 spring
+
+### Intermediate R Workshop Series
+
+![](img/events/spring25-workshop-series-old.png){width=50%}
+
+### DC Open Data Showcase
+
+Presenters: Bayowa Onabajo, Jibek Gupta, and Kyshan Nichols-Smith
+
+![](img/events/2025-dc-open-data-showcase.jpg){width=50%}
 
 ## 2024 fall
 
 ### HBCU STEM Day
 
+Presenter: Jibek Gupta
+
 ### Intermediate R/Posit Workshop for Social Scientists
 
 Presenter: Lyrric Jackson
 
-![Intermediate R/Posit Workshpo for Social Scientists](img/events/2024-nov-workshop.jpg){width=50%}
+![](img/events/2024-nov-workshop.jpg){width=50%}
 
 ### The Mathematics of Democracy
 
 Moderator: Jalil Cooper
 
-![The Mathematics of Democracy](img/events/volic-guest-workshop.png){width=50%}
+![](img/events/volic-guest-workshop.png){width=50%}
 
 ### Chocolate City Mathy Hour
 
-Presenters: Zoe Williams and Nathan Alexander
+Presenter: Zoe Williams
 
-![What happened to Chocolate City?](img/events/chocolate-city.png){width=50%}
+![](img/events/chocolate-city.png){width=50%}
 
 ## 2024 spring
 
 ### Bob Moses Conference
 
-Presenters: Kade Davis, Gabriella La Cour, Basil Ghali, Nathan Alexander, and Qyana Stewart
+Presenters: Kade Davis, Gabriella La Cour, Basil Ghali, and Qyana Stewart
 
 [![Bob Moses Conference](img/events/bob-moses-conf copy.png){width=75%}](https://www.bobmosesconference.com/)
-
-## 2023 fall
 
 ## 2023 spring
 
@@ -54,16 +70,17 @@ Presenters: Kade Davis, Gabriella La Cour, Basil Ghali, Nathan Alexander, and Qy
 
 Presenters: Nathan Alexander, Blake O'Neal Turner, Darnell Leatherwood, Francis Henderson, David Wallace, Candace Kyles
 
-## 2022 spring
-
 ## 2021 fall
 
 ### Institute for Mathematics and Democracy (IMD) Conference
 
-Presenters: Jalil Cooper and Nathan Alexander
+Presenter: Jalil Cooper
 
 [![Institute for Mathematics and Democracy Conference](img/events/imd-2021-conf.png){width=75%}](https://mathematics-democracy-institute.org/2021-conference/)
 
+## pre-2020
+
+![nathan alexander and bob moses at the 2017 data for Black Lives Conference](/img/historical-figs/nathan-bob.jpg){width=40%}
 
 
 

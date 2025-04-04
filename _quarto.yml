@@ -9,23 +9,21 @@ website:
     search: true
     left:
       - href: index.qmd
-        text: Home
+        text: home
       - href: about.qmd
-        text: About
+        text: about
       - href: people.qmd
-        text: People
+        text: people
       - href: quant-shop.qmd
         text: quant-shop
       - href: research.qmd
-        text: Research
+        text: research
       - href: events.qmd
-        text: Events
-      - href: blog/blog.qmd
-        text: Blog
+        text: events
       
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; 2024 Quantitative Histories Workshop"
+    right: "Built with love in [Quarto](https://quarto.org/)"
+    left: "&copy; 2025 Quantitative Histories Workshop"
    
 format:
   html:

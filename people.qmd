@@ -1,5 +1,5 @@
 ---
-title: "People"
+title: "Meet the talented individuals who make up our lab!"
 image: img/quant_workshop_logo.png
 format:
   html:
@@ -7,20 +7,22 @@ format:
     css: styles.css
 ---
 
-Meet the talented individuals who make up our lab!
-
 <div class="team-grid">
 
 <div class="team-member">
+  <a href="https://profiles.howard.edu/nathan-alexander" target="_blank">
   <img src="img/people/naite.jpg" alt="Nathan Alexander, PhD" class="circle">
   <h3>Nathan Alexander, PhD</h3>
+  </a>
   <p>PI, Howard University</p>
   <p>Dr. Alexander is the founder of the Workshop and he has led the lab since its inception. </p>
 </div>
 
 <div class="team-member">
+  <a href="https://morehouse.edu/directory/hye-ryeon-jang" target="_blank">
   <img src="img/people/jang.jpg" alt="Helen Jang, PhD" class="circle">
   <h3>Helen Jang, PhD</h3>
+  </a>
   <p>PI, Morehouse College</p>
   <p>Dr. Jang directs our sister lab, the HJLab, in the Atlanta University Center (AUC).</p>
 </div>
@@ -47,6 +49,13 @@ Meet the talented individuals who make up our lab!
 </div>
 
 <div class="team-member">
+  <img src="img/people/kade.jpg" alt="Kade Davis" class="circle">
+  <h3>Kade Davis</h3>
+  <p>Morehouse College</p>
+  <p>Kade is a senior sociology major at Morehouse College and a lab TA.</p>
+</div>
+
+<div class="team-member">
   <img src="img/people/kyshan.jpeg" alt="Kyshan Nichols-Smith" class="circle">
   <h3>Kyshan Nichols-Smith</h3>
   <p>Morehouse College</p>
@@ -65,13 +74,6 @@ Meet the talented individuals who make up our lab!
   <h3>Basil Ghali</h3>
   <p>Howard University</p>
   <p>Basil is a doctoral student in psychology and he has been with the lab since its inception.</p>
-</div>
-
-<div class="team-member">
-  <img src="img/people/kade.jpg" alt="Kade Davis" class="circle">
-  <h3>Kade Davis</h3>
-  <p>Morehouse College</p>
-  <p>Kade is a senior sociology major at Morehouse College and a lab TA.</p>
 </div>
 
 <div class="team-member">

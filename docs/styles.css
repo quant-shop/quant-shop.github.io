@@ -24,6 +24,7 @@
 /* Team member name styling */
 .team-member h3 {
   margin-top: 10px;
+  text-align: center;
 }
 
 /* Adjust spacing for smaller screens */
@@ -57,7 +58,7 @@ h1, h2, h3 {
 
 @media (max-width: 600px) {
   body {
-    font-size: 15px; /* Smaller font for mobile screens */
+    font-size: 10px; /* Smaller font for mobile screens */
   }
 }
 

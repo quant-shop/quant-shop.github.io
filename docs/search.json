@@ -35,8 +35,8 @@
     "text": "what happened to chocolate city?\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/chocolate-city.html",
-    "href": "blog/chocolate-city.html",
+    "objectID": "blog/2024-10-chocolate-city.html",
+    "href": "blog/2024-10-chocolate-city.html",
     "title": "What happened to Chocolate City?",
     "section": "",
     "text": "On October 4th, the Quantitative Histories Workshop partnered with Nubian Hueman in Anacostia, DC to host a #publicmath event focused on the mathematics behind DC’s changing demographics. During the event, participants engaged in a host of activities related to gerrymandering, gentrification, and the analysis of U.S. census data on historically Black communities."
@@ -70,18 +70,11 @@
     "text": "Thursdays at 5:00pm ET via Zoom.\n\n\n\nThursdays at 5:30pm ET via Zoom."
   },
   {
-    "objectID": "events.html#census-users-group",
-    "href": "events.html#census-users-group",
-    "title": "recurring events",
-    "section": "",
-    "text": "Thursdays at 5:00pm ET via Zoom."
-  },
-  {
-    "objectID": "events.html#ed-users-group",
-    "href": "events.html#ed-users-group",
-    "title": "Recurring events",
-    "section": "",
-    "text": "Details forthcoming."
+    "objectID": "events.html#fall",
+    "href": "events.html#fall",
+    "title": "recurring",
+    "section": "2025 fall",
+    "text": "2025 fall\ncalendar forthcoming."
   },
   {
     "objectID": "events.html#spring",
@@ -91,11 +84,11 @@
     "text": "2025 spring\n\nIntermediate R Workshop Series\n\n\n\nDC Open Data Showcase\nPresenters: Bayowa Onabajo, Jibek Gupta, and Kyshan Nichols-Smith"
   },
   {
-    "objectID": "events.html#fall",
-    "href": "events.html#fall",
+    "objectID": "events.html#fall-1",
+    "href": "events.html#fall-1",
     "title": "recurring",
-    "section": "2025 fall",
-    "text": "2025 fall\ncalendar forthcoming."
+    "section": "2024 fall",
+    "text": "2024 fall\n\nHBCU STEM Day\nPresenter: Jibek Gupta\n\n\nIntermediate R/Posit Workshop for Social Scientists\nPresenter: Lyrric Jackson\n\n\n\nThe Mathematics of Democracy\nModerator: Jalil Cooper\n\n\n\nChocolate City Mathy Hour\nPresenter: Zoe Williams"
   },
   {
     "objectID": "events.html#spring-1",
@@ -105,13 +98,6 @@
     "text": "2024 spring\n\nBob Moses Conference\nPresenters: Kade Davis, Gabriella La Cour, Basil Ghali, and Qyana Stewart\n\n\n\nBob Moses Conference"
   },
   {
-    "objectID": "events.html#fall-1",
-    "href": "events.html#fall-1",
-    "title": "recurring",
-    "section": "2024 fall",
-    "text": "2024 fall\n\nHBCU STEM Day\nPresenter: Jibek Gupta\n\n\nIntermediate R/Posit Workshop for Social Scientists\nPresenter: Lyrric Jackson\n\n\n\nThe Mathematics of Democracy\nModerator: Jalil Cooper\n\n\n\nChocolate City Mathy Hour\nPresenter: Zoe Williams"
-  },
-  {
     "objectID": "events.html#spring-2",
     "href": "events.html#spring-2",
     "title": "recurring",
@@ -119,18 +105,18 @@
     "text": "2023 spring\n\nAmerican Educational Research Association (AERA) conference\nPresenters: Nathan Alexander, Blake O’Neal Turner, Darnell Leatherwood, Francis Henderson, David Wallace, Candace Kyles"
   },
   {
-    "objectID": "events.html#spring-3",
-    "href": "events.html#spring-3",
-    "title": "recurring",
-    "section": "2022 spring",
-    "text": "2022 spring"
-  },
-  {
     "objectID": "events.html#fall-2",
     "href": "events.html#fall-2",
     "title": "recurring",
     "section": "2021 fall",
     "text": "2021 fall\n\nInstitute for Mathematics and Democracy (IMD) Conference\nPresenter: Jalil Cooper\n\n\n\nInstitute for Mathematics and Democracy Conference"
+  },
+  {
+    "objectID": "events.html#pre-2020",
+    "href": "events.html#pre-2020",
+    "title": "recurring",
+    "section": "pre-2020",
+    "text": "pre-2020\n\n\n\nnathan alexander and bob moses at the 2017 data for Black Lives Conference"
   },
   {
     "objectID": "index.html",
@@ -152,6 +138,13 @@
     "title": "Notes from The Workshop",
     "section": "",
     "text": "state violence\n\ngenocide (forthcoming)\nFATAL: a study of fatal police interactions in the united states\nbombs over baghdad\n\nthe OG: Du Bois\n\ndata and Du Bois\n1900 paris exhibition infographics\nthe Atlanta University Studies\n\nabolition\n\na quantitative abolitionist inquiry, phase 1: lynching\na quantitative abolitionist inquiry, phase 2: policing\na quantitative abolitionist inquiry, phase 3: prisons\n\ndemography\n\ncensus history project, phase 1: race and ethnicity\ncensus history project, phase 2: multidimensionality (forthcoming)\n\npolitics and policy\n\nrocking the vote (forthcoming)\n\nhave a project idea!? hit us up at quantshopusers [at] gmail [dot] com\n\nwe support equitable open source practices. see a list of our project repositories here."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Meet the talented individuals who make up our lab!\n\n\n\n\nNathan Alexander, PhD\n\n\nPI, Howard University\n\n\nDr. Alexander is the founder of the Workshop and he has led the lab since its inception.\n\n\n\n\n\nHelen Jang, PhD\n\n\nPI, Morehouse College\n\n\nDr. Jang directs our sister lab, the HJLab, in the Atlanta University Center (AUC).\n\n\n\n\n\nLyrric Jackson\n\n\nSpelman College\n\n\nProf. Jackson is our coordinator, in-house technical expert, and lab manager.\n\n\n\n\n\nJalil Coooper\n\n\nStanford University\n\n\nJalil is a senior design major at Stanford and he has been with the lab since its inception.\n\n\n\n\n\nMyles Ndiritu\n\n\nMorehouse College\n\n\nMyles is a junior political science major at Morehouse College and a lab TA.\n\n\n\n\n\nKyshan Nichols-Smith\n\n\nMorehouse College\n\n\nKyshan is a senior political science major at Morehouse College and a lab TA.\n\n\n\n\n\nQyana Stewart, MS\n\n\nHoward University\n\n\nQyana is a PhD candidate in Higher Education Leadership and Policy Studies.\n\n\n\n\n\nBasil Ghali\n\n\nHoward University\n\n\nBasil is a doctoral student in psychology and he has been with the lab since its inception.\n\n\n\n\n\nKade Davis\n\n\nMorehouse College\n\n\nKade is a senior sociology major at Morehouse College and a lab TA.\n\n\n\n\n\nZoe Williams\n\n\nHoward University\n\n\nZoe is a junior political science major at Howard University.\n\n\n\n\n\nJibek Gupta\n\n\nHoward University\n\n\nJibek is a junior computer science major at Howard University.\n\n\n\n\n\nBayoa Onabajo\n\n\nHoward University\n\n\nBayowa is a MS student in Applied Data Science and Analytics.\n\n\n\n\n\nAmari Gray\n\n\nMorehouse College\n\n\nAmari is a junior political science major at Morehouse College.\n\n\n\n\n\nJahmere Jackson\n\n\nHoward University\n\n\nJahmere is a freshman elementary education major at Howard University.\n\n\n\n\n\nNicholas Angelo\n\n\nHoward University\n\n\nNicholas is a junior elementary education major at Howard University.\n\n\n\nLab Alum\n\nJulian Amaya, Morehouse College\n\n\nJeremiah Lowther, Morehouse College\n\n\nMaya Phillips, Spelman College\n\n\nSayid Achilov, Brown University\n\n\nKenthia Roberts, Columbia University\n\n\nGabriella Walker, Spelman College\n\n\nJana Turner, Howard University\n\n\nDissandou Becolli, HS Scholar\n\n\nKareem Weaver, Morehouse College\n\n\nAmir Harris, Morehouse College\n\n\nBenjamin Holman, Morehouse College\n\n\nDalton Favors, Morehouse College\n\n\nDylen Richmond, Morehouse College\n\n\nMatthew Mann, Morehouse College\n\n\nXavier McKenzie, Morehouse College\n\n\nHasan Henry, Morehouse College"
   },
   {
     "objectID": "lessons/lesson02-slides.html#overview-of-fatal-force-v2-files",
@@ -236,47 +229,5 @@
     "title": "Lesson 1",
     "section": "Data reporting: Creating a report",
     "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "Meet the talented individuals who make up our lab!\n\n\n\n\nNathan Alexander, PhD\n\n\nPI, Howard University\n\n\nDr. Alexander is the founder of the Workshop and he has led the lab since its inception.\n\n\n\n\n\nHelen Jang, PhD\n\n\nPI, Morehouse College\n\n\nDr. Jang directs our sister lab, the HJLab, in the Atlanta University Center (AUC).\n\n\n\n\n\nLyrric Jackson\n\n\nSpelman College\n\n\nProf. Jackson is our coordinator, in-house technical expert, and lab manager.\n\n\n\n\n\nJalil Coooper\n\n\nStanford University\n\n\nJalil is a senior design major at Stanford and he has been with the lab since its inception.\n\n\n\n\n\nMyles Ndiritu\n\n\nMorehouse College\n\n\nMyles is a junior political science major at Morehouse College and a lab TA.\n\n\n\n\n\nKyshan Nichols-Smith\n\n\nMorehouse College\n\n\nKyshan is a senior political science major at Morehouse College and a lab TA.\n\n\n\n\n\nQyana Stewart, MS\n\n\nHoward University\n\n\nQyana is a PhD candidate in Higher Education Leadership and Policy Studies.\n\n\n\n\n\nBasil Ghali\n\n\nHoward University\n\n\nBasil is a doctoral student in psychology and he has been with the lab since its inception.\n\n\n\n\n\nKade Davis\n\n\nMorehouse College\n\n\nKade is a senior sociology major at Morehouse College and a lab TA.\n\n\n\n\n\nZoe Williams\n\n\nHoward University\n\n\nZoe is a junior political science major at Howard University.\n\n\n\n\n\nJibek Gupta\n\n\nHoward University\n\n\nJibek is a junior computer science major at Howard University.\n\n\n\n\n\nBayoa Onabajo\n\n\nHoward University\n\n\nBayowa is a MS student in Applied Data Science and Analytics.\n\n\n\n\n\nAmari Gray\n\n\nMorehouse College\n\n\nAmari is a junior political science major at Morehouse College.\n\n\n\n\n\nJahmere Jackson\n\n\nHoward University\n\n\nJahmere is a freshman elementary education major at Howard University.\n\n\n\n\n\nNicholas Angelo\n\n\nHoward University\n\n\nNicholas is a junior elementary education major at Howard University.\n\n\n\nLab Alum\n\nJulian Amaya, Morehouse College\n\n\nJeremiah Lowther, Morehouse College\n\n\nMaya Phillips, Spelman College\n\n\nSayid Achilov, Brown University\n\n\nKenthia Roberts, Columbia University\n\n\nGabriella Walker, Spelman College\n\n\nJana Turner, Howard University\n\n\nDissandou Becolli, HS Scholar\n\n\nKareem Weaver, Morehouse College\n\n\nAmir Harris, Morehouse College\n\n\nBenjamin Holman, Morehouse College\n\n\nDalton Favors, Morehouse College\n\n\nDylen Richmond, Morehouse College\n\n\nMatthew Mann, Morehouse College\n\n\nXavier McKenzie, Morehouse College\n\n\nHasan Henry, Morehouse College"
-  },
-  {
-    "objectID": "blog/2024-10-chocolate-city.html",
-    "href": "blog/2024-10-chocolate-city.html",
-    "title": "What happened to Chocolate City?",
-    "section": "",
-    "text": "On October 4th, the Quantitative Histories Workshop partnered with Nubian Hueman in Anacostia, DC to host a #publicmath event focused on the mathematics behind DC’s changing demographics. During the event, participants engaged in a host of activities related to gerrymandering, gentrification, and the analysis of U.S. census data on historically Black communities."
-  },
-  {
-    "objectID": "events.html#pre-2020-fall",
-    "href": "events.html#pre-2020-fall",
-    "title": "Recurring events",
-    "section": "pre-2020 fall",
-    "text": "pre-2020 fall\n\n\n\nnathan alexander and bob moses at the 2017 data for Black Lives Conference"
-  },
-  {
-    "objectID": "events.html#pre-2020",
-    "href": "events.html#pre-2020",
-    "title": "recurring",
-    "section": "pre-2020",
-    "text": "pre-2020\n\n\n\nnathan alexander and bob moses at the 2017 data for Black Lives Conference"
-  },
-  {
-    "objectID": "events.html#text-users-group",
-    "href": "events.html#text-users-group",
-    "title": "recurring events",
-    "section": "",
-    "text": "Thursdays at 5:30pm ET via Zoom."
-  },
-  {
-    "objectID": "events.html#fall-3",
-    "href": "events.html#fall-3",
-    "title": "recurring",
-    "section": "2021 fall",
-    "text": "2021 fall\n\nInstitute for Mathematics and Democracy (IMD) Conference\nPresenter: Jalil Cooper\n\n\n\nInstitute for Mathematics and Democracy Conference"
   }
 ]

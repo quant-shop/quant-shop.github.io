@@ -116,6 +116,8 @@ Meet the talented individuals who make up our lab!
   <p>Nicholas is a junior elementary education major at Howard University.</p>
 </div>
 
+</div>
+
 <div class="alumni">
 
 <b><u>Lab Alum</u></b>
@@ -136,7 +138,5 @@ Meet the talented individuals who make up our lab!
 <p>Matthew Mann, Morehouse College</p>
 <p>Xavier McKenzie, Morehouse College</p>
 <p>Hasan Henry, Morehouse College</p>
-
-
 
 </div>

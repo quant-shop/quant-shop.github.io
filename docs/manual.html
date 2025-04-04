@@ -154,9 +154,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script>
-  // Prompt for password when the page is loaded
   document.addEventListener("DOMContentLoaded", function () {
-    const correctPassword = "howard1867"; // Replace with your desired password
+    const encodedPassword = "aG93YXJkMTg2Nw=="; // Base64-encoded version of "howard1867"
+
+    function decodePassword(encoded) {
+      return atob(encoded); // Decode Base64 string
+    }
+
+    const correctPassword = decodePassword(encodedPassword);
     let userPassword = prompt("Please enter the password to access this page:");
 
     if (userPassword !== correctPassword) {

@@ -92,7 +92,7 @@ format:
 
 <div class="team-member">
   <img src="img/people/bayowa.jpeg" alt="Bayowa Onabajo" class="circle">
-  <h3>Bayoa Onabajo</h3>
+  <h3>Bayowa Onabajo</h3>
   <p>Howard University</p>
   <p>Bayowa is a MS student in Applied Data Science and Analytics.</p>
 </div>

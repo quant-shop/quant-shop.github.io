@@ -4,21 +4,49 @@ title: ""
 
 ### Research and products
 
+Lab members, research affiliates, and friends of the lab in **bold**.
+
 <ol reversed>
 
-<li> Alexander, N. N., Appling, T., Banuelos, M., Bello, G., Brown, A., Century, J., Connor, K., Ji, H., Levy, R., Mitchell, P., Mongeau, D., Mysliwiec, M., Niu, J., Paykin, S., Quarkume, A., Schiffman, J., Skinner, L., Uminsky, D. & Zhong, P. (2024). Data Science for Social Impact in Higher Education: First Steps. Data.org Playbook. Available at: [https://data.org/playbooks/data-science-for-social-impact-in-higher-education/](https://data.org/playbooks/data-science-for-social-impact-in-higher-education/){.external target="_blank"} </li>
+<li> **Alexander, N. N.**, Appling, T., Banuelos, M., Bello, G., Brown, A., Century, J., Connor, K., Ji, H., **Levy, R.**, Mitchell, P., Mongeau, D., Mysliwiec, M., Niu, J., Paykin, S., Quarkume, A., Schiffman, J., Skinner, L., Uminsky, D. & Zhong, P. (2024). Data Science for Social Impact in Higher Education: First Steps. Data.org Playbook. Available at: [https://data.org/playbooks/data-science-for-social-impact-in-higher-education/](https://data.org/playbooks/data-science-for-social-impact-in-higher-education/){.external target="_blank"} </li>
 
-<li> Ballenger, H. J., Washington, T., Clark, R., Lockhart, J. W., Adebowale, J., Hearn, D., Dotson, E., Gaines, J., Bennett, V., Teodorescu, D., Alexander, N. N., Gilbert, N., Lamar, T., Morris, M., Neely, A., Borum, V., Ellis, V., & Johnson, K. (December 2023). Atlanta University Center Data Science Initiative - Data Science for K-12 Listening Session Report. Available at SSRN: [http://dx.doi.org/10.2139/ssrn.4493108](http://dx.doi.org/10.2139/ssrn.4493108){.external target="_blank"} </li>
+<li> **Alexander, N. N.** (2024). Overview of the Quantitative Histories Workshop: A Curriculum & Software Development Research Collective. Proceedings of the Howard University Center for Applied Data Science and Analytics (CADSA) Research Symposium. Washington, DC. </li>
 
-<li> Jones, Q., Vindas Meléndez, A. R., Mendible, A., Aminian, M., Brooks, H. Z., Alexander, N., Diaz Eaton, C., & Chodrow, P. (2023). Data science and social justice in the mathematics community. *Notices of the American Mathematical Society*. </li>
+<li> **Ballenger, H. J.**, **Washington, T.**, Clark, R., Lockhart, J. W., Adebowale, J., Hearn, D., Dotson, E., Gaines, J., Bennett, V., Teodorescu, D., **Alexander, N. N.**, Gilbert, N., **Lamar, T.**, Morris, M., Neely, A., **Borum, V.**, Ellis, V., & Johnson, K. (December 2023). Atlanta University Center Data Science Initiative - Data Science for K-12 Listening Session Report. Available at SSRN: [http://dx.doi.org/10.2139/ssrn.4493108](http://dx.doi.org/10.2139/ssrn.4493108){.external target="_blank"} </li>
 
-<li> Alexander, N. N., Ratliff, B., Levy, R., Voigt, M., Hagman, J. E., Gehrtz, J. (2023). Cross-cutting inquiries: Moving Towards a Systems-critical Practice. In M. Voigt, J. E. Hagman, J. Gehrtz, B. Ratliff, N. N. Alexander, & R. Levy (Eds.). Justice through the lens of calculus: Framing new possibilities for diversity, equity, and inclusion. MAA Notes Volume. </li>
+<li> Jones, Q., Vindas Meléndez, A. R., Mendible, A., Aminian, M., Brooks, H. Z., **Alexander, N.**, Diaz Eaton, C., & Chodrow, P. (2023). Data science and social justice in the mathematics community. *Notices of the American Mathematical Society*. </li>
 
-<li> Alexander N., Diaz Eaton C., Shrout A. H., Tsinnajinnie B., & Tsosie K. (2022). Beyond ethics: Considerations for centering equity-minded data science. *Journal of Humanistic Mathematics, 12*(2), 254–300. https://doi.org/10.5642/ jhummath.OCYS6929 </li>
+<li> Voigt, M., Hagman, J. E., Gehrtz, J., Ratliff, B., **Alexander, N. N.**, & **Levy, R.** (Eds.) (2023). [Justice through the lens of calculus: Framing new possibilities for diversity, equity, and inclusion](https://maa.org/wp-content/uploads/2025/01/NTE96.pdf){.external target="_blank"}. MAA Press, Notes, Vol. 96. </li>
 
-<li> Jang, H. R., Quinones-Marrero, J., & Hincapie-Castillo, J. M. (2022). Environmental scan of COVID-19 infection dashboards in the Florida public school system. Frontiers in Public Health, 10, Article 925808. https://doi.org/10.3389/fpubh.2022.925808 </li>
+<li> **Alexander, N. N.**, Ratliff, B., **Levy, R.**, Voigt, M., Hagman, J. E., Gehrtz, J. (2023). Cross-cutting inquiries: Moving Towards a Systems-critical Practice. In M. Voigt, J. E. Hagman, J. Gehrtz, B. Ratliff, N. N. Alexander, & R. Levy (Eds.). Justice through the lens calculus: Framing new possibilities for diversity, equity, and inclusion. MAA Press, Notes, Vol. 96 </li>
 
-<li> Alexander, N. N. (2019). Daija’s awakening: Critical race theory and Afrofuturism in mathematics education. In J. Davis & C. Jett, *Critical Race Theory in Mathematics Education* (pp. 56-74). Routledge. </li>
+<li> **Alexander N.**, Diaz Eaton C., Shrout A. H., Tsinnajinnie B., & Tsosie K. (2022). Beyond ethics: Considerations for centering equity-minded data science. *Journal of Humanistic Mathematics, 12*(2), 254–300. [https://doi.org/10.5642/jhummath.OCYS6929](https://doi.org/10.5642/jhummath.OCYS6929){.external target="_blank"} </li>
+
+<li> **Jang, H. R.**, Quinones-Marrero, J., & Hincapie-Castillo, J. M. (2022). [Environmental scan of COVID-19 infection dashboards in the Florida public school system](https://doi.org/10.3389/fpubh.2022.925808){.external target="_blank"}. *Frontiers in Public Health, 10*, Article 925808. </li>
+
+<li>  **Alexander, N. N.** (2022). A Legacy of Literacy: Mathematics Teachers and the Quests for Racial Justice. In D. C. Hucks, Y. S. Ruiz, V. Showunmi, S. C. Carothers, & C. W. Lewis (Eds.), Purposeful Teaching and Learning in Diverse Contexts: Implications for Access, Equity and Achievement (pp. 3-23). Charlotte: IAP. </li>
+
+<li> **Alexander, N.**, Teymuroglu, Z., & Yerger, C. (2019). [Critical Conversations on Social Justice in Undergraduate Mathematics](https://www.tandfonline.com/doi/abs/10.1080/10511970.2018.1530704){.external target="_blank"}. PRIMUS: Problems, Resources, and Issues in Math Undergraduate Studies, 29(4), 396-419. </li>
+
+<li> **Alexander, N. N.** (2019). [Daija’s awakening: Critical race theory and Afrofuturism in mathematics education](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315121192-5/daija-awakening-nathan-alexander){.external target="_blank"}. In J. Davis & C. Jett, *Critical Race Theory in Mathematics Education* (pp. 56-74). Routledge. </li>
+
+<li> **Alexander, N. N.** (2013).[ Gender Inequality: Mathematics](https://dx.doi.org/10.4135/9781452276151.n158){.external target="_blank"}. In J. Ainsworth (Ed.), Sociology of Education: An A-to-Z Guide, SAGE Publications: London, UK. </li>
+
+</ol>
+
+### Lab features
+
+<ol reversed>
+
+<li> **Nature**. Changemakers in Science series (April, 2025). [Forthcoming.](https://www.nature.com/collections/gafajibdii){.external target="_blank"} </li>
+
+<li> **NC State Data Science Academy** (June, 2022). ["Who gets to learn are the people with the opportunity.": Equity in Data Science Education.](https://datascienceacademy.ncsu.edu/2022/06/01/who-gets-to-learn-are-the-people-with-the-opportunity-equity-in-data-science-education/?utm_source=Just+Equations&utm_campaign=09fb80d4c2-EMAIL_CAMPAIGN_2019_01_03_08_59_COPY_01&utm_medium=email&utm_term=0_472770b236-09fb80d4c2-294112645&mc_cid=09fb80d4c2&mc_eid=3042122423){.external target="_blank"} </li>
+
+<li> **CNN** (May, 2021). [United Shades of America with Kamau Bell: S6 E2 - Black to the Future.](https://www.ajc.com/life/radiotvtalk-blog/interview-w-kamau-bell-on-season-6-of-cnns-united-shades-of-america-focuses-on-atlanta-for-first-time/ACUEN4ZSRFHGFPCSRVEWFMCOQA/){.external target="_blank"} </li>
+
+<li> **Abolition Science Podcast** (March, 2020). [Afrofuturism and Math Education.](https://www.abolitionscience.org/home/2020/3/24/afrofuturism-amp-math-ed){.external target="_blank"} </li>
+
+<li> **Coca-Cola Scholars Foundation** (March, 2019). [When Empathy Goes Viral.](https://www.coca-colascholarsfoundation.org/blog/empathy-goes-viral/){.external target="_blank"} </li>
 
 </ol>
 
@@ -26,14 +54,14 @@ title: ""
 
 <ol reversed>
 
-<li> **Sloan Foundation**. Open Source Workshops and Lesson Development for Faculty and Students at Historically Black Colleges and Universities. Principal Investigator (PI) with Hye Ryeon Jang (Co-PI) and Kari Jordan (Co-PI). Open Source Software Development, 2023-2024. (Funded, $249,705) </li>
+<li> **Sloan Foundation**. Open Source Workshops and Lesson Development for Faculty and Students at Historically Black Colleges and Universities. Nathan Alexander (PI) with Hye Ryeon Jang (Co-PI) and Kari Jordan (Co-PI). Open Source Software Development, 2023-2024. (Funded, $249,705) </li>
 
-<li> **New Ventures Fund**. Development of Community-based Experiential Learning Programs in Data Science. Principal Investigator (PI), Data.org Capacity Accelerator Network. 2022-2023. (Funded, $115,000) </li>
+<li> **New Ventures Fund**. Development of Community-based Experiential Learning Programs in Data Science. Nathan Alexander (PI), Data.org Capacity Accelerator Network. 2022-2023. (Funded, $115,000) </li>
 
-<li> **Microsoft Corporation**. Summer Research Experience in Data Science and Critical Mathematics (DSCM). Principal Investigator (PI), 2022-2024. (Funded, $47,000) </li>
+<li> **Microsoft Corporation**. Summer Research Experience in Data Science and Critical Mathematics (DSCM). Nathan Alexander (PI), 2022-2024. (Funded, $47,000) </li>
 
-<li> **AUC Data Science Initiative**. Initial Development of a Problem-based Active Learning Framework for Data Science. Principal Investigator (PI), Summer Research Grant. 2022. (Funded, $3,000) </li>
+<li> **AUC Data Science Initiative**. Initial Development of a Problem-based Active Learning Framework for Data Science. Nathan Alexander (PI), Summer Research Grant. 2022. (Funded, $3,000) </li>
 
-<li> **Associated Colleges of the South (ACS)**. Teaching Social Justice Mathematics. Co-Principal Investigator (Co-PI) with Dr. Viveka Borum (PI) and Dr. Zeynep Teymuroglu (Co-PI). Diversity & Inclusion Faculty Grant, 2019-2020. (Funded, $27,765) </li>
+<li> **Associated Colleges of the South (ACS)**. Teaching Social Justice Mathematics. Nathan Alexander (Co-PI) with Dr. Viveka Borum (PI) and Dr. Zeynep Teymuroglu (Co-PI). Diversity & Inclusion Faculty Grant, 2019-2020. (Funded, $27,765) </li>
 
 </ol>

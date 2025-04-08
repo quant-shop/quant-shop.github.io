@@ -34,13 +34,15 @@ about:
 
   - [a quantitative abolitionist inquiry, phase 2: policing](https://quant-shop.github.io/police){.external target="_blank"}
 
-  - [a quantitative abolitionist inquiry, phase 3: prisons](https://quant-shop.github.io/prisons){.external target="_blank"}
+  - [a quantitative abolitionist inquiry, phase 3: prisons](https://github.com/quant-shop/prisons/blob/main/data/prisoners-text.pdf){.external target="_blank"}
 
 - demography
 
-  - [census history project, phase 1: race and ethnicity](https://quant-shop.github.io/census-race/){.external target="_blank"}
+  - [census history project, phase 1: race and ethnicity](https://professornaite.github.io/echo/){.external target="_blank"}
 
-  - [census history project, phase 2: multidimensionality (forthcoming)](){.external target="_blank"}
+  - [census history project, phase 2: multidimensionality (forthcoming)](https://rpubs.com/professornaite/dc-open-data-2025){.external target="_blank"}
+  
+  - [introduction to mapping](https://rpubs.com/professornaite/mapping_intro){.external target="_blank"}
 
 - politics and policy
 

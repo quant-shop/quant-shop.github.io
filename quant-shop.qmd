@@ -32,7 +32,7 @@ about:
 
   - [a quantitative abolitionist inquiry, phase 1: lynching](https://quant-shop.github.io/red-record){.external target="_blank"}
 
-  - [a quantitative abolitionist inquiry, phase 2: policing](https://quant-shop.github.io/police){.external target="_blank"}
+  - [a quantitative abolitionist inquiry, phase 2: policing](https://quant-shop.github.io/fatal-app/){.external target="_blank"}
 
   - [a quantitative abolitionist inquiry, phase 3: prisons](https://github.com/quant-shop/prisons/blob/main/data/prisoners-text.pdf){.external target="_blank"}
 

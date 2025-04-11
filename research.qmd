@@ -10,8 +10,6 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 
 <li> **Alexander, N. N.**, Appling, T., Banuelos, M., Bello, G., Brown, A., Century, J., Connor, K., Ji, H., **Levy, R.**, Mitchell, P., Mongeau, D., Mysliwiec, M., Niu, J., Paykin, S., Quarkume, A., Schiffman, J., Skinner, L., Uminsky, D. & Zhong, P. (2024). Data Science for Social Impact in Higher Education: First Steps. Data.org Playbook. Available at: [https://data.org/playbooks/data-science-for-social-impact-in-higher-education/](https://data.org/playbooks/data-science-for-social-impact-in-higher-education/){.external target="_blank"} </li>
 
-<li> **Alexander, N. N.** (2024). Overview of the Quantitative Histories Workshop: A Curriculum & Software Development Research Collective. Proceedings of the Howard University Center for Applied Data Science and Analytics (CADSA) Research Symposium. Washington, DC. </li>
-
 <li> **Ballenger, H. J.**, **Washington, T.**, Clark, R., Lockhart, J. W., Adebowale, J., Hearn, D., Dotson, E., Gaines, J., Bennett, V., Teodorescu, D., **Alexander, N. N.**, Gilbert, N., **Lamar, T.**, Morris, M., Neely, A., **Borum, V.**, Ellis, V., & Johnson, K. (December 2023). Atlanta University Center Data Science Initiative - Data Science for K-12 Listening Session Report. Available at SSRN: [http://dx.doi.org/10.2139/ssrn.4493108](http://dx.doi.org/10.2139/ssrn.4493108){.external target="_blank"} </li>
 
 <li> Jones, Q., Vindas Meléndez, A. R., Mendible, A., Aminian, M., Brooks, H. Z., **Alexander, N.**, Diaz Eaton, C., & Chodrow, P. (2023). Data science and social justice in the mathematics community. *Notices of the American Mathematical Society*. </li>
@@ -38,7 +36,7 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 
 <ol reversed>
 
-<li> **Nature**. Changemakers in Science series (April, 2025). [Forthcoming.](https://www.nature.com/collections/gafajibdii){.external target="_blank"} </li>
+<li> **Nature** (April, 2025). [Creating an ‘all comers’ research group in quantitative history](https://www.nature.com/articles/d41586-025-00860-3){.external target="_blank"}. </li>
 
 <li> **NC State Data Science Academy** (June, 2022). ["Who gets to learn are the people with the opportunity.": Equity in Data Science Education.](https://datascienceacademy.ncsu.edu/2022/06/01/who-gets-to-learn-are-the-people-with-the-opportunity-equity-in-data-science-education/?utm_source=Just+Equations&utm_campaign=09fb80d4c2-EMAIL_CAMPAIGN_2019_01_03_08_59_COPY_01&utm_medium=email&utm_term=0_472770b236-09fb80d4c2-294112645&mc_cid=09fb80d4c2&mc_eid=3042122423){.external target="_blank"} </li>
 
@@ -47,6 +45,20 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 <li> **Abolition Science Podcast** (March, 2020). [Afrofuturism and Math Education.](https://www.abolitionscience.org/home/2020/3/24/afrofuturism-amp-math-ed){.external target="_blank"} </li>
 
 <li> **Coca-Cola Scholars Foundation** (March, 2019). [When Empathy Goes Viral.](https://www.coca-colascholarsfoundation.org/blog/empathy-goes-viral/){.external target="_blank"} </li>
+
+</ol>
+
+### Lab presentations and posters
+
+<ol reversed>
+
+<li>**Alexander, N. N.**, **Onabajo, B.**, **Gupta, J.**, **Nichols-Smith, K.**, & **Jang, H.** (2025, March). Mapping Multidimensionality: Using Census Data to Understand Neighborhood Communities. Talk at the 2025 DC Open Data Showcase, Washington, DC. </li>
+
+<li> **Alexander, N. N.** & **Gupta, J.** (2024, December). Ancestral Mathematics. Workshop at the 2024 HBCU Alumni Alliance and 100 Black Men STEM Day. University of the District of Columbia, Washington, DC. </li>
+
+<li> **Alexander, N. N.** & **Williams, Z.** (2024, October). What Happened to Chocolate City? Worksohp at Nubian HueMan, Anacostia, Washington, DC. </li>
+
+<li> **Alexander, N. N.** (2024). Overview of the Quantitative Histories Workshop: A Curriculum & Software Development Research Collective. Proceedings of the Howard University Center for Applied Data Science and Analytics (CADSA) Research Symposium. Washington, DC. </li>
 
 </ol>
 

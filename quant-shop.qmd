@@ -14,7 +14,7 @@ about:
   
 - state violence
 
-  - [genocide (forthcoming)](){.external target="_blank"}
+  - [gen0cide (forthcoming)](){.external target="_blank"}
   
   - [FATAL: a study of fatal police interactions in the united states](https://quant-shop.github.io/fatalv2){.external target="_blank"}
 
@@ -23,8 +23,6 @@ about:
 - the OG: Du Bois
 
   - [data and Du Bois](https://quant-shop.github.io/dubois-infographics){.external target="_blank"}
-
-  - [1900 paris exhibition infographics](https://quant-shop.github.io/dubois-infographics){.external target="_blank"}
   
   - [the Atlanta University Studies](https://quant-shop.github.io/atlanta-university-studies){.external target="_blank"}
 

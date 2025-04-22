@@ -8,15 +8,15 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 
 <ol reversed>
 
-<li> **Alexander, N. N.**, Appling, T., Banuelos, M., Bello, G., Brown, A., Century, J., Connor, K., Ji, H., **Levy, R.**, Mitchell, P., Mongeau, D., Mysliwiec, M., Niu, J., Paykin, S., Quarkume, A., Schiffman, J., Skinner, L., Uminsky, D. & Zhong, P. (2024). Data Science for Social Impact in Higher Education: First Steps. Data.org Playbook. Available at: [https://data.org/playbooks/data-science-for-social-impact-in-higher-education/](https://data.org/playbooks/data-science-for-social-impact-in-higher-education/){.external target="_blank"} </li>
+<li> **Alexander, N. N.**, Appling, T., Banuelos, M., Bello, G., Brown, A., Century, J., Connor, K., Ji, H., Levy, R., Mitchell, P., Mongeau, D., Mysliwiec, M., Niu, J., Paykin, S., Quarkume, A., Schiffman, J., Skinner, L., Uminsky, D. & Zhong, P. (2024). Data Science for Social Impact in Higher Education: First Steps. Data.org Playbook. Available at: [https://data.org/playbooks/data-science-for-social-impact-in-higher-education/](https://data.org/playbooks/data-science-for-social-impact-in-higher-education/){.external target="_blank"} </li>
 
 <li> **Ballenger, H. J.**, **Washington, T.**, Clark, R., Lockhart, J. W., Adebowale, J., Hearn, D., Dotson, E., Gaines, J., Bennett, V., Teodorescu, D., **Alexander, N. N.**, Gilbert, N., **Lamar, T.**, Morris, M., Neely, A., **Borum, V.**, Ellis, V., & Johnson, K. (December 2023). Atlanta University Center Data Science Initiative - Data Science for K-12 Listening Session Report. Available at SSRN: [http://dx.doi.org/10.2139/ssrn.4493108](http://dx.doi.org/10.2139/ssrn.4493108){.external target="_blank"} </li>
 
 <li> Jones, Q., Vindas Meléndez, A. R., Mendible, A., Aminian, M., Brooks, H. Z., **Alexander, N.**, Diaz Eaton, C., & Chodrow, P. (2023). Data science and social justice in the mathematics community. *Notices of the American Mathematical Society*. </li>
 
-<li> Voigt, M., Hagman, J. E., Gehrtz, J., Ratliff, B., **Alexander, N. N.**, & **Levy, R.** (Eds.) (2023). [Justice through the lens of calculus: Framing new possibilities for diversity, equity, and inclusion](https://maa.org/wp-content/uploads/2025/01/NTE96.pdf){.external target="_blank"}. MAA Press, Notes, Vol. 96. </li>
+<li> Voigt, M., Hagman, J. E., Gehrtz, J., Ratliff, B., **Alexander, N. N.**, & Levy, R. (Eds.) (2023). [Justice through the lens of calculus: Framing new possibilities for diversity, equity, and inclusion](https://maa.org/wp-content/uploads/2025/01/NTE96.pdf){.external target="_blank"}. MAA Press, Notes, Vol. 96. </li>
 
-<li> **Alexander, N. N.**, Ratliff, B., **Levy, R.**, Voigt, M., Hagman, J. E., Gehrtz, J. (2023). Cross-cutting inquiries: Moving Towards a Systems-critical Practice. In M. Voigt, J. E. Hagman, J. Gehrtz, B. Ratliff, N. N. Alexander, & R. Levy (Eds.). Justice through the lens calculus: Framing new possibilities for diversity, equity, and inclusion. MAA Press, Notes, Vol. 96 </li>
+<li> **Alexander, N. N.**, Ratliff, B., Levy, R., Voigt, M., Hagman, J. E., Gehrtz, J. (2023). Cross-cutting inquiries: Moving Towards a Systems-critical Practice. In M. Voigt, J. E. Hagman, J. Gehrtz, B. Ratliff, N. N. Alexander, & R. Levy (Eds.). Justice through the lens calculus: Framing new possibilities for diversity, equity, and inclusion. MAA Press, Notes, Vol. 96 </li>
 
 <li> **Alexander N.**, Diaz Eaton C., Shrout A. H., Tsinnajinnie B., & Tsosie K. (2022). Beyond ethics: Considerations for centering equity-minded data science. *Journal of Humanistic Mathematics, 12*(2), 254–300. [https://doi.org/10.5642/jhummath.OCYS6929](https://doi.org/10.5642/jhummath.OCYS6929){.external target="_blank"} </li>
 
@@ -28,7 +28,7 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 
 <li> **Alexander, N. N.** (2019). [Daija’s awakening: Critical race theory and Afrofuturism in mathematics education](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315121192-5/daija-awakening-nathan-alexander){.external target="_blank"}. In J. Davis & C. Jett, *Critical Race Theory in Mathematics Education* (pp. 56-74). Routledge. </li>
 
-<li> **Alexander, N. N.** (2013).[ Gender Inequality: Mathematics](https://dx.doi.org/10.4135/9781452276151.n158){.external target="_blank"}. In J. Ainsworth (Ed.), Sociology of Education: An A-to-Z Guide, SAGE Publications: London, UK. </li>
+<li> **Alexander, N. N.** (2013).[Gender Inequality: Mathematics](https://dx.doi.org/10.4135/9781452276151.n158){.external target="_blank"}. In J. Ainsworth (Ed.), Sociology of Education: An A-to-Z Guide, SAGE Publications: London, UK. </li>
 
 </ol>
 
@@ -52,11 +52,19 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 
 <ol reversed>
 
+<li>**Davis, K.** (2025, April). Fighting The Frame: How Framing Police Brutality Influences Blame. Poster presentation at the 2025 Morehouse College Dream Makers Summit, Atlanta, GA. </li>
+
+<li>**Williams, Z.** & **Alexander, N. N.** (2025, April). Examining Racial Disparities in Capital Punishment. Poster presentation at the 2025 Howard University Research Month Symposium, Washington, DC. </li>
+
+<li>**Jackson, J.** & **Alexander, N. N.** (2025, April). A Systematic Scoping Review of the Research Literature on Factors Influencing Black Male Educator Retention. Poster presentation at the 2025 Howard University Research Month Symposium, Washington, DC. </li>
+
+<li>**Gupta, J.** & **Alexander, N. N.** (2025, April). Parts of a Patchwork Nation: Designing an Open Source Tool to Investigate Demographic Shifts in Urban and Rural Communities. Poster presentation at the 2025 Howard University Research Month Symposium, Washington, DC. </li>
+
 <li>**Alexander, N. N.**, **Onabajo, B.**, **Gupta, J.**, **Nichols-Smith, K.**, & **Jang, H.** (2025, March). Mapping Multidimensionality: Using Census Data to Understand Neighborhood Communities. Talk at the 2025 DC Open Data Showcase, Washington, DC. </li>
 
 <li> **Alexander, N. N.** & **Gupta, J.** (2024, December). Ancestral Mathematics. Workshop at the 2024 HBCU Alumni Alliance and 100 Black Men STEM Day. University of the District of Columbia, Washington, DC. </li>
 
-<li> **Alexander, N. N.** & **Williams, Z.** (2024, October). What Happened to Chocolate City? Worksohp at Nubian HueMan, Anacostia, Washington, DC. </li>
+<li> **Alexander, N. N.** & **Williams, Z.** (2024, October). What Happened to Chocolate City? Understanding Neighborhood Communities in DC. Workshop at Nubian HueMan, Anacostia, Washington, DC. </li>
 
 <li> **Alexander, N. N.** (2024). Overview of the Quantitative Histories Workshop: A Curriculum & Software Development Research Collective. Proceedings of the Howard University Center for Applied Data Science and Analytics (CADSA) Research Symposium. Washington, DC. </li>
 
@@ -65,6 +73,12 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 ### Grants and funding
 
 <ol reversed>
+
+<li> **Open Research Community Accelerator** (ORCA). Expansion of an Open Source Community for Faculty and Students at Historically Black Colleges and Universities. Nathan Alexander (PI). Catalytic Awards Program, 2025-2026. (Funded, $15,000) </li>
+
+<li> **STEM Research Initiative for Diversity and Equity** (STRIDES). Designing Radical and Equitable Approaches with Mathematics Educators, Researchers, and Students. Co-Principal Investigator (Co-PI) with Blake O’Neal Turner (PI), and Malik Henfield (Co-PI). Marquette University, 2025-2026. (Funded, $10,000) </li>
+
+<li> **Public Interest Technology Network**. Integrating Community Knowledge and Equity into Integrated Admin- istrative Data Systems for Research and Education in Data Science for Social Impact. Subaward with Francisca Garcia-Cobian (PI) and Patty Dare (Co-PI). University Network, 2025-2026. (Funded, $10,000) </li>
 
 <li> **Sloan Foundation**. Open Source Workshops and Lesson Development for Faculty and Students at Historically Black Colleges and Universities. Nathan Alexander (PI) with Hye Ryeon Jang (Co-PI) and Kari Jordan (Co-PI). Open Source Software Development, 2023-2024. (Funded, $249,705) </li>
 

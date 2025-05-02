@@ -16,7 +16,7 @@ about:
 
   - [gen0cide (forthcoming)](){.external target="_blank"}
   
-  - [FATAL: a study of fatal police interactions in the united states](https://quant-shop.github.io/fatalv2){.external target="_blank"}
+  - [FATAL: a study of fatal police interactions in the united states](https://github.com/quant-shop/fatalv2){.external target="_blank"}
 
   - [bombs over baghdad](https://professornaite.github.io/bob){.external target="_blank"}
 

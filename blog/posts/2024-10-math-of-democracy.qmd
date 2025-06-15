@@ -1,0 +1,16 @@
+---
+title: "The Mathematics of Democracy"
+description: "How can mathematics teach us about democracy?"
+author: "Nathan Alexander, PhD"
+date: "10/25/2024"
+categories:
+  - news
+  - code
+  - analysis
+  - mathematics
+---
+
+On the mathematics of democracy.
+
+
+From an attendee, SB: The question that I am reflecting on is, Can democracy thrive without quantitative literacy? In what ways does a lack of mathematical understanding hinder public participation in democratic decision-making?   Take Care!

@@ -8,6 +8,14 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 
 <ol reversed>
 
+<li> Fletcher, N., **Alexander, N. N.**, Kang, B., Kebreab, L., Marshall, B., Martinez, J., Sundrani, A., & Velasco, R. (forthcoming). Programs and Opportunities for Early Career Mathematics Education Scholars. </li>
+
+<li> **Alexander, N. N.** (forthcoming). Measuring School Desegregation: A Critical Quantitative Replication. </li>
+
+<li> **Alexander, N. N.**, Thompson, B., Piercy, V., & Diaz Eaton, C. (forthcoming). Towards a Praxis of Critical Inquiry in Undergraduate Mathematics Classrooms. </li>
+
+<li> **Alexander, N. N.**, Turner, B. O., Wallace, D., Kyles, C., Leatherwood, D., & Payne, R. (forthcoming). From Theory to Practice: Exploring Critical Orientations in Professional Learning Programs in Mathematics Education. </li>
+
 <li> **Alexander, N. N.**, Appling, T., Banuelos, M., Bello, G., Brown, A., Century, J., Connor, K., Ji, H., Levy, R., Mitchell, P., Mongeau, D., Mysliwiec, M., Niu, J., Paykin, S., Quarkume, A., Schiffman, J., Skinner, L., Uminsky, D. & Zhong, P. (2024). Data Science for Social Impact in Higher Education: First Steps. Data.org Playbook. Available at: [https://data.org/playbooks/data-science-for-social-impact-in-higher-education/](https://data.org/playbooks/data-science-for-social-impact-in-higher-education/){.external target="_blank"} </li>
 
 <li> **Ballenger, H. J.**, **Washington, T.**, Clark, R., Lockhart, J. W., Adebowale, J., Hearn, D., Dotson, E., Gaines, J., Bennett, V., Teodorescu, D., **Alexander, N. N.**, Gilbert, N., **Lamar, T.**, Morris, M., Neely, A., **Borum, V.**, Ellis, V., & Johnson, K. (December 2023). Atlanta University Center Data Science Initiative - Data Science for K-12 Listening Session Report. Available at SSRN: [http://dx.doi.org/10.2139/ssrn.4493108](http://dx.doi.org/10.2139/ssrn.4493108){.external target="_blank"} </li>
@@ -48,7 +56,7 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 
 </ol>
 
-### Lab presentations and posters
+### Recent lab presentations and posters
 
 <ol reversed>
 
@@ -66,7 +74,10 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 
 <li> **Alexander, N. N.** & **Williams, Z.** (2024, October). What Happened to Chocolate City? Understanding Neighborhood Communities in DC. Workshop at Nubian HueMan, Anacostia, Washington, DC. </li>
 
-<li> **Alexander, N. N.** (2024). Overview of the Quantitative Histories Workshop: A Curriculum & Software Development Research Collective. Proceedings of the Howard University Center for Applied Data Science and Analytics (CADSA) Research Symposium. Washington, DC. </li>
+
+<li> **Alexander, N. N.**, **Davis, K.**, **Ghali, B.**, **Stewart, Q.**, & **La Cour, G.** (2024, April). Data Wells: Race and State Violence in the United States from 1892. Invited talk at the 2024 Bob Moses Conference, Virtual. </li>
+
+<li> **Alexander, N. N.** (2024, April). Overview of the Quantitative Histories Workshop: A Curriculum & Software Development Research Collective. Proceedings of the Howard University Center for Applied Data Science and Analytics (CADSA) Research Symposium. Washington, DC. </li>
 
 </ol>
 

@@ -1,0 +1,233 @@
+[
+  {
+    "objectID": "manual.html",
+    "href": "manual.html",
+    "title": "lab manual",
+    "section": "",
+    "text": "This area is for lab members only."
+  },
+  {
+    "objectID": "manual.html#lessons",
+    "href": "manual.html#lessons",
+    "title": "lab manual",
+    "section": "Lessons",
+    "text": "Lessons\n\n\n\n\nLesson\nTitle\nResources\n\n\n\n\n0\nGetting started\n\n\n\n1\nIntro to the Quantitative Histories Workshop Model\n\n\n\n2\nCase Study 1: Fatal Police Interactions\n\n\n\n3\nCase Study 2: The Red Record"
+  },
+  {
+    "objectID": "files/user-group.html",
+    "href": "files/user-group.html",
+    "title": "What is a user group?",
+    "section": "",
+    "text": "In computer science a user group is a collection of people who are interested in a specific topic, area of study, or development. This collection often uses the same products and tools to complete their work, and they use the internet and other digital tools and software to share their work."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
+    "section": "",
+    "text": "we are a network of small group projects. we use interdisciplinary inquiries to understand history.\n\n\n\nhoward university lab members at the 2025 DC Open Data Showcase\n\n\nspecifically, we quantify historical events and the social sciences to learn about in/justice and futurity. we make use of critical theories and modern computational tools to learn about and respond to local and global issues of in/justice. our work inspires our members to set up community-centered, near-peer research projects and user groups. in these groups, users engage with other members of their teams by setting up small learning communities to engage in interdisciplinary learning about pressing questions.\nour workshop is inspired by the legacy of the great, late Bob Moses, founder of the Algebra Project."
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "welcome to the quant-shop blog!",
+    "section": "",
+    "text": "what happened to chocolate city?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat happened to Chocolate City?\n\n\n\n\n\n\nDC\n\n\nblack\n\n\nanalysis\n\n\nmathematics\n\n\n\n\n\n\n\n\n\nOct 29, 2024\n\n\nNathan Alexander, PhD\n\n\n\n\n\n\n\n\n\n\n\n\nThe Mathematics of Democracy\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\nmathematics\n\n\n\nHow can mathematics teach us about democracy?\n\n\n\n\n\nOct 25, 2024\n\n\nNathan Alexander, PhD\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/2024-10-chocolate-city.html",
+    "href": "blog/posts/2024-10-chocolate-city.html",
+    "title": "What happened to Chocolate City?",
+    "section": "",
+    "text": "On October 4th, the Quantitative Histories Workshop partnered with Nubian Hueman in Anacostia, DC to host a #publicmath event focused on the mathematics behind DC’s changing demographics. During the event, participants engaged in a host of activities related to gerrymandering, gentrification, and the analysis of U.S. census data on historically Black communities."
+  },
+  {
+    "objectID": "code/five-thirty-eight.html",
+    "href": "code/five-thirty-eight.html",
+    "title": "Exploring the ABC News’ 538 data",
+    "section": "",
+    "text": "Data from ABC News’ 538 is useful for exploring and analyzing data used in stories from a national news outlet.\nSet up your enviornment.\n\nknitr::opts_chunk$set(\n  echo = FALSE, # By default, hide code; set to TRUE to see code\n  fig.pos = 'th', # Places figures at top or here\n  out.width = '100%', dpi = 300, # Figure resolution and size\n  fig.env=\"figure\"\n) # Latex figure environment\n\n# packages and libraries\n# install.packages(\"fivethiryeight\")\nlibrary(fivethirtyeight)\n\nSome larger datasets need to be installed separately, like senators and\nhouse_district_forecast. To install these, we recommend you install the\nfivethirtyeightdata package by running:\ninstall.packages('fivethirtyeightdata', repos =\n'https://fivethirtyeightdata.github.io/drat/', type = 'source')\n\noptions(knitr.table.format = \"latex\") # For kable tables to write LaTeX table directly\n\nLoad essential libraries.\n\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ forcats   1.0.0     ✔ readr     2.1.4\n✔ ggplot2   3.4.4     ✔ stringr   1.5.0\n✔ lubridate 1.9.3     ✔ tibble    3.2.1\n✔ purrr     1.0.2     ✔ tidyr     1.3.1\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\nhere() starts at /Users/nathanalexander/Dropbox/Project_admin/quant-shop\n\n\nAttaching package: 'kableExtra'\n\n\nThe following object is masked from 'package:dplyr':\n\n    group_rows\n\n\nhere() starts at /Users/nathanalexander/Dropbox/Project_admin/quant-shop/code\n\n\nReturn the attributes of the data frame.\n\n\n$names\n [1] \"year\"         \"avg\"          \"canada\"       \"france\"       \"germany\"     \n [6] \"greece\"       \"hungary\"      \"italy\"        \"netherlands\"  \"poland\"      \n[11] \"spain\"        \"sweden\"       \"uk\"           \"russia\"       \"australia\"   \n[16] \"india\"        \"indonesia\"    \"japan\"        \"philippines\"  \"south_korea\" \n[21] \"vietnam\"      \"israel\"       \"jordan\"       \"lebanon\"      \"tunisia\"     \n[26] \"turkey\"       \"ghana\"        \"kenya\"        \"nigeria\"      \"senegal\"     \n[31] \"south_africa\" \"tanzania\"     \"argentina\"    \"brazil\"       \"chile\"       \n[36] \"colombia\"     \"mexico\"       \"peru\"         \"venezuela\"    \"question\"    \n\n$row.names\n [1]  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25\n[26] 26 27 28 29 30 31 32\n\n$class\n[1] \"tbl_df\"     \"tbl\"        \"data.frame\"\n\n\n\n\n[1] 49.66913"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "",
+    "section": "",
+    "text": "Research and products\nLab members, research affiliates, and friends of the lab in bold.\n\n\nFletcher, N., Alexander, N. N., Kang, B., Kebreab, L., Marshall, B., Martinez, J., Sundrani, A., & Velasco, R. (forthcoming). Programs and Opportunities for Early Career Mathematics Education Scholars.\n\n\nAlexander, N. N. (forthcoming). Measuring School Desegregation: A Critical Quantitative Replication.\n\n\nAlexander, N. N., Thompson, B., Piercy, V., & Diaz Eaton, C. (forthcoming). Towards a Praxis of Critical Inquiry in Undergraduate Mathematics Classrooms.\n\n\nAlexander, N. N., Turner, B. O., Wallace, D., Kyles, C., Leatherwood, D., & Payne, R. (forthcoming). From Theory to Practice: Exploring Critical Orientations in Professional Learning Programs in Mathematics Education.\n\n\nAlexander, N. N., Appling, T., Banuelos, M., Bello, G., Brown, A., Century, J., Connor, K., Ji, H., Levy, R., Mitchell, P., Mongeau, D., Mysliwiec, M., Niu, J., Paykin, S., Quarkume, A., Schiffman, J., Skinner, L., Uminsky, D. & Zhong, P. (2024). Data Science for Social Impact in Higher Education: First Steps. Data.org Playbook. Available at: https://data.org/playbooks/data-science-for-social-impact-in-higher-education/\n\n\nBallenger, H. J., Washington, T., Clark, R., Lockhart, J. W., Adebowale, J., Hearn, D., Dotson, E., Gaines, J., Bennett, V., Teodorescu, D., Alexander, N. N., Gilbert, N., Lamar, T., Morris, M., Neely, A., Borum, V., Ellis, V., & Johnson, K. (December 2023). Atlanta University Center Data Science Initiative - Data Science for K-12 Listening Session Report. Available at SSRN: http://dx.doi.org/10.2139/ssrn.4493108\n\n\nJones, Q., Vindas Meléndez, A. R., Mendible, A., Aminian, M., Brooks, H. Z., Alexander, N., Diaz Eaton, C., & Chodrow, P. (2023). Data science and social justice in the mathematics community. Notices of the American Mathematical Society.\n\n\nVoigt, M., Hagman, J. E., Gehrtz, J., Ratliff, B., Alexander, N. N., & Levy, R. (Eds.) (2023). Justice through the lens of calculus: Framing new possibilities for diversity, equity, and inclusion. MAA Press, Notes, Vol. 96.\n\n\nAlexander, N. N., Ratliff, B., Levy, R., Voigt, M., Hagman, J. E., Gehrtz, J. (2023). Cross-cutting inquiries: Moving Towards a Systems-critical Practice. In M. Voigt, J. E. Hagman, J. Gehrtz, B. Ratliff, N. N. Alexander, & R. Levy (Eds.). Justice through the lens calculus: Framing new possibilities for diversity, equity, and inclusion. MAA Press, Notes, Vol. 96\n\n\nAlexander N., Diaz Eaton C., Shrout A. H., Tsinnajinnie B., & Tsosie K. (2022). Beyond ethics: Considerations for centering equity-minded data science. Journal of Humanistic Mathematics, 12(2), 254–300. https://doi.org/10.5642/jhummath.OCYS6929\n\n\nJang, H. R., Quinones-Marrero, J., & Hincapie-Castillo, J. M. (2022). Environmental scan of COVID-19 infection dashboards in the Florida public school system. Frontiers in Public Health, 10, Article 925808.\n\n\nAlexander, N. N. (2022). A Legacy of Literacy: Mathematics Teachers and the Quests for Racial Justice. In D. C. Hucks, Y. S. Ruiz, V. Showunmi, S. C. Carothers, & C. W. Lewis (Eds.), Purposeful Teaching and Learning in Diverse Contexts: Implications for Access, Equity and Achievement (pp. 3-23). Charlotte: IAP.\n\n\nAlexander, N., Teymuroglu, Z., & Yerger, C. (2019). Critical Conversations on Social Justice in Undergraduate Mathematics. PRIMUS: Problems, Resources, and Issues in Math Undergraduate Studies, 29(4), 396-419.\n\n\nAlexander, N. N. (2019). Daija’s awakening: Critical race theory and Afrofuturism in mathematics education. In J. Davis & C. Jett, Critical Race Theory in Mathematics Education (pp. 56-74). Routledge.\n\n\nAlexander, N. N. (2013).Gender Inequality: Mathematics. In J. Ainsworth (Ed.), Sociology of Education: An A-to-Z Guide, SAGE Publications: London, UK.\n\n\n\n\nLab features\n\n\nNature (April, 2025). Creating an ‘all comers’ research group in quantitative history.\n\n\nNC State Data Science Academy (June, 2022). “Who gets to learn are the people with the opportunity.”: Equity in Data Science Education.\n\n\nCNN (May, 2021). United Shades of America with Kamau Bell: S6 E2 - Black to the Future.\n\n\nAbolition Science Podcast (March, 2020). Afrofuturism and Math Education.\n\n\nCoca-Cola Scholars Foundation (March, 2019). When Empathy Goes Viral.\n\n\n\n\nRecent lab presentations and posters\n\n\nDavis, K. (2025, April). Fighting The Frame: How Framing Police Brutality Influences Blame. Poster presentation at the 2025 Morehouse College Dream Makers Summit, Atlanta, GA.\n\n\nWilliams, Z. & Alexander, N. N. (2025, April). Examining Racial Disparities in Capital Punishment. Poster presentation at the 2025 Howard University Research Month Symposium, Washington, DC.\n\n\nJackson, J. & Alexander, N. N. (2025, April). A Systematic Scoping Review of the Research Literature on Factors Influencing Black Male Educator Retention. Poster presentation at the 2025 Howard University Research Month Symposium, Washington, DC.\n\n\nGupta, J. & Alexander, N. N. (2025, April). Parts of a Patchwork Nation: Designing an Open Source Tool to Investigate Demographic Shifts in Urban and Rural Communities. Poster presentation at the 2025 Howard University Research Month Symposium, Washington, DC.\n\n\nAlexander, N. N., Onabajo, B., Gupta, J., Nichols-Smith, K., & Jang, H. (2025, March). Mapping Multidimensionality: Using Census Data to Understand Neighborhood Communities. Talk at the 2025 DC Open Data Showcase, Washington, DC.\n\n\nAlexander, N. N. & Gupta, J. (2024, December). Ancestral Mathematics. Workshop at the 2024 HBCU Alumni Alliance and 100 Black Men STEM Day. University of the District of Columbia, Washington, DC.\n\n\nAlexander, N. N. & Williams, Z. (2024, October). What Happened to Chocolate City? Understanding Neighborhood Communities in DC. Workshop at Nubian HueMan, Anacostia, Washington, DC.\n\n\nAlexander, N. N., Davis, K., Ghali, B., Stewart, Q., & La Cour, G. (2024, April). Data Wells: Race and State Violence in the United States from 1892. Invited talk at the 2024 Bob Moses Conference, Virtual.\n\n\nAlexander, N. N. (2024, April). Overview of the Quantitative Histories Workshop: A Curriculum & Software Development Research Collective. Proceedings of the Howard University Center for Applied Data Science and Analytics (CADSA) Research Symposium. Washington, DC.\n\n\n\n\nGrants and funding\n\n\nOpen Research Community Accelerator (ORCA). Expansion of an Open Source Community for Faculty and Students at Historically Black Colleges and Universities. Nathan Alexander (PI). Catalytic Awards Program, 2025-2026. (Funded, $15,000)\n\n\nSTEM Research Initiative for Diversity and Equity (STRIDES). Designing Radical and Equitable Approaches with Mathematics Educators, Researchers, and Students. Co-Principal Investigator (Co-PI) with Blake O’Neal Turner (PI), and Malik Henfield (Co-PI). Marquette University, 2025-2026. (Funded, $10,000)\n\n\nPublic Interest Technology Network. Integrating Community Knowledge and Equity into Integrated Admin- istrative Data Systems for Research and Education in Data Science for Social Impact. Subaward with Francisca Garcia-Cobian (PI) and Patty Dare (Co-PI). University Network, 2025-2026. (Funded, $10,000)\n\n\nSloan Foundation. Open Source Workshops and Lesson Development for Faculty and Students at Historically Black Colleges and Universities. Nathan Alexander (PI) with Hye Ryeon Jang (Co-PI) and Kari Jordan (Co-PI). Open Source Software Development, 2023-2024. (Funded, $249,705)\n\n\nNew Ventures Fund. Development of Community-based Experiential Learning Programs in Data Science. Nathan Alexander (PI), Data.org Capacity Accelerator Network. 2022-2023. (Funded, $115,000)\n\n\nMicrosoft Corporation. Summer Research Experience in Data Science and Critical Mathematics (DSCM). Nathan Alexander (PI), 2022-2024. (Funded, $47,000)\n\n\nAUC Data Science Initiative. Initial Development of a Problem-based Active Learning Framework for Data Science. Nathan Alexander (PI), Summer Research Grant. 2022. (Funded, $3,000)\n\n\nAssociated Colleges of the South (ACS). Teaching Social Justice Mathematics. Nathan Alexander (Co-PI) with Dr. Viveka Borum (PI) and Dr. Zeynep Teymuroglu (Co-PI). Diversity & Inclusion Faculty Grant, 2019-2020. (Funded, $27,765)"
+  },
+  {
+    "objectID": "programs.html",
+    "href": "programs.html",
+    "title": "About",
+    "section": "",
+    "text": "Learn more about the our programs.\n\nData Science and Critical Mathematics Program\nSummer program for high school students (info)\n\n\n\n\n\n\n\nCommunity Data Fellowship\nUndergraduate and graduate student academic year program\n\nAY2022-2023 projects\nAY2023-2024 projects\n\n\n\nTeaching and Community Educator Fellowships\nYear-round k-12 teacher and community educator program\n\nMen of Math Fellowship at the Institute for Racial Justice\n\n\n\nFaculty Development Program\nCollaborative faculty workshop series\n\nTeaching Open Source Workshop Series for HBCU faculty\n\n\n\nVirtual Exchange Program\nInternational cultural exchange program"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "recurring",
+    "section": "",
+    "text": "to request login info, contact us at quantshopusers [at] gmail [dot] com.\n\n\nThursdays at 5:00pm ET via Zoom.\n\n\n\nThursdays at 5:30pm ET via Zoom."
+  },
+  {
+    "objectID": "events.html#fall",
+    "href": "events.html#fall",
+    "title": "recurring",
+    "section": "2025 fall",
+    "text": "2025 fall\ncalendar forthcoming."
+  },
+  {
+    "objectID": "events.html#spring",
+    "href": "events.html#spring",
+    "title": "recurring",
+    "section": "2025 spring",
+    "text": "2025 spring\n\nIntermediate R Workshop Series\n\n\n\nDC Open Data Showcase\nPresenters: Bayowa Onabajo, Jibek Gupta, and Kyshan Nichols-Smith"
+  },
+  {
+    "objectID": "events.html#fall-1",
+    "href": "events.html#fall-1",
+    "title": "recurring",
+    "section": "2024 fall",
+    "text": "2024 fall\n\nHBCU STEM Day\nPresenter: Jibek Gupta\n\n\nIntermediate R/Posit Workshop for Social Scientists\nPresenter: Lyrric Jackson\n\n\n\nThe Mathematics of Democracy\nModerator: Jalil Cooper\n\n\n\nChocolate City Mathy Hour\nPresenter: Zoe Williams"
+  },
+  {
+    "objectID": "events.html#spring-1",
+    "href": "events.html#spring-1",
+    "title": "recurring",
+    "section": "2024 spring",
+    "text": "2024 spring\n\nBob Moses Conference\nPresenters: Kade Davis, Gabriella La Cour, Basil Ghali, and Qyana Stewart\n\n\n\nBob Moses Conference"
+  },
+  {
+    "objectID": "events.html#spring-2",
+    "href": "events.html#spring-2",
+    "title": "recurring",
+    "section": "2023 spring",
+    "text": "2023 spring\n\nAmerican Educational Research Association (AERA) conference\nPresenters: Nathan Alexander, Blake O’Neal Turner, Darnell Leatherwood, Francis Henderson, David Wallace, Candace Kyles"
+  },
+  {
+    "objectID": "events.html#fall-2",
+    "href": "events.html#fall-2",
+    "title": "recurring",
+    "section": "2021 fall",
+    "text": "2021 fall\n\nInstitute for Mathematics and Democracy (IMD) Conference\nPresenter: Jalil Cooper\n\n\n\nInstitute for Mathematics and Democracy Conference"
+  },
+  {
+    "objectID": "events.html#pre-2020",
+    "href": "events.html#pre-2020",
+    "title": "recurring",
+    "section": "pre-2020",
+    "text": "pre-2020\n\n\n\nnathan alexander and bob moses at the 2017 data for Black Lives Conference"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "welcome user. choose your quest.\n\nsee all of our workshops at quant-shop-users\nvisit our current projects:\n\ncensus-users\ned-users\ncritstats-users\ntext-users\n\nlearn about our sister lab, the HJLab\n\nwhat is a user group?"
+  },
+  {
+    "objectID": "blog/posts/2024-10-math-of-democracy.html",
+    "href": "blog/posts/2024-10-math-of-democracy.html",
+    "title": "The Mathematics of Democracy",
+    "section": "",
+    "text": "On the mathematics of democracy.\nFrom an attendee, SB: The question that I am reflecting on is, Can democracy thrive without quantitative literacy? In what ways does a lack of mathematical understanding hinder public participation in democratic decision-making? Take Care!"
+  },
+  {
+    "objectID": "quant-shop.html",
+    "href": "quant-shop.html",
+    "title": "Notes from The Workshop",
+    "section": "",
+    "text": "state violence\n\ngen0cide (forthcoming)\nFATAL: a study of fatal police interactions in the united states\nbombs over baghdad\n\nthe OG: Du Bois\n\ndata and Du Bois\nthe Atlanta University Studies\n\nabolition\n\na quantitative abolitionist inquiry, phase 1: lynching\na quantitative abolitionist inquiry, phase 2: policing\na quantitative abolitionist inquiry, phase 3: prisons\n\ndemography\n\ncensus history project, phase 1: race and ethnicity\ncensus history project, phase 2: multidimensionality (forthcoming)\nintroduction to mapping\n\npolitics and policy\n\nrocking the vote (forthcoming)\n\nhave a project idea!? hit us up at quantshopusers [at] gmail [dot] com\n\nwe support equitable open source practices. see a list of our project repositories here."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Meet the talented individuals who make up our lab!",
+    "section": "",
+    "text": "Nathan Alexander, PhD\n\n\n\nPI, Howard University\n\n\nDr. Alexander is the founder of the Workshop and he has led the lab since its inception.\n\n\n\n \n\nHelen Jang, PhD\n\n\n\nPI, Morehouse College\n\n\nDr. Jang directs our sister lab, the HJLab, in the Atlanta University Center (AUC).\n\n\n\n\n\nLyrric Jackson\n\n\nSpelman College\n\n\nProf. Jackson is our coordinator, in-house technical expert, and lab manager.\n\n\n\n\n\nJalil Coooper\n\n\nStanford University\n\n\nJalil is a senior design major at Stanford and he has been with the lab since its inception.\n\n\n\n\n\nMyles Ndiritu\n\n\nMorehouse College\n\n\nMyles is a junior political science major at Morehouse College and a lab TA.\n\n\n\n\n\nKade Davis\n\n\nMorehouse College\n\n\nKade is a senior sociology major at Morehouse College and a lab TA.\n\n\n\n\n\nKyshan Nichols-Smith\n\n\nMorehouse College\n\n\nKyshan is a senior political science major at Morehouse College and a lab TA.\n\n\n\n\n\nQyana Stewart, MS\n\n\nHoward University\n\n\nQyana is a PhD candidate in Higher Education Leadership and Policy Studies.\n\n\n\n\n\nBasil Ghali\n\n\nHoward University\n\n\nBasil is a doctoral student in psychology and he has been with the lab since its inception.\n\n\n\n\n\nZoe Williams\n\n\nHoward University\n\n\nZoe is a junior political science major at Howard University.\n\n\n\n\n\nJibek Gupta\n\n\nHoward University\n\n\nJibek is a junior computer science major at Howard University.\n\n\n\n\n\nBayowa Onabajo\n\n\nHoward University\n\n\nBayowa is a MS student in Applied Data Science and Analytics.\n\n\n\n\n\nAmari Gray\n\n\nMorehouse College\n\n\nAmari is a junior political science major at Morehouse College.\n\n\n\n\n\nJahmere Jackson\n\n\nHoward University\n\n\nJahmere is a freshman elementary education major at Howard University.\n\n\n\n\n\nNicholas Angelo\n\n\nHoward University\n\n\nNicholas is a junior elementary education major at Howard University.\n\n\n\nLab Alum\n\nJulian Amaya, Morehouse College\n\n\nJeremiah Lowther, Morehouse College\n\n\nMaya Phillips, Spelman College\n\n\nSayid Achilov, Brown University\n\n\nKenthia Roberts, Columbia University\n\n\nGabriella Walker, Spelman College\n\n\nJana Turner, Howard University\n\n\nDissandou Becolli, HS Scholar\n\n\nKareem Weaver, Morehouse College\n\n\nAmir Harris, Morehouse College\n\n\nBenjamin Holman, Morehouse College\n\n\nDalton Favors, Morehouse College\n\n\nDylen Richmond, Morehouse College\n\n\nMatthew Mann, Morehouse College\n\n\nXavier McKenzie, Morehouse College\n\n\nHasan Henry, Morehouse College"
+  },
+  {
+    "objectID": "lessons/lesson02-slides.html#overview-of-fatal-force-v2-files",
+    "href": "lessons/lesson02-slides.html#overview-of-fatal-force-v2-files",
+    "title": "Lesson 2",
+    "section": "Overview of Fatal Force v2 files",
+    "text": "Overview of Fatal Force v2 files"
+  },
+  {
+    "objectID": "lessons/lesson02-slides.html#data-prep-a-series-of-steps",
+    "href": "lessons/lesson02-slides.html#data-prep-a-series-of-steps",
+    "title": "Lesson 2",
+    "section": "Data prep: A series of steps",
+    "text": "Data prep: A series of steps"
+  },
+  {
+    "objectID": "lessons/lesson02.html#data-prep-a-series-of-steps",
+    "href": "lessons/lesson02.html#data-prep-a-series-of-steps",
+    "title": "Lesson 2",
+    "section": "Data prep: A series of steps",
+    "text": "Data prep: A series of steps"
+  },
+  {
+    "objectID": "lessons/lesson01-slides.html#the-quantitative-histories-workshop-model",
+    "href": "lessons/lesson01-slides.html#the-quantitative-histories-workshop-model",
+    "title": "Lesson 1",
+    "section": "The Quantitative Histories Workshop Model",
+    "text": "The Quantitative Histories Workshop Model\nPrep\nCode and data prep should follow the Good enough practices in scientific computing model.\nCode directory\nAnalysis\nAnalyses can be done in any software program and a clear summary of steps should be included.\nReporting\nAll reports should be generated using an .RMarkdown.\nCase study\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
+  },
+  {
+    "objectID": "lessons/lesson01-slides.html#data-prep-a-series-of-steps",
+    "href": "lessons/lesson01-slides.html#data-prep-a-series-of-steps",
+    "title": "Lesson 1",
+    "section": "Data prep: A series of steps",
+    "text": "Data prep: A series of steps\nStep 01: Import data Step 02: Process data Step 03: Clean data Step 04: Explore data Step 05: Analyze data"
+  },
+  {
+    "objectID": "lessons/lesson01-slides.html#data-analysis-your-theoretical-framework",
+    "href": "lessons/lesson01-slides.html#data-analysis-your-theoretical-framework",
+    "title": "Lesson 1",
+    "section": "Data analysis: Your theoretical framework",
+    "text": "Data analysis: Your theoretical framework\nWhat is your theoretical basis? What are your main hypotheses?"
+  },
+  {
+    "objectID": "lessons/lesson01-slides.html#data-reporting-creating-a-report",
+    "href": "lessons/lesson01-slides.html#data-reporting-creating-a-report",
+    "title": "Lesson 1",
+    "section": "Data reporting: Creating a report",
+    "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
+  },
+  {
+    "objectID": "lessons/lesson01.html",
+    "href": "lessons/lesson01.html",
+    "title": "Lesson 1",
+    "section": "",
+    "text": "Code and data prep should follow the Good enough practices in scientific computing model.\nCode directory\n\n\n\nAnalyses can be done in any software program and a clear summary of steps should be included.\n\n\n\nAll reports should be generated using an .RMarkdown.\n\n\n\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
+  },
+  {
+    "objectID": "lessons/lesson01.html#the-quantitative-histories-workshop-model",
+    "href": "lessons/lesson01.html#the-quantitative-histories-workshop-model",
+    "title": "Lesson 1",
+    "section": "",
+    "text": "Code and data prep should follow the Good enough practices in scientific computing model.\nCode directory\n\n\n\nAnalyses can be done in any software program and a clear summary of steps should be included.\n\n\n\nAll reports should be generated using an .RMarkdown.\n\n\n\nTo explore this 3-step model, we will use a case study as found in Lesson 02."
+  },
+  {
+    "objectID": "lessons/lesson01.html#data-prep-a-series-of-steps",
+    "href": "lessons/lesson01.html#data-prep-a-series-of-steps",
+    "title": "Lesson 1",
+    "section": "Data prep: A series of steps",
+    "text": "Data prep: A series of steps\nStep 01: Import data Step 02: Process data Step 03: Clean data Step 04: Explore data Step 05: Analyze data"
+  },
+  {
+    "objectID": "lessons/lesson01.html#data-analysis-your-theoretical-framework",
+    "href": "lessons/lesson01.html#data-analysis-your-theoretical-framework",
+    "title": "Lesson 1",
+    "section": "Data analysis: Your theoretical framework",
+    "text": "Data analysis: Your theoretical framework\nWhat is your theoretical basis? What are your main hypotheses?"
+  },
+  {
+    "objectID": "lessons/lesson01.html#data-reporting-creating-a-report",
+    "href": "lessons/lesson01.html#data-reporting-creating-a-report",
+    "title": "Lesson 1",
+    "section": "Data reporting: Creating a report",
+    "text": "Data reporting: Creating a report\nAll reports should be generated using an .RMrakdown."
+  }
+]

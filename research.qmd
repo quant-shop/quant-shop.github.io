@@ -26,7 +26,7 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 
 <li> **Alexander, N. N.**, Ratliff, B., Levy, R., Voigt, M., Hagman, J. E., Gehrtz, J. (2023). Cross-cutting inquiries: Moving Towards a Systems-critical Practice. In M. Voigt, J. E. Hagman, J. Gehrtz, B. Ratliff, N. N. Alexander, & R. Levy (Eds.). Justice through the lens calculus: Framing new possibilities for diversity, equity, and inclusion. MAA Press, Notes, Vol. 96 </li>
 
-<li> **Alexander N.**, Diaz Eaton C., Shrout A. H., Tsinnajinnie B., & Tsosie K. (2022). Beyond ethics: Considerations for centering equity-minded data science. *Journal of Humanistic Mathematics, 12*(2), 254–300. [https://doi.org/10.5642/jhummath.OCYS6929](https://doi.org/10.5642/jhummath.OCYS6929){.external target="_blank"} </li>
+<li> **Alexander N. N.**, Diaz Eaton C., Shrout A. H., Tsinnajinnie B., & Tsosie K. (2022). Beyond ethics: Considerations for centering equity-minded data science. *Journal of Humanistic Mathematics, 12*(2), 254–300. [https://doi.org/10.5642/jhummath.OCYS6929](https://doi.org/10.5642/jhummath.OCYS6929){.external target="_blank"} </li>
 
 <li> **Jang, H. R.**, Quinones-Marrero, J., & Hincapie-Castillo, J. M. (2022). [Environmental scan of COVID-19 infection dashboards in the Florida public school system](https://doi.org/10.3389/fpubh.2022.925808){.external target="_blank"}. *Frontiers in Public Health, 10*, Article 925808. </li>
 

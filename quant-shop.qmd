@@ -12,13 +12,21 @@ about:
       href: https://github.com/quant-shop
 ---
   
+- education
+
+  - [race and racism in STEM](https://professornaite.github.io/racism-stem-ed/){.external target="_blank"}
+  
+  - [statistically measuring and modeling social justice](https://github.com/data-202){.external target="_blank"}
+
+  - [fugitive pedagogies in STEM (forthcoming)](){.external target="_blank"}
+
 - state violence
 
-  - [gen0cide (forthcoming)](){.external target="_blank"}
-  
   - [FATAL: a study of fatal police interactions in the united states](https://github.com/quant-shop/fatalv2){.external target="_blank"}
 
   - [bombs over baghdad](https://professornaite.github.io/bob){.external target="_blank"}
+  
+  - [gen0cide (forthcoming)](){.external target="_blank"}
 
 - the OG: Du Bois
 

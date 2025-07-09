@@ -16,8 +16,6 @@ about:
 
   - [race and racism in STEM](https://professornaite.github.io/racism-stem-ed/){.external target="_blank"}
   
-  - [statistically measuring and modeling social justice](https://github.com/data-202){.external target="_blank"}
-
   - [fugitive pedagogies in STEM (forthcoming)](){.external target="_blank"}
 
 - state violence
@@ -27,12 +25,6 @@ about:
   - [bombs over baghdad](https://professornaite.github.io/bob){.external target="_blank"}
   
   - [gen0cide (forthcoming)](){.external target="_blank"}
-
-- the OG: Du Bois
-
-  - [data and Du Bois](https://quant-shop.github.io/dubois-infographics){.external target="_blank"}
-  
-  - [the Atlanta University Studies](https://quant-shop.github.io/atlanta-university-studies){.external target="_blank"}
 
 - abolition
 
@@ -50,6 +42,12 @@ about:
   
   - [introduction to mapping](https://rpubs.com/professornaite/mapping_intro){.external target="_blank"}
 
+- the OG: Du Bois
+
+  - [data and Du Bois](https://quant-shop.github.io/dubois-infographics){.external target="_blank"}
+  
+  - [the Atlanta University Studies](https://quant-shop.github.io/atlanta-university-studies){.external target="_blank"}
+  
 - politics and policy
 
   - [rocking the vote (forthcoming)](){.external target="_blank"}

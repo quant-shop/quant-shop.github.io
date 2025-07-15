@@ -4,7 +4,7 @@ title: ""
 
 # recurring
 
-to request login info, contact us at quantshopusers [at] gmail [dot] com.
+to request log-in info, contact us at quantshopusers [at] gmail [dot] com.
 
 ### census-users group
 
@@ -64,7 +64,7 @@ Presenter: Zoe Williams
 
 Presenters: Kade Davis, Gabriella La Cour, Basil Ghali, and Qyana Stewart
 
-[![Bob Moses Conference](img/events/bob-moses-conf copy.png){width=75%}](https://www.bobmosesconference.com/)
+[![Bob Moses Conference](img/events/bob-moses-conf copy.png){width=75%}](https://www.bobmosesconference.com/meet-our-speakers-2024)
 
 ## 2023 spring
 

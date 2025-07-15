@@ -1,0 +1,33 @@
+---
+title: "Abacus: History and Origins"
+author: 
+  - "Nathan N. Alexander"
+  - "Quantitative Histories Workshop"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Abacus
+
+The abacus is one of many devices used to count large numbers and quantities. The word is derived from the Greek word *abax* or *abakon*, which references a calculating board, table, or tablet. The plural form of the word abacus is *abaci* or *abacuses*. The development of the modern abacus dates back to the early periods in which counting tables were primarily used across several cultures. The abacus is generally a wooden tool with rods or wires with beads used to denote various numerical content; however, early abaci were likely stone slabs and written in earthy materials, such as sand or mud. The abacus was widely adopted across continents, and its adaptation is tied to various cultures. The tool and its associated methods are used to conduct simple and more advanced arithmetic. The abacus's efficiency is considered on par with the modern calculator when used effectively. An individual who uses an abacus is called an abacist.
+
+## Origins
+
+The word abacus dates back to 1387 AD. The Latin form of the word was used to describe a sandboard abacus; this language was derived from *abakos*, the Greek generative form of *abax* or *abakon*, which means “calculating table.” The meaning of *abax* was varied, and also referred to any table sprinkled with sand and used to draw geometric figures. As a result, the word may be an extension of *ābāq* (pronounced “a-vak”), which is the Hebrew word for dust; there are also connections to the Phoenician word *abak*, meaning “sand.” There are disagreements with regard to the plural form of abacus; however, *abacuses* and *abaci* are both widely used.
+
+The Babylonian cuneiform may be a derived representation of the abacus. But, given the primitive times, Babylonians may have used the abacus for addition and subtraction. The earliest mentions of the use of the abacus date back to ancient Egypt. Abacus-like devices of various sizes, similar to the earlier versions of abaci, were said to be used as counting devices in Ancient Egyptian cultures. However, there is some speculation with regard to the accuracy of these findings based on the lack of evidence in wall depictions and other art widely attributed to Egyptian culture. The oldest counting board discovered to date was found on the Greek island of Salamis, in 1846. This white marble slab measured 149 centimeters in length, 75 centimeters in width, and 4.5 centimeters in height, and it contains five groups of markings. The construction of the markings and lines on this abacus is similar to more modern forms found at later dates, with parallel lines equally dividing up the board. The Roman and Indian abaci were very similar. The Chinese abacus is referred to as the *suanpan*, and was first referenced in a 1st-century book entitled “Supplementary Notes on the Art of Figures,” written by Xu Yue. While the exact design of the *suanpan* is unknown, it is regarded as a key developmental factor in the modern abacus, particularly as written languages were developed globally. The *suanpan* was used for additional functions beyond counting, such as multiplication, square root, and cube root operations. The similarity between the Roman and Chinese abacuses implies that one may have informed the other. The use of the abacus in Korea and Japan is closely tied to China. The Native American abacus, called the *nepohualtzintzin*, was used in ancient Aztec culture. The related system of knotted cords, the *quipu*, used by the Incas, recorded numerical data similar to the abacus. In Russia, the abacus is called the *schoty*. It has a similar design to other abaci but uses a single slanted deck to aid the user. It is still in use today as it was in more ancient times, by shopkeepers and in markets. As written calculus became more common, the use of the abacus declined in many countries.
+
+## Customs
+
+The abacus was historically referred to as a counting frame, or calculating table, to denote its function as a tool for conducting arithmetical processes. Its origins are dated prior to any written numerical system, and before the adoption of the Hindu-Arabic numeral system. The abacus was most likely invented in Mesopotamia by an ancient group known as the Sumerians. Early abaci were likely flat stone slabs covered with earthy materials, such as pebbles, sand, dust, or mud. Contemporary versions of the abacus are generally constructed as a frame, most often a wooden frame, with an arrangement of beads and rods, or wires. The origin of this modern version is unclear, but is most often attributed to early India or Egypt. China is also said to have played a major role in the development and evolution of the abacus. Merchants and businesspeople in Africa, Asia, the early Americas—specifically the Native Americans—and Russia used abaci most extensively over the course of many centuries.
+
+The abacus continues to be used in Africa, China, Japan, and the Middle East. Calculations on the modern abacus are generally performed with beads or counters, instead of numerals. An abacist uses the beads to denote a variety of calculations that signify numbers and place values. Each bead has the same value, and is used to represent numbers based on the place values represented by the wires or rods. Every column represents a different digit. For example, the wire represents a place value—the ones, tens, hundreds, etc. Each bead, then, would represent a specific numerical value within each category. The modern school abacus is generally focused on the representation of place value and numbers.
+
+---
+
+## Further Readings
+
+- Carruccio, E. (2006). *Mathematics And Logic in History And in Contemporary Thought*. Aldine Transaction.
+- Pullan, J. M. (1968). *The History of the Abacus*. New York, NY: Frederick A. Praeger, Inc., Publishers.
+- Smith, D. E. (1925). *History of Mathematics* (Vol. 2). New York: Courier Dover Publications.
+

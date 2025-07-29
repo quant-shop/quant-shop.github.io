@@ -8,11 +8,11 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 
 <ol reversed>
 
-<li> **Alexander, N. N.**, Turner, B. O., Wallace, D., Kyles, C., Leatherwood, D., & Payne, R. (forthcoming). From Theory to Practice: Exploring Critical Orientations in Professional Learning Programs in Mathematics Education. </li>
+<li> **Alexander, N. N.**, **Turner, B. O.**, **Wallace, D.**, **Kyles, C.**, **Leatherwood, D.**, & **Payne, R.** (forthcoming). From Theory to Practice: Exploring Critical Orientations in Professional Learning Programs in Mathematics Education. </li>
 
 <li> **Alexander, N. N.** (forthcoming). Measuring School Desegregation: A Critical Quantitative Replication. </li>
 
-<li> **Alexander, N. N.**, Thompson, B., Piercy, V., & Diaz Eaton, C. (forthcoming). Towards a Praxis of Critical Inquiry in Undergraduate Mathematics Classrooms. </li>
+<li> **Alexander, N. N.**, Thompson, B., Piercy, V., & **Diaz Eaton, C.** (forthcoming). Towards a Praxis of Critical Inquiry in Undergraduate Mathematics Classrooms. </li>
 
 <li> Fletcher, N., **Alexander, N. N.**, Kang, B., Kebreab, L., Marshall, B., Martinez, J., Sundrani, A., & Velasco, R. (forthcoming). Programs and Opportunities for Early Career Mathematics Education Scholars. </li>
 
@@ -20,13 +20,18 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 
 <li> **Ballenger, H. J.**, **Washington, T.**, Clark, R., Lockhart, J. W., Adebowale, J., Hearn, D., Dotson, E., Gaines, J., Bennett, V., Teodorescu, D., **Alexander, N. N.**, Gilbert, N., **Lamar, T.**, Morris, M., Neely, A., **Borum, V.**, Ellis, V., & Johnson, K. (December 2023). Atlanta University Center Data Science Initiative - Data Science for K-12 Listening Session Report. Available at SSRN: [http://dx.doi.org/10.2139/ssrn.4493108](http://dx.doi.org/10.2139/ssrn.4493108){.external target="_blank"} </li>
 
-<li> Jones, Q., Vindas Meléndez, A. R., Mendible, A., Aminian, M., Brooks, H. Z., **Alexander, N.**, Diaz Eaton, C., & Chodrow, P. (2023). Data science and social justice in the mathematics community. *Notices of the American Mathematical Society*. </li>
+<li> Jones, Q., Vindas Meléndez, A. R., Mendible, A., Aminian, M., Brooks, H. Z., **Alexander, N.**, **Diaz Eaton, C.**, & Chodrow, P. (2023). Data science and social justice in the mathematics community. *Notices of the American Mathematical Society*. </li>
+
+<li> **Alexander, N. N.** (2023). Real Analysis. In *EBSCO Research Starters*. Ipswich, MA: EBSCO. [https://www.ebsco.com/research-starters/mathematics/real-analysis](https://www.ebsco.com/research-starters/mathematics/real-analysis) </li>
 
 <li> Voigt, M., Hagman, J. E., Gehrtz, J., Ratliff, B., **Alexander, N. N.**, & Levy, R. (Eds.) (2023). [Justice through the lens of calculus: Framing new possibilities for diversity, equity, and inclusion](https://maa.org/wp-content/uploads/2025/01/NTE96.pdf){.external target="_blank"}. MAA Press, Notes, Vol. 96. </li>
 
 <li> **Alexander, N. N.**, Ratliff, B., Levy, R., Voigt, M., Hagman, J. E., Gehrtz, J. (2023). Cross-cutting inquiries: Moving Towards a Systems-critical Practice. In M. Voigt, J. E. Hagman, J. Gehrtz, B. Ratliff, N. N. Alexander, & R. Levy (Eds.). Justice through the lens calculus: Framing new possibilities for diversity, equity, and inclusion. MAA Press, Notes, Vol. 96 </li>
 
-<li> **Alexander N. N.**, Diaz Eaton C., Shrout A. H., Tsinnajinnie B., & Tsosie K. (2022). Beyond ethics: Considerations for centering equity-minded data science. *Journal of Humanistic Mathematics, 12*(2), 254–300. [https://doi.org/10.5642/jhummath.OCYS6929](https://doi.org/10.5642/jhummath.OCYS6929){.external target="_blank"} </li>
+<li> **Alexander N. N.**, **Diaz Eaton C.**, Shrout A. H., Tsinnajinnie B., & Tsosie K. (2022). Beyond ethics: Considerations for centering equity-minded data science. *Journal of Humanistic Mathematics, 12*(2), 254–300. [https://doi.org/10.5642/jhummath.OCYS6929](https://doi.org/10.5642/jhummath.OCYS6929){.external target="_blank"} </li>
+
+<li> **Alexander, N. N.** (2022). Fermat’s Last Theorem. In *EBSCO Research Starters*. Ipswich, MA: EBSCO. [https://www.ebsco.com/research-starters/history/fermats-last-theorem](https://www.ebsco.com/research-starters/history/fermats-last-theorem) </li>
+
 
 <li> **Jang, H. R.**, Quinones-Marrero, J., & Hincapie-Castillo, J. M. (2022). [Environmental scan of COVID-19 infection dashboards in the Florida public school system](https://doi.org/10.3389/fpubh.2022.925808){.external target="_blank"}. *Frontiers in Public Health, 10*, Article 925808. </li>
 

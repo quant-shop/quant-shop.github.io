@@ -1,0 +1,92 @@
+---
+title: "The Mathematical Logic of Intersectionality"
+author: 
+  - "Nathan N. Alexander^[Howard University]"
+  - "Quantitative Histories Workshop"
+output:   
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true  
+    number_sections: true
+    theme: cerulean
+editor_options:
+  markdown:
+    wrap: sentence
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(dplyr)
+library(tidyr)
+library(readr)
+library(knitr)
+library(here)
+here::i_am("alexander-logic-intersectionality.Rmd")
+```
+
+# Introduction
+
+The term paradox carries distinct meanings depending on context, but it is fundamentally tied to logic. In formal logic and philosophy, a paradox is generally understood as a self-contradictory statement, or one that runs counter to expectations, exposing problems or limitations in logical systems.
+
+Classic logical paradoxes, such as the Liar Paradox—"This statement is false"—force reasoners into cycles of contradiction with no clear resolution, prompting the reexamination of axioms and definitions within mathematics and philosophy.
+
+Logical paradoxes often arise when apparently sound reasoning from plausible premises yields an unacceptable or absurd conclusion, as highlighted in definitions and logical thought experiments.
+
+In everyday language and culture, paradoxes often serve a different function: they are used rhetorically or conceptually to highlight complexity, to challenge conventional thinking, or to reveal hidden truths within what appears nonsensical.
+
+Culturally familiar paradoxes include claims like “less is more,” or strategic dilemmas such as the Prisoner’s Dilemma. In statistics, paradoxes such as Simpson’s Paradox and Abelson’s Paradox demonstrate how aggregated data can reveal trends that are reversed when broken down into subgroups, further exposing the limitations of naive or intuitive reasoning.
+
+Culturally responsive paradoxes elevate paradox from a mere logical puzzle to a tool for critical social reflection and transformation. Rooted in traditions such as Culturally Responsive Pedagogy and Critical Pedagogy, these paradoxes confront and challenge existing power structures and dominant narratives within education and society. Paulo Freire’s work in critical pedagogy, for example, positioned paradox at the heart of educational practices that question the status quo and engage learners as agents of change. The Black Intellectual Tradition—as described by thinkers like Manning Marable—and intersectional frameworks advanced by Kimberlé Crenshaw offer further layers, making paradox an analytic lens for examining overlapping social categories and injustices.
+
+In this way, culturally responsive paradoxes serve not only to confound logic, but to describe, critique, and prescribe new ways of understanding and transforming reality for marginalized communities. They are leveraged to “critically engage and challenge the status quo,” fostering learning environments that are descriptive (documenting lived reality), corrective (addressing historical and contemporary wrongs), and prescriptive (envisioning emancipatory futures). Intersectional and Black feminist critiques spotlight how paradoxes permeate public life where overlapping identities and structural forces create circumstances that seem irreconcilable, yet demand new modes of reasoning and action.
+
+# Model
+
+If LEGAL PROVISION A is reserved for some V1 groups (“YES”=1) and
+LEGAL PROVISION B is reserved for some V2 groups (“YES”=1), then
+there exists a membership paradox at the intersection of the two
+provisions which results in the constructed invisibility of some group.
+
+## Table of group differences by categorical variables V1 and V2
+
+|         | V2 YES | V2 NO |
+|---------|--------|--------|
+| V1 YES | Group 1 | Group 2 |
+| V1 NO  | Group 3 | Group 4 |
+
+# Logic
+
+The mathematical logic of intersectionality draws from set theory and logic to illuminate how overlapping social identities create unique experiences and forms of disadvantage. In set theory, the intersection of sets is defined as the collection of all elements common to all included sets. For example, the intersection of the sets {Black people} and {women} would be those individuals who are both Black and women—that is, Black women. This is denoted mathematically as A∩BA∩B, where AA might represent one social identity (such as gender) and BB another (such as race), with the intersection containing those who belong to both categories.
+
+Intersectionality extends this logic by treating multiple axes of identity—such as race, gender, class, sexuality, and ability—as dimensions in a multidimensional space. Each person’s social positioning is not a matter of being at one point along any single axis but rather being located at a unique intersection across n axes. This means that people experience the world not merely as the sum of their different identities, but through the unique combination of those identities.
+
+Crucially, intersectional categories are considered qualitatively distinct from their individual components. For example, the experience of being a Black woman is not simply the addition of being Black and being a woman; it is fundamentally different and cannot be reduced to its parts. This is supported by logical properties from set theory and metaphysics— specifically, the inseparability and priority of intersectional categories over their constituents: intersectional identities are seen as more fundamentally explanatory than the individual categories they are composed of. This is analogous to viewing the intersection (such as Black women) as a distinct, primary category within logical and social analysis.
+
+In mathematical logic, intersection corresponds to the logical operation "AND" (conjunction). Thus, the statement "is Black AND is a woman" defines the criteria for the intersectional category. Furthermore, intersection retains properties such as associativity, commutativity, and idempotency, allowing the operation to be extended to multiple social dimensions without ambiguity.
+
+Recent theoretical developments argue that truth table analysis and qualitative comparative analysis are more aligned with intersectionality’s logic than traditional quantitative interaction terms, as they treat intersectional identities as distinct "states" to be understood on their own terms rather than mere combinations of effects.
+
+In summary, the mathematical logic of intersectionality combines principles from set theory and logic to argue that societal positions at the intersection of multiple social categories represent unique, irreducible categories. This perspective ensures that systems of oppression and privilege are analyzed in their full, intersecting complexity, consistent with the foundational tenets of intersectional theory.
+
+# The reality of intersectional failures
+
+The 15TH AMENDMENT was situated around male privileges and the
+19TH AMENDMENT was situated around white privileges, such that a
+membership paradox at the intersection of the two voting provisions
+resulted in what researchers have referenced as a "constructed invisibility" of certain groups and populations.
+
+## Table of group differences by variables WHITE and MALE
+
+|            | MALE YES | MALE NO     |
+|------------|----------|-------------|
+| WHITE YES  | White men  | White women  |
+| WHITE NO   | Black men  | Black women |
+
+
+# References
+
+Bond, Johanna, 'Foundations of Intersectionality Theory', Global Intersectionality and Contemporary Human Rights (Oxford, 2021; online edn, Oxford Academic, 23 Sept. 2021), https://doi.org/10.1093/oso/9780198868835.003.0002, accessed 18 July 2025. 
+

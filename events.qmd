@@ -42,11 +42,12 @@ Presenters: Nathan Alexander, Bayowa Onabajo, Jibek Gupta, Hye Ryeon Jang, and K
 
 Presenters: Jibek Gupta and Nathan Alexander
 
-### Understanding and framing systems in K-12 mathematics
+### [Understanding and framing systems in K-12 mathematics](https://aimath.org/pastworkshops/includes2024.html){.external target="_blank"}
 
 Organizer: Nathan Alexander
 
-![https://aimath.org/pastworkshops/includes2024.html](img/workshops/aim2024.jpg){width=50%}
+![](img/workshops/aim2024.jpg){width=50%}
+
 ### Intermediate R/Posit Workshop for Social Scientists
 
 Presenter: Lyrric Jackson

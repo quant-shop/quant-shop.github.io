@@ -32,7 +32,7 @@ Register [here]().
 
 ### DC Open Data Showcase
 
-Presenters: Bayowa Onabajo, Jibek Gupta, and Kyshan Nichols-Smith
+Presenters: Nathan Alexander, Bayowa Onabajo, Jibek Gupta, Hye Ryeon Jang, and Kyshan Nichols-Smith
 
 ![](img/events/2025-dc-open-data-showcase.jpg){width=50%}
 
@@ -40,8 +40,13 @@ Presenters: Bayowa Onabajo, Jibek Gupta, and Kyshan Nichols-Smith
 
 ### HBCU STEM Day
 
-Presenter: Jibek Gupta
+Presenters: Jibek Gupta and Nathan Alexander
 
+### Understanding and framing systems in K-12 mathematics
+
+Organizer: Nathan Alexander
+
+![https://aimath.org/pastworkshops/includes2024.html](img/workshops/aim2024.jpg){width=50%}
 ### Intermediate R/Posit Workshop for Social Scientists
 
 Presenter: Lyrric Jackson
@@ -56,7 +61,7 @@ Moderator: Jalil Cooper
 
 ### Chocolate City Mathy Hour
 
-Presenter: Zoe Williams
+Presenters: Zoe Williams and Nathan Alexander
 
 ![](img/events/chocolate-city.png){width=50%}
 
@@ -64,7 +69,7 @@ Presenter: Zoe Williams
 
 ### Bob Moses Conference
 
-Presenters: Kade Davis, Gabriella La Cour, Basil Ghali, and Qyana Stewart
+Presenters: Nathan Alexander, Kade Davis, Gabriella La Cour, Basil Ghali, and Qyana Stewart
 
 [![Bob Moses Conference](img/events/bob-moses-conf copy.png){width=75%}](https://www.bobmosesconference.com/meet-our-speakers-2024)
 
@@ -78,13 +83,10 @@ Presenters: Nathan Alexander, Blake O'Neal Turner, Darnell Leatherwood, Francis 
 
 ### Institute for Mathematics and Democracy (IMD) Conference
 
-Presenter: Jalil Cooper
+Presenters: Jalil Cooper and Nathan Alexander
 
 [![Institute for Mathematics and Democracy Conference](img/events/imd-2021-conf.png){width=75%}](https://mathematics-democracy-institute.org/2021-conference/)
 
-## pre-2020
-
-![nathan alexander and bob moses at the 2017 data for Black Lives Conference](/img/historical-figs/nathan-bob.jpg){width=40%}
 
 
 

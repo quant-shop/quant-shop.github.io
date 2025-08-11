@@ -6,7 +6,8 @@ we are a network of small group projects. we use interdisciplinary inquiries to 
 
 ![howard university lab members at the 2025 DC Open Data Showcase](/img/events/dc-open-data.jpeg){width=40%}
 
-specifically, we quantify historical events and the social sciences to learn about in/justice and futurity. we make use of critical theories and modern computational tools to learn about and respond to local and global issues of in/justice. our work inspires our members to set up community-centered, near-peer research projects and user groups. in these groups, users engage with other members of their teams by setting up small learning communities to engage in interdisciplinary learning about pressing questions.
+
+specifically, we quantify historical events and the social sciences to learn about in/justice and futurity. We make use of critical theories and modern computational tools to learn about and respond to local and global issues of in/justice. our work inspires our members to set up community-centered, near-peer research projects and user groups. in these groups, users engage with other members of their teams by creating small learning communities to engage in interdisciplinary learning about pressing questions.
 
 our workshop is inspired by the legacy of the great, late Bob Moses, founder of the [Algebra Project](https://www.algebra.org){target="_blank"}.
 

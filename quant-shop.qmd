@@ -46,6 +46,6 @@ about:
 
   - [rock the vote (forthcoming)](/img/rock-the-vote.png){.external target="_blank"}
   
-- have an idea? contact up at quantshopusers [at] gmail [dot] com
+- have an idea? contact us at quantshopusers [at] gmail [dot] com
 
 we support equitable open source practices. see a list of our repositories [here](https://github.com/quant-shop){target="_blank"}.

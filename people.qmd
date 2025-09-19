@@ -42,6 +42,34 @@ format:
 </div>
 
 <div class="team-member">
+  <img src="img/people/jahmere.jpeg" alt="Jahmere Jackson" class="circle">
+  <h3>Jahmere Jackson</h3>
+  <p>Howard University</p>
+  <p>Jahmere is a sophomore elementary education major at Howard University.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/nicholas.jpeg" alt="Nicholas Angelo" class="circle">
+  <h3>Nicholas Angelo</h3>
+  <p>Howard University</p>
+  <p>Nicholas is a junior elementary education major at Howard University.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/jibek.jpeg" alt="Jibek Gupta" class="circle">
+  <h3>Jibek Gupta</h3>
+  <p>Howard University</p>
+  <p>Jibek is a senior computer science major at Howard University.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/bayowa.jpeg" alt="Bayowa Onabajo" class="circle">
+  <h3>Bayowa Onabajo</h3>
+  <p>Howard University</p>
+  <p>Bayowa is a MS student in Applied Data Science and Analytics.</p>
+</div>
+
+<div class="team-member">
   <img src="img/people/myles.jpg" alt="Myles Ndiritu" class="circle">
   <h3>Myles Ndiritu</h3>
   <p>Morehouse College</p>
@@ -59,7 +87,7 @@ format:
   <img src="img/people/kyshan.jpeg" alt="Kyshan Nichols-Smith" class="circle">
   <h3>Kyshan Nichols-Smith</h3>
   <p>Morehouse College</p>
-  <p>Kyshan is a senior political science major at Morehouse College and a lab TA.</p>
+  <p>Kyshan is a PhD student in political science at Duke University and the HJ lab Manager.</p>
 </div>
 
 <div class="team-member">
@@ -84,38 +112,10 @@ format:
 </div>
 
 <div class="team-member">
-  <img src="img/people/jibek.jpeg" alt="Jibek Gupta" class="circle">
-  <h3>Jibek Gupta</h3>
-  <p>Howard University</p>
-  <p>Jibek is a junior computer science major at Howard University.</p>
-</div>
-
-<div class="team-member">
-  <img src="img/people/bayowa.jpeg" alt="Bayowa Onabajo" class="circle">
-  <h3>Bayowa Onabajo</h3>
-  <p>Howard University</p>
-  <p>Bayowa is a MS student in Applied Data Science and Analytics.</p>
-</div>
-
-<div class="team-member">
   <img src="img/people/amari.jpg" alt="Amari Gray" class="circle">
   <h3>Amari Gray</h3>
   <p>Morehouse College</p>
   <p>Amari is a junior political science major at Morehouse College.</p>
-</div>
-
-<div class="team-member">
-  <img src="img/people/jahmere.jpeg" alt="Jahmere Jackson" class="circle">
-  <h3>Jahmere Jackson</h3>
-  <p>Howard University</p>
-  <p>Jahmere is a freshman elementary education major at Howard University.</p>
-</div>
-
-<div class="team-member">
-  <img src="img/people/nicholas.jpeg" alt="Nicholas Angelo" class="circle">
-  <h3>Nicholas Angelo</h3>
-  <p>Howard University</p>
-  <p>Nicholas is a junior elementary education major at Howard University.</p>
 </div>
 
 <div class="alumni">

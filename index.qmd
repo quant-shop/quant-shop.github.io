@@ -26,11 +26,11 @@ about:
 
 welcome user. 
 
-the **quantitative histories workshop** 
+the **quantitative histories workshop** is a public learning lab.
 
-is a curriculum development and computational learning lab.
+we develop curriculum materials, software, and computational tools.
 
-we make use of publicly available data, free and open source software tools.
+we make use of publicly available data as well as free and open source software tools.
 
 we welcome new and experienced users into our groups.
 

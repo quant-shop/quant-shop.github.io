@@ -50,7 +50,7 @@ about:
   
 - politics and policy
 
-  - [rocking the vote (forthcoming)](){.external target="_blank"}
+  - [rock the vote (forthcoming)](/img/rock_the_vote.jpg){.external target="_blank"}
   
 - have a project idea!? hit us up at quantshopusers [at] gmail [dot] com
 

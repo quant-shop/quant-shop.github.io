@@ -30,7 +30,7 @@ the **quantitative histories workshop**
 
 is a curriculum development and computational learning lab.
 
-we make use of free and publicly available data and open source tools.
+we make use of publicly available data, free and open source software tools.
 
 we welcome new and experienced users into our groups.
 

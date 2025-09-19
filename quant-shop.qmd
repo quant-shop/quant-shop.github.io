@@ -1,6 +1,6 @@
 ---
 title: "Notes from The Workshop"
-image: img/code-directory-tree.png
+image: img/events/mcdf-spring23-final-presentations.png
 page-layout: full
 about:
   template: trestles

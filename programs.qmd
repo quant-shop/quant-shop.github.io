@@ -2,8 +2,7 @@
 title: "About"
 ---
 
-
-Learn more about the our programs.
+Public programs.
 
 ### Data Science and Critical Mathematics Program
 | Summer program for high school students ([info](img/dscm22_flyer.jpg){target="_blank"})

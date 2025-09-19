@@ -2,9 +2,11 @@
 title: ""
 ---
 
-# recurring
+## Events
 
-to request login info, contact us at quantshopusers [at] gmail [dot] com.
+Our events are educational in nature, learner-centered, and open to the public. 
+
+However, you must register and be in touch with a member of the lab.
 
 ### census-users group
 
@@ -16,13 +18,14 @@ Fourth Thursday of each month at 5:30pm ET via Zoom (60 minutes).
 
 ---
 
-# by term
+# terms
 
 ## 2025 fall
 
-New Member Orientation -- Monday August 18 at 4:30pm ET.
+![](img/critical-comp-geographies.png){width=50%}
 
-Register [here]().
+### New Member Orientation
+Monday August 18 at 4:30pm ET.
 
 ## 2025 spring
 

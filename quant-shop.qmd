@@ -44,7 +44,7 @@ about:
   
 - politics and policy
 
-  - [rock the vote (forthcoming)](/img/rock_the_vote.jpg){.external target="_blank"}
+  - [rock the vote (forthcoming)](/img/rock_the_vote.png){.external target="_blank"}
   
 - have an idea? contact up at quantshopusers [at] gmail [dot] com
 

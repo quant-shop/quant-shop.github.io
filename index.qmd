@@ -26,23 +26,25 @@ about:
 
 welcome user. 
 
-the **quantitative histories workshop**
+the **quantitative histories workshop** 
 
-is a *public*, *open source* critical history project.
+is a curriculum, software development and research lab.
 
-we welcome new and experienced users who wish to join our explorations.
+we make use of free and publicly available data and open source tools.
 
-- see some of our workshops at [quant-shop-users](quant-shop.qmd){.external target="_blank"}
+we welcome new and experienced users into our groups.
 
-- visit some of our projects:
-  
+---
+
+see some of our workshops at [quant-shop-users](quant-shop.qmd){.external target="_blank"}
+
   - [FATAL: a study of fatal police interactions](https://github.com/quant-shop/fatalv2){.external target="_blank"}
 
   - [census-users](https://quant-shop.github.io/census/){.external target="_blank"}
   
   - [ed-users](https://professornaite.github.io/racism-stem-ed/){.external target="_blank"}
 
-- learn about our Co-PI and sister lab, the [HJLab](https://hyeryeonjang.com/){.external target="_blank"}
+learn about our Co-PI and sister lab, the [HJLab](https://hyeryeonjang.com/){.external target="_blank"}
 
 what is a [user group](files/user-group.qmd){target="_blank"}?
 

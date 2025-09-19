@@ -28,7 +28,7 @@ welcome user.
 
 the **quantitative histories workshop** 
 
-is a curriculum, software development and research lab.
+is a curriculum development and computational learning lab.
 
 we make use of free and publicly available data and open source tools.
 

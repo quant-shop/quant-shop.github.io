@@ -14,7 +14,7 @@ about:
   
 - education
 
-  - [race and racism in STEM](https://professornaite.github.io/racism-stem-ed/){.external target="_blank"}
+  - [racism in STEM education](https://professornaite.github.io/racism-stem-ed/){.external target="_blank"}
   
   - [fugitive pedagogies in STEM (forthcoming)](){.external target="_blank"}
 

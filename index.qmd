@@ -38,8 +38,8 @@ we welcome new and experienced users into our groups.
 
 see a few of our workshops at [quant-shop-users](quant-shop.qmd){.external target="_blank"} and sample projects below:
 
-  - [racism in STEM education](https://professornaite.github.io/racism-stem-ed/){.external target="_blank"}
-
+  - [racism in STEM education](https://rpubs.com/professornaite/notions-of-racism){.external target="_blank"}
+  
   - [FATAL: a study of fatal police interactions](https://github.com/quant-shop/fatalv2){.external target="_blank"}
 
   - [census-users](https://quant-shop.github.io/census/){.external target="_blank"}

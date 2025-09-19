@@ -28,9 +28,9 @@ welcome user.
 
 the **quantitative histories workshop**
 
-is a *public*, *open source*, *justice-centered* data project.
+is a *public*, *open source* critical history project.
 
-we welcome new and experienced users who wish to contribute to our explorations.
+we welcome new and experienced users who wish to join our explorations.
 
 - see some of our workshops at [quant-shop-users](quant-shop.qmd){.external target="_blank"}
 

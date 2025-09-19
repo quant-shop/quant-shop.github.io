@@ -30,8 +30,6 @@ the **quantitative histories workshop**
 
 is a *public*, *open source*, *justice-centered* data project.
 
-we explore meanings of justice across "histories" and "contexts."
-
 we welcome new and experienced users who wish to contribute to our explorations.
 
 - see some of our workshops at [quant-shop-users](quant-shop.qmd){.external target="_blank"}

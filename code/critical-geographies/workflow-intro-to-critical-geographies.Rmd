@@ -1,0 +1,103 @@
+---
+title: "Untitled"
+output: html_document
+date: "2025-09-05"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidycensus)
+library(tidyverse)
+library(viridis)  # For color scales in maps
+#install.packages("choroplethr")
+library(choroplethr)
+library(ggplot2)
+library(dplyr)
+
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+nc_income_state <- get_acs(
+  geography = "state",
+  variables = "B19013_001",  # Median household income
+  state = "NC",
+  year = 2021,
+  geometry = TRUE
+)
+
+ggplot(nc_income_state) +
+  geom_sf(aes(fill = estimate), color = "white") +
+  scale_fill_viridis(name = "Median Income", option = "magma", na.value = "grey50") +
+  labs(title = "Median Household Income by State (North Carolina)") +
+  theme_minimal()
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r}
+nc_income_county <- get_acs(
+  geography = "county",
+  variables = "B19013_001",
+  state = "NC",
+  year = 2021,
+  geometry = TRUE
+)
+
+nc_income_county_NC <- nc_income_county %>%
+  filter(substr(GEOID, 1, 2) == "37")
+
+nc_income_county_NC <- nc_income_county %>%
+  filter(substr(GEOID, 1, 2) == "37")  # Keep only North Carolina counties
+
+ggplot(nc_income_county_NC) +
+  geom_sf(aes(fill = estimate), color = "white") +
+  scale_fill_viridis_c(name = "Median Income", option = "magma", na.value = "grey50") +
+  labs(title = "Median Household Income by County in North Carolina") +
+  theme_minimal()
+
+
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+```{r}
+nc_income_tract <- get_acs(
+  geography = "tract",
+  variables = "B19013_001",
+  state = "NC",
+  county = "Mecklenburg",
+  year = 2021,
+  geometry = TRUE
+)
+
+ggplot(nc_income_tract) +
+  geom_sf(aes(fill = estimate), color = "white") +
+  scale_fill_viridis(name = "Median Income", option = "magma", na.value = "grey50") +
+  labs(title = "Median Household Income by Census Tract in Mecklenburg County, NC") +
+  theme_minimal()
+
+
+```
+
+
+
+```{r}
+
+
+```
+
+
+```{r}
+
+
+```

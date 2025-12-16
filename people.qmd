@@ -56,17 +56,10 @@ format:
 </div>
 
 <div class="team-member">
-  <img src="img/people/jahmere.jpeg" alt="Jahmere Jackson" class="circle">
-  <h3>Jahmere Jackson</h3>
+  <img src="img/people/emmanuel.jpeg" alt="Emmanuel Christian" class="circle">
+  <h3>Emmanuel Christian</h3>
   <p>Howard University</p>
-  <p>Jahmere is a sophomore elementary education major at Howard University.</p>
-</div>
-
-<div class="team-member">
-  <img src="img/people/nicholas.jpeg" alt="Nicholas Angelo" class="circle">
-  <h3>Nicholas Angelo</h3>
-  <p>Howard University</p>
-  <p>Nicholas is a junior elementary education major at Howard University.</p>
+  <p>Emmanuel is a junior human performance major.</p>
 </div>
 
 <div class="team-member">
@@ -88,6 +81,20 @@ format:
   <h3>Amari Gray</h3>
   <p>Morehouse College</p>
   <p>Amari is a junior political science major.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/jahmere.jpeg" alt="Jahmere Jackson" class="circle">
+  <h3>Jahmere Jackson</h3>
+  <p>Howard University</p>
+  <p>Jahmere is a sophomore elementary education major.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/nicholas.jpeg" alt="Nicholas Angelo" class="circle">
+  <h3>Nicholas Angelo</h3>
+  <p>Howard University</p>
+  <p>Nicholas is a junior elementary education major.</p>
 </div>
 
 <div class="team-member">
@@ -119,10 +126,24 @@ format:
 </div>
 
 <div class="team-member">
-  <img src="img/people/holder.png" alt="Emmanuel Christia" class="circle">
-  <h3>Emmanuel Christian</h3>
+  <img src="img/people/holder.png" alt="Ethan Gwinn" class="circle">
+  <h3>Ethan Gwinnn</h3>
   <p>Howard University</p>
-  <p>Emmanuel is a sophomore exercise and sports science major.</p>
+  <p>Ethan is a freshman political science major.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/holder.png" alt="Andrew Ratcliff" class="circle">
+  <h3>Andrew Ratcliff</h3>
+  <p>Morehouse College</p>
+  <p>Andrew is a freshman political science major.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/holder.png" alt="Josh Kyei" class="circle">
+  <h3>Josh Kyei</h3>
+  <p>Howard University</p>
+  <p>Josh is a mathematics PhD student and the Howard University lab site manager.</p>
 </div>
 
 <div class="alumni">

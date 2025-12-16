@@ -25,7 +25,7 @@ website:
       
   page-footer:
     right: "Built with love in [Quarto](https://quarto.org/)"
-    left: "&copy; 2025 Quantitative Histories Workshop"
+    left: "&copy; 2026 Quantitative Histories Workshop"
    
 format:
   html:

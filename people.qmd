@@ -143,7 +143,7 @@ format:
   <img src="img/people/andrew.jpg" alt="Andrew Ratcliff" class="circle">
   <h3>Andrew Ratcliff</h3>
   <p>Morehouse College</p>
-  <p>Andrew is a freshman political science major.</p>
+  <p>Andrew is a junior political science major.</p>
 </div>
 
 <div class="alumni">

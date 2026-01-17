@@ -28,7 +28,7 @@ format:
 </div>
 
 <div class="team-member">
-  <img src="img/people/lyrric3.jpg" alt="Lyrric Jackson" class="circle">
+  <img src="img/people/lyrric4.jpg" alt="Lyrric Jackson" class="circle">
   <h3>Lyrric Jackson</h3>
   <p>Spelman College</p>
   <p>Prof. Jackson is our coordinator, in-house technical expert, and lab manager.</p>

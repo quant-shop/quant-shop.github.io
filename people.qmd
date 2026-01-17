@@ -112,6 +112,13 @@ format:
 </div>
 
 <div class="team-member">
+  <img src="img/people/felisha.png" alt="Felisha Shepard-White" class="circle">
+  <h3>Felisha Shepard-White</h3>
+  <p>Howard University</p>
+  <p>Felisha is a graduate student in Applied Data Science.</p>
+</div>
+
+<div class="team-member">
   <img src="img/people/myles.jpg" alt="Myles Ndiritu" class="circle">
   <h3>Myles Ndiritu</h3>
   <p>Morehouse College</p>

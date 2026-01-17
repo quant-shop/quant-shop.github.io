@@ -129,7 +129,7 @@ format:
   <img src="img/people/amari.jpg" alt="Amari Gray" class="circle">
   <h3>Amari Gray</h3>
   <p>Morehouse College</p>
-  <p>Amari is a junior political science major.</p>
+  <p>Amari is a junior political science major and a lab TA.</p>
 </div>
 
 <div class="team-member">

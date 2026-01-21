@@ -4,17 +4,17 @@ title: ""
 
 ### Research and products
 
-Lab members, research affiliates, and friends of the lab in **bold**.
+Lab members and research affiliates in **bold**.
 
 <ol reversed>
 
-<li> **Alexander, N. N.**, **Turner, B. O.**, **Wallace, D.**, **Kyles, C.**, **Leatherwood, D.**, & **Payne, R.** (forthcoming). From Theory to Practice: Exploring Critical Orientations in Professional Learning Programs in Mathematics Education. </li>
-
 <li> **Alexander, N. N.** (forthcoming). Measuring School Desegregation: A Critical Quantitative Replication. </li>
 
-<li> **Alexander, N. N.**, Thompson, B., Piercy, V., & **Diaz Eaton, C.** (forthcoming). Towards a Praxis of Critical Inquiry in Undergraduate Mathematics Classrooms. </li>
+<li> **Alexander, N. N.**, **Turner, B. O.**, **Wallace, D.**, **Kyles, C.**, **Leatherwood, D.**, & **Payne, R.** (2025). From Theory to Practice: Exploring Critical Orientations in Professional Learning Programs in Mathematics Education.  In Zbiek, R. M., Yao, X., McCloskey, A., & Arbaugh, F. (Eds.). Proceedings of the forty-seventh annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education, pp. 242–251.</li>
 
-<li> Fletcher, N., **Alexander, N. N.**, Kang, B., Kebreab, L., Marshall, B., Martinez, J., Sundrani, A., & Velasco, R. (forthcoming). Programs and Opportunities for Early Career Mathematics Education Scholars. </li>
+<li> **Alexander, N. N.**, Thompson, B., Piercy, V., & **Diaz Eaton, C.** (2025). Towards a Praxis of Critical Inquiry in Undergraduate Mathematics Classrooms, *Inquiry: Critical Thinking Across the Disciplines, 24*(2), 448-479. </li>
+
+<li> Fletcher, N., **Alexander, N. N.**, Kang, B., Kebreab, L., Marshall, B., Martinez, J., Sundrani, A., & Velasco, R. (2025). Programs and Opportunities for Early Career Mathematics Education Scholars, *Journal of Mathematics Education at Teachers College, 16*(1), 46-57. </li>
 
 <li> **Alexander, N. N.**, Appling, T., Banuelos, M., Bello, G., Brown, A., Century, J., Connor, K., Ji, H., Levy, R., Mitchell, P., Mongeau, D., Mysliwiec, M., Niu, J., Paykin, S., Quarkume, A., Schiffman, J., Skinner, L., Uminsky, D. & Zhong, P. (2024). Data Science for Social Impact in Higher Education: First Steps. Data.org Playbook. Available at: [https://data.org/playbooks/data-science-for-social-impact-in-higher-education/](https://data.org/playbooks/data-science-for-social-impact-in-higher-education/){.external target="_blank"} </li>
 
@@ -65,6 +65,8 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 
 <ol reversed>
 
+<li>**Gray, A.**, **Gupta, J.**, Jones, A., Rojas, G., Ronemous, P., Satadisha, X., Bhowmick, S. & Seghal, K. (2025, June). Seedbot: Retrieval-Augmented Q&A System for Farmers. Poster presentation at the 2025 Data Science Institute Data Science for Social Impact Summer Program, University of Chicago, IL. </li>
+
 <li>**Davis, K.** (2025, April). Fighting The Frame: How Framing Police Brutality Influences Blame. Poster presentation at the 2025 Morehouse College Dream Makers Summit, Atlanta, GA. </li>
 
 <li>**Williams, Z.** & **Alexander, N. N.** (2025, April). Examining Racial Disparities in Capital Punishment. Poster presentation at the 2025 Howard University Research Month Symposium, Washington, DC. </li>
@@ -89,6 +91,9 @@ Lab members, research affiliates, and friends of the lab in **bold**.
 ### Grants and funding
 
 <ol reversed>
+
+<li> **National Endowment for the Humanities**. The Haynes Project: Exhibiting the Historical Significance of the Philosophical Views of American Mathematicians. John Stigall (PI) and Nathan Alexander (Co-PI). Lifelong Learners Division, 2026-2029. (Funded, $148,944) </li>
+
 
 <li> **Open Research Community Accelerator** (ORCA). Expansion of an Open Source Community for Faculty and Students at Historically Black Colleges and Universities. Nathan Alexander (PI). Catalytic Awards Program, 2025-2026. (Funded, $15,000) </li>
 

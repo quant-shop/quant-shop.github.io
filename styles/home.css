@@ -1,0 +1,60 @@
+/* Global text: small black font on white background */
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 12px;  /* base size; headings will scale from this */
+}
+
+/* Center the main content vertically/horizontally on the home page */
+body.index,
+body.page-index {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Ensure Quarto's container doesn't fight the centering */
+body.index .quarto-container,
+body.page-index .quarto-container,
+body.index .main-content,
+body.page-index .main-content {
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* The single central image */
+.home-photo {
+  display: block;
+  margin: 0 auto;
+  max-width: 260px;    /* tweak as desired */
+  border-radius: 0;    /* or 999px for circular */
+}
+
+/* Navbar: white bar, black text */
+.navbar {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border-bottom: 1px solid #ffffff;
+  box-shadow: none;
+}
+
+.navbar-brand,
+.navbar-brand:hover,
+.navbar-nav .nav-link,
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active,
+.navbar .navbar-tools .nav-link,
+.navbar .navbar-tools .bi {
+  color: #000000 !important;
+}
+
+/* Footer: white bar, black text */
+.footer,
+.nav-footer {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border-top: 1px solid #ffffff;
+}
+

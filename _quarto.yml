@@ -31,7 +31,7 @@ format:
   html:
     page-layout: full
     theme: cosmo light
-    css: styles.css
+    css: styles/site.css
     toc: true
     grid:
       sidebar-width: 0px

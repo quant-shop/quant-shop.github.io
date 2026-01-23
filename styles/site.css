@@ -1,0 +1,164 @@
+/* Import mono */
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
+/* Import Brygada 1918 */
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+/* Global text: Brygada 1918 */
+html, body {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: "Brygada 1918", serif !important;
+  font-size: 14px;
+}
+
+/* override for main content containers, navbar, footer */
+.quarto-container,
+.main-content,
+.page-columns,
+.content,
+body .navbar,
+body .footer,
+body .nav-footer {
+  font-family: "Brygada 1918", serif !important;
+}
+
+/* Center the main content vertically/horizontally on the home page */
+body.index,
+body.page-index {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Ensure Quarto's container doesn't fight the centering */
+body.index .quarto-container,
+body.page-index .quarto-container,
+body.index .main-content,
+body.page-index .main-content {
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* single central image */
+.home-photo {
+  display: block;
+  margin: 0 auto;
+  max-width: 260px;    /* tweak as desired */
+  border-radius: 0;    /* or 999px for circular */
+}
+
+/* Navbar: white bar, black text */
+.navbar {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border-bottom: 1px solid #ffffff;
+  box-shadow: none;
+}
+
+.navbar-brand,
+.navbar-brand:hover,
+.navbar-nav .nav-link,
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active,
+.navbar .navbar-tools .nav-link,
+.navbar .navbar-tools .bi {
+  color: #000000 !important;
+}
+
+/* Footer: white bar, black text */
+.footer,
+.nav-footer {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border-top: 1px solid #ffffff;
+}
+
+/* About page: full translucent background image */
+body.fullcontent {
+  background-image: 
+    linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
+    url("../img/uchicago.jpg");
+  background-size: cover !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* Content overlay - make transparent */
+body.fullcontent .quarto-container,
+body.fullcontent .main-content {
+  background-color: transparent !important;  /* no white box */
+  backdrop-filter: none;  /* no blur */
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Mobile: avoid full viewport centering on small screens */
+@media (max-width: 768px) {
+  body.index,
+  body.page-index {
+    min-height: auto;
+    display: block;
+  }
+
+  body.index .quarto-container,
+  body.page-index .quarto-container,
+  body.index .main-content,
+  body.page-index .main-content {
+    padding: 1.5rem 1rem;
+  }
+
+  .home-photo {
+    max-width: 80%;
+    height: auto;
+  }
+}
+
+/* Mobile: simpler background behavior on about page */
+@media (max-width: 768px) {
+  body.fullcontent {
+    background-attachment: scroll;
+    background-position: center top;
+  }
+
+  body.fullcontent .quarto-container,
+  body.fullcontent .main-content {
+    max-width: 100%;
+    padding: 1.5rem 1rem;
+    margin: 0;
+  }
+}
+
+@media (max-width: 992px) {
+  .navbar-nav .nav-link {
+    font-size: 11px;
+  }
+}
+
+/* Hamburger menu: black text and icon on mobile */
+.navbar-toggler,
+.navbar-toggler-icon {
+  color: #000000 !important;
+  background-color: #ffffff !important;
+  border-color: #000000 !important;
+}
+
+/* Collapsed menu dropdown: black text on white bg */
+.navbar-collapse .navbar-nav .nav-link {
+  color: #000000 !important;
+}
+
+.navbar-collapse .navbar-nav .nav-link:hover {
+  color: #333333 !important;
+  background-color: #f5f5f5 !important;
+}
+
+/* Collapsed menu container bg */
+.navbar-collapse {
+  background-color: #ffffff !important;
+}
+

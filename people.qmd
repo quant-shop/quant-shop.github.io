@@ -15,7 +15,7 @@ format:
   <h3>Nathan Alexander, PhD</h3>
   </a>
   <p>PI, Howard University</p>
-  <p>Dr. Alexander is the founder of the Workshop and he has led the lab since its inception. </p>
+  <p>Dr. Alexander is the founder and Principal of the Workshop. </p>
 </div>
 
 <div class="team-member">
@@ -32,6 +32,13 @@ format:
   <h3>Lyrric Jackson</h3>
   <p>Spelman College</p>
   <p>Prof. Jackson is our coordinator, in-house technical expert, and lab manager.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/terika2.jpg" alt="Terika Harris" class="circle">
+  <h3>Terika Harris, PhD</h3>
+  <p>City University of New York</p>
+  <p>Dr. Harris is a Postdoctoral Research Fellow with the lab. </p>
 </div>
 
 <div class="team-member">
@@ -151,6 +158,20 @@ format:
   <h3>Andrew Ratcliff</h3>
   <p>Morehouse College</p>
   <p>Andrew is a junior political science major.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/holder.png" alt="Garrison Andrews" class="circle">
+  <h3>Garrison Andrews</h3>
+  <p>Howard University</p>
+  <p>Garrison is a sophomore political science major.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/holder.png" alt="Zoe Stewart" class="circle">
+  <h3>Zoe Stewart</h3>
+  <p>Howard University</p>
+  <p>Zoe is a junior sociology major and psychology minor.</p>
 </div>
 
 <div class="alumni">

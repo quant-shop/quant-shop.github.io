@@ -28,9 +28,7 @@ welcome user.
 
 the **quantitative histories workshop** is a public learning lab. 
 
-we make use of publicly available data as well as free and open source software tools. we welcome new and experienced users into our user groups.
-
-we also welcome non-users for curriculum and lesson development.
+we make use of publicly available data as well as free and open source software tools. we welcome new and experienced software developers into our user groups. we also welcome non-users for curriculum and lesson development.
 
 ---
 

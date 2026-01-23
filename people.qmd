@@ -38,7 +38,7 @@ format:
   <img src="img/people/terika2.jpg" alt="Terika Harris" class="circle">
   <h3>Terika Harris, PhD</h3>
   <p>City University of New York</p>
-  <p>Dr. Harris received her PhD in Mathematics Education from Columbia University and is a Postdoctoral Research Fellow with the lab </p>
+  <p>Dr. Harris received her PhD in Mathematics Education from Columbia University and is a Postdoctoral Research Fellow with the lab. </p>
 </div>
 
 <div class="team-member">

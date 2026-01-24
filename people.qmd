@@ -174,25 +174,128 @@ format:
   <p>Zoe is a junior sociology major and psychology minor.</p>
 </div>
 
-<div class="alumni">
+<hr class="section-divider">
 
-<b><u>Lab Alum</u></b>
-<p>Qyana Stewart, PhD, Howard University</p>
-<p>Julian Amaya, Morehouse College</p>
-<p>Jeremiah Lowther, Morehouse College</p>
-<p>Maya Phillips, Spelman College</p>
-<p>Sayid Achilov, Brown University</p>
-<p>Kenthia Roberts, Columbia University</p>
-<p>Gabriella Walker, Spelman College</p>
-<p>Jana Turner, Howard University</p>
-<p>Dissandou Becolli, HS Scholar</p>
-<p>Kareem Weaver, Morehouse College</p>
-<p>Amir Harris, Morehouse College</p>
-<p>Benjamin Holman, Morehouse College</p>
-<p>Dalton Favors, Morehouse College</p>
-<p>Dylen Richmond, Morehouse College</p>
-<p>Matthew Mann, Morehouse College</p>
-<p>Xavier McKenzie, Morehouse College</p>
-<p>Hasan Henry, Morehouse College</p>
+<h2 class="alumni-title">Lab Alum</h2>
+
+<div class="team-member">
+  <img src="img/people/qyana.png" alt="Qyana Stewart" class="circle">
+  <h3>Qyana Stewart, PhD</h3>
+  <p>Howard University</p>
+  <p>Qyana completed her PhD in 2025 and was a member of the lab during her doctoral studies.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/julian.jpg" alt="Julian Amaya" class="circle">
+  <h3>Julian Amaya</h3>
+  <p>Morehouse College</p>
+  <p>Julian was an undergraduate researcher with the lab while studying at Morehouse College. He is now a law school student at the University of Maryland. </p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/jeremiah2.png" alt="Jeremiah Lowther" class="circle">
+  <h3>Jeremiah Lowther</h3>
+  <p>Morehouse College</p>
+  <p>Jeremiah contributed to lab projects as an undergraduate researcher at Morehouse College.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/maya.jpg" alt="Maya Phillips" class="circle">
+  <h3>Maya Phillips</h3>
+  <p>Spelman College</p>
+  <p>Maya was a lab member during her undergraduate studies at Spelman College. She served as a lab manager after her graduation. She is now an associate at Deloitte.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/sayid.jpg" alt="Sayid Achilov" class="circle">
+  <h3>Sayid Achilov</h3>
+  <p>Brown University</p>
+  <p>Sayid joined our lab as a high school scholar and continued his work while starting his academic work at Brown University.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/kenthia.jpg" alt="Kenthia Roberts" class="circle">
+  <h3>Kenthia Roberts</h3>
+  <p>Columbia University</p>
+  <p>Kenthia was affiliated with the lab during her masters training at Columbia University.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/gabriella.png" alt="Gabriella La Cour" class="circle">
+  <h3>Gabriella La Cour</h3>
+  <p>Spelman College</p>
+  <p>Gabriella participated in lab research as a student at Spelman College.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/holder.png" alt="Jana Turner" class="circle">
+  <h3>Jana Turner</h3>
+  <p>Howard University</p>
+  <p>Jana was a lab member during her graduate studies at Howard University.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/holder.png" alt="Dissandou Becolli" class="circle">
+  <h3>Dissandou Becolli</h3>
+  <p>HS Scholar</p>
+  <p>Dissandou participated in lab activities as a high school scholar.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/holder.png" alt="Kareem Weaver" class="circle">
+  <h3>Kareem Weaver</h3>
+  <p>Morehouse College</p>
+  <p>Kareem contributed to lab research while enrolled at Morehouse College.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/amir.jpg" alt="Amir Harris" class="circle">
+  <h3>Amir Harris</h3>
+  <p>Morehouse College</p>
+  <p>Amir was a lab member during his undergraduate career at Morehouse College.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/benjamin.jpg" alt="Benjamin Holman" class="circle">
+  <h3>Benjamin Holman</h3>
+  <p>Morehouse College</p>
+  <p>Benjamin participated in lab research as a student at Morehouse College.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/dalton.jpg" alt="Dalton Favors" class="circle">
+  <h3>Dalton Favors</h3>
+  <p>Morehouse College</p>
+  <p>Dalton was involved in the lab during his undergraduate studies at Morehouse College.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/dylen.jpg" alt="Dylen Richmond" class="circle">
+  <h3>Dylen Richmond</h3>
+  <p>Morehouse College</p>
+  <p>Dylen contributed to lab projects while studying at Morehouse College.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/holder.png" alt="Matthew Mann" class="circle">
+  <h3>Matthew Mann</h3>
+  <p>Morehouse College</p>
+  <p>Matthew was a lab member during his undergraduate career at Morehouse College.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/xavier.jpg" alt="Xavier McKenzie" class="circle">
+  <h3>Xavier McKenzie</h3>
+  <p>Morehouse College</p>
+  <p>Xavier participated in lab research as a student at Morehouse College.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/hasan2.jpg" alt="Hasan Henry" class="circle">
+  <h3>Hasan Henry</h3>
+  <p>Morehouse College</p>
+  <p>Hasan was one of our first lab members during his undergraduate studies at Morehouse College. He is currently a PhD student at UC Berkeley.</p>
+</div>
+
 
 </div>

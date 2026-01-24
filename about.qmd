@@ -2,9 +2,7 @@
 title: "about"
 ---
 
-we are a network of collaborative projects. 
-
-we use interdisciplinary perspectives and computational tools to educate ourselves about history.
+we are a network of collaborative projects. we use interdisciplinary perspectives and computational tools to educate ourselves about history. we are public in the sense that we invite folks interested in knowledge exchange to join our open community.
 
 ![howard university lab members at the 2025 DC Open Data Showcase](/img/events/dc-open-data.jpeg){width=30%}
 
@@ -16,4 +14,4 @@ our work inspires our members to develop community-centered, near-peer research 
 
 our workshop is inspired by the legacy of the great, late Bob Moses, founder of the [Algebra Project](https://www.algebra.org){target="_blank"}.
 
-![nathan alexander and bob moses at the 2017 data for Black Lives Conference](/img/historical-figs/nathan-bob.jpg){width=25%}
+![nathan alexander and bob moses at the 2017 Data for Black Lives Conference](/img/historical-figs/nathan-bob.jpg){width=25%}

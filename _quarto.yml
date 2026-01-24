@@ -20,7 +20,7 @@ website:
         text: research
       - href: events.qmd
         text: events
-      - href: manual.qmd
+      - href: styles/manual.qmd
         text: lab manual
       
   page-footer:

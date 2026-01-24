@@ -5,10 +5,10 @@ page-layout: full
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const encodedPassword = "aG93YXJkMTg2Nw=="; // Base64-encoded version
+    const encodedPassword = "aG93YXJkMTg2Nw=="; 
 
     function decodePassword(encoded) {
-      return atob(encoded); // Decode Base64 string
+      return atob(encoded); 
     }
 
     const correctPassword = decodePassword(encodedPassword);
@@ -16,7 +16,7 @@ page-layout: full
 
     if (userPassword !== correctPassword) {
       alert("Incorrect password! You will be redirected.");
-      window.location.href = "/"; // Redirect to another page (e.g., homepage)
+      window.location.href = "/"; 
     }
   });
 </script>

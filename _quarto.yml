@@ -8,19 +8,19 @@ website:
   navbar:
     search: true
     left:
-      - href: index.qmd
+      - href: index
         text: home
-      - href: about.qmd
+      - href: about
         text: about
-      - href: people.qmd
+      - href: people
         text: people
-      - href: quant-shop.qmd
+      - href: quant-shop
         text: quant-shop
-      - href: research.qmd
+      - href: research
         text: research
-      - href: events.qmd
+      - href: events
         text: events
-      - href: styles/manual.qmd
+      - href: styles/manual
         text: lab manual
       
   page-footer:

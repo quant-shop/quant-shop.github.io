@@ -34,6 +34,8 @@ we make use of free, open source tools and data to explore history and think abo
 
 see a few of our workshops at [quant-shop-users](quant-shop.qmd){.external target="_blank"} and sample projects below:
   
+  - [critical computational geographies](https://rpubs.com/professornaite/crit-comp-geo-pt1){.external target="_blank"}
+  
   - [racism in STEM education](https://rpubs.com/professornaite/notions-of-racism){.external target="_blank"}
   
   - [FATAL: a study of fatal police interactions](https://github.com/quant-shop/fatalv2){.external target="_blank"}

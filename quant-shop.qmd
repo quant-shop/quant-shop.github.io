@@ -34,6 +34,8 @@ about:
 
 - demography
 
+  - [critical computational geographies](https://rpubs.com/professornaite/crit-comp-geo-pt1){.external target="_blank"}
+
   - [census history project, phase 1: race and ethnicity](https://professornaite.github.io/echo/){.external target="_blank"}
 
   - [census history project, phase 2: multidimensionality (forthcoming)](https://rpubs.com/professornaite/dc-open-data-2025){.external target="_blank"}

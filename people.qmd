@@ -64,7 +64,7 @@ format:
 
 <div class="team-member">
   <img src="img/people/jalil.jpg" alt="Jalil Cooper" class="circle">
-  <h3>Jalil Coooper</h3>
+  <h3>Jalil Cooper</h3>
   <p>Stanford University</p>
   <p>Jalil is a senior design major at Stanford and he has been with the lab since its inception.</p>
 </div>

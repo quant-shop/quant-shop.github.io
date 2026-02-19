@@ -38,7 +38,7 @@ format:
   <img src="img/people/terika2.jpg" alt="Terika Harris" class="circle">
   <h3>Terika Harris, PhD</h3>
   <p>City University of New York</p>
-  <p>Dr. Harris received her PhD in Mathematics Education from Columbia University and is a Postdoctoral Research Fellow with the lab. </p>
+  <p>Dr. Harris is a Postdoctoral Research Fellow and archivist with the lab. </p>
 </div>
 
 <div class="team-member">
@@ -59,7 +59,7 @@ format:
   <img src="img/people/emmanuel.jpeg" alt="Emmanuel Christian" class="circle">
   <h3>Emmanuel Christian</h3>
   <p>Howard University</p>
-  <p>Emmanuel is a junior human performance major.</p>
+  <p>Emmanuel is a junior human performance major and a lab TA.</p>
 </div>
 
 <div class="team-member">

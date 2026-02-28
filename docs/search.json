@@ -362,5 +362,243 @@
     "title": "What is a user group?",
     "section": "",
     "text": "In computer science a user group is a collection of people who are interested in a specific topic, area of study, or development. This collection often uses the same products and tools to complete their work, and they use the internet and other digital tools and software to share their work."
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#research-projects",
+    "href": "talks/hmc/how-much-data.html#research-projects",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Research projects",
+    "text": "Research projects\n\nECHO: Education, Community, and Health Observations\n\nInformation and spatial segregation\n\nQuantifying state violence\n\nPrisons, a history of the U.S.\nPolicing, power and punishment.\nThe divided states of america: Politics and the development of an empire\n\nStatistics and data science education\n\nTeaching statistical learning and mathematical modeling\nComputation and adult learning\n\nMaintaining complex theory in quantification\n\nTheories and conceptions of race and racism"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#research-projects-1",
+    "href": "talks/hmc/how-much-data.html#research-projects-1",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Research projects",
+    "text": "Research projects\n\nECHO: Education, Community, and Health Observations\n\nInformation and spatial segregation\n\nQuantifying state violence\n\nPrisons, a history of the U.S.\nPolicing, power and punishment.\nThe divided states of america: Politics and the development of an empire\n\nStatistics and data science education\n\nTeaching statistical learning and mathematical modeling\nComputation and adult learning\n\nMaintaining complex theory in quantification\n\nTheories and conceptions of race and racism"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#information-and-spatial-segregation",
+    "href": "talks/hmc/how-much-data.html#information-and-spatial-segregation",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Information and spatial segregation",
+    "text": "Information and spatial segregation\nHow have histories of racial segregation informed education, community, and health outcomes?\nChodrow (2017), examines residential segregation using a taxonomy of smoothing-based segregation metrics, we consider key historical components and markers in the development of a history of “dividing walls”.\n\nHistorical legacies of injustice. “The 1968 [Fair Cities] Act expanded on previous acts and prohibited discrimination concerning the sale, rental, and financing of housing based on race, religion, national origin, sex, (and as amended) handicap and family status.” (US Housing and Urban Development, n.d)\nTraditional modeling approaches. What has been done more recently and historically?\nModern computational tools. What new (grounded) theoretical insights can be identified?"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#is-there-a-dividing-wall-for-an-island-with-coastal-towns",
+    "href": "talks/hmc/how-much-data.html#is-there-a-dividing-wall-for-an-island-with-coastal-towns",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Is there a dividing wall for an island with coastal towns?",
+    "text": "Is there a dividing wall for an island with coastal towns?\n\nIsland with coastal towns"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#is-there-a-dividing-wall-for-an-island-with-coastal-towns-1",
+    "href": "talks/hmc/how-much-data.html#is-there-a-dividing-wall-for-an-island-with-coastal-towns-1",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Is there a dividing wall for an island with coastal towns?",
+    "text": "Is there a dividing wall for an island with coastal towns?\n\nMinimal configuration"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#index-of-dissimilarity",
+    "href": "talks/hmc/how-much-data.html#index-of-dissimilarity",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Index of Dissimilarity",
+    "text": "Index of Dissimilarity\n\\[ D = \\dfrac{1}{2} \\sum_\\limits{i=1}^n  \\bigg| \\text{Proportion of Black units} - \\text{Proportion of non-Black units} \\bigg| \\]\n\n\\(n\\) is the number of neighborhoods in a geographic region,\n\\(b_i\\) is the number of Black household units in neighborhood \\(i\\),\n\\(B\\) is the total number of Black household units in the geographic region,\n\\(w_i\\) is the number of non-Black household units in neighborhood \\(i\\),\n\\(W\\) is the total number of non-Black household units in the geographic region."
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#index-of-dissimilarity-1",
+    "href": "talks/hmc/how-much-data.html#index-of-dissimilarity-1",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Index of Dissimilarity",
+    "text": "Index of Dissimilarity\n\\[ D = \\dfrac{1}{2} \\sum_\\limits{i=1}^n  \\bigg| \\dfrac{b_i}{B} - \\dfrac{w_i}{W} \\bigg| \\]\n- $n$ is the number of neighborhoods in a geographic region, \n\n\\(b_i\\) is the number of Black household units in neighborhood \\(i\\),\n\\(B\\) is the total number of Black household units in the geographic region,\n\\(w_i\\) is the number of non-Black household units in neighborhood \\(i\\),\n\\(W\\) is the total number of non-Black household units in the geographic region."
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#computational-approach",
+    "href": "talks/hmc/how-much-data.html#computational-approach",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Computational approach",
+    "text": "Computational approach\nTeaching computational methods and open source tools makes for efficient and accurate learning. In about 5 lines of code, there is an immediate intersection of theory and computation.\nHere we use the tidycensus() package to gather various metrics."
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#prisons",
+    "href": "talks/hmc/how-much-data.html#prisons",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Prisons",
+    "text": "Prisons\nThe U.S. Bureau of Justice Statistics maintains records of federal and state prison populations1.\n\n\n\n\n\n\n\n\n\nSource: Carson (2022). Prisoners in 2021 – Statistical tables. Bureau of Justice Statistics."
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#prisons-1",
+    "href": "talks/hmc/how-much-data.html#prisons-1",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Prisons",
+    "text": "Prisons\nTo support our framing of contemporary data, we take on an historical view.\n\nFederalStateFederal and State\n\n\nFederal racialization data\n\n\n\n\n\n\n\n\n\n\n\nState racialization data\n\n\n\n\n\n\n\n\n\n\n\nFederal and State racialization data"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#racism-vs.-anti-blackness",
+    "href": "talks/hmc/how-much-data.html#racism-vs.-anti-blackness",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Racism vs. Anti-Blackness",
+    "text": "Racism vs. Anti-Blackness\nIn a 2020 NY Times article, kihana miraya ross chronicles the realities of anti-Blackness. ross (2020) deals with the related but differing functions of racism and anti-Blackness.\n\n\nross notes that “‘racism’ fails to fully capture what black people in this country are facing.”\nross continues by noting that “Anti-blackness is one way some black scholars have articulated what it means to be marked as black in an anti-black world.”\nBroadly, ross defines anti-Blackness as society’s inability to recognize Black people’s humanity."
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#project-background-information-and-spatial-segregation",
+    "href": "talks/hmc/how-much-data.html#project-background-information-and-spatial-segregation",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Project background: Information and spatial segregation",
+    "text": "Project background: Information and spatial segregation\nInformation and theory\n\nInformation theory is a branch of applied mathematics and computer science that deals with the quantification, storage, transmission, and manipulation of information.\nWe take an abstract approach to our study of information.\n\nInformation theory seeks to measure the amount of information contained in a message or signal and how efficiently it can be transmitted or stored.\nThis project seeks to define information using a critical computational perspective.\nNamely, how might we leverage computation and quantification to transmit information efficiently while maintaining the roots of complex theories and histories?"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#section",
+    "href": "talks/hmc/how-much-data.html#section",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "",
+    "text": "How have histories of segregation informed education, health, and political outcomes?\n\nRacial segregation\n\nPhoto: Universal History Archive–Universal Images Group"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#section-1",
+    "href": "talks/hmc/how-much-data.html#section-1",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "",
+    "text": "How have histories of segregation informed education, health, and political outcomes?\n\nRacial segregation\nEconomic segregation\n\nPhoto: Brookings Institution"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#section-2",
+    "href": "talks/hmc/how-much-data.html#section-2",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "",
+    "text": "How have histories of segregation informed education, health, and political outcomes?\n\nRacial segregation\nEconomic segregation\nDynamic features of isolation (e.g., measures of segregation)\n\nPhoto: DC Policy Center"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#mapping-single-dimensions",
+    "href": "talks/hmc/how-much-data.html#mapping-single-dimensions",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Mapping Single Dimensions",
+    "text": "Mapping Single Dimensions\n\nMedian IncomeBlack Pop.Pop. Below Poverty LevelUnemployed Pop."
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#theoretical-framework-a-patchwork-nation",
+    "href": "talks/hmc/how-much-data.html#theoretical-framework-a-patchwork-nation",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Theoretical framework: A Patchwork Nation",
+    "text": "Theoretical framework: A Patchwork Nation\n“If you pay attention to the complexity of the USA, its diversity and differences you soon realize that the ways we try to understand it – red and blue, Northeast and Midwest – are too simplistic. They are inadequate and misleading.” -Patchwork Nation Project"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#theoretical-framework-a-patchwork-nation-1",
+    "href": "talks/hmc/how-much-data.html#theoretical-framework-a-patchwork-nation-1",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Theoretical framework: A Patchwork Nation",
+    "text": "Theoretical framework: A Patchwork Nation\n\nOverview of community typesDetails of relevant community types\n\n\n\n\n\nCommunity types in the Patchwork Nation framing\n\n\n\n\n\nBoom Towns: Rapidly expanding communities\nCampus and Careers: Areas with a significant presence of higher education institutions\nImmigration Nation: Areas with high concentrations of immigrant populations\nIndustrial Metropolis: Large urban areas with a strong industrial base\nEmptying Nests: Communities with an aging population\nMinority Central: Areas with large minority populations\nMonied Burbs: Affluent suburban areas"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#analytic-framework-community-resilience-estimates",
+    "href": "talks/hmc/how-much-data.html#analytic-framework-community-resilience-estimates",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Analytic framework: Community Resilience Estimates",
+    "text": "Analytic framework: Community Resilience Estimates\n\nThe Census Community Resilience Estimates (CRE) data sets were developed to assess the social vulnerability and resilience of neighborhoods in response to disasters or shocks.\n– Households with an income-to-poverty ratio less than 130%\n– Less than one individual living in the household is aged 18–64\n– Household crowding, defined as more than 0.75 persons per room\n– Households with limited education\n– No one in the household is employed full-time year-round\n– Individual with a disability posing a constraint to significant life activity\n– Individual with no health insurance\n– Individual aged 65 or older\n– Households without a vehicle\n– Households without broadband internet access"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#analytic-framework-community-resilience-estimates-1",
+    "href": "talks/hmc/how-much-data.html#analytic-framework-community-resilience-estimates-1",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Analytic framework: Community Resilience Estimates",
+    "text": "Analytic framework: Community Resilience Estimates\n\nCRE estimates are a measure of the capacity of individuals and households within a community to absorb, endure, and recover from external stresses.\nThe CRE data combine American Community Survey (ACS) and the Population Estimates Program (PEP) data to identify social and economic vulnerabilities by geography.\nThere is a nice CRE Interactive Tool that allows for a quick overview of local contexts.\n\n\ncre_correlates_dc &lt;- get_acs(\n  geography = \"tract\", state = \"DC\", year = 2023, survey = \"acs5\",\n  variables = c(\n    median_income = \"B19013_001\",       # Median household income in the past 12 months\n    poverty_rate = \"B17001_002\",        # Number of people below poverty level\n    unemployment_rate = \"B23025_005\",   # Number of civilians (16 years and over) unemployed\n    no_health_insurance = \"B27010_033\", # Number of people with no health insurance coverage\n    educ_less_than_hs = \"B15003_002\",   # Population 25 years and over with less than 9th grade education\n    median_age = \"B01002_001\",          # Median age\n    housing_cost_burden = \"B25070_010\", # Housing units spending 50% or more of income on rent\n    no_vehicle = \"B08201_002\",          # Households with no vehicle available\n    black_population = \"B02001_003\",    # Black or African American alone population\n    median_rent = \"B25058_001\"),        # Median contract rent\n  summary_var = \"B02001_001\",           # Total population (for calculating proportions)\n  output = \"wide\", geometry = FALSE)"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#dimensionality-in-spatial-models",
+    "href": "talks/hmc/how-much-data.html#dimensionality-in-spatial-models",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Dimensionality in Spatial Models",
+    "text": "Dimensionality in Spatial Models\nModel development\n\n– Base spatial model formulation: \\[ \\boldsymbol{y} = \\boldsymbol{X}\\beta + \\tau + \\epsilon \\]\n\n\\(\\boldsymbol{y}\\) is a \\(n\\) x \\(1\\) response vector\n\\(\\boldsymbol{X}\\) is a design matrix that contains explanatory variables\n\\(\\beta\\) represents fixed effects coefficients\n\\(\\tau\\) denotes spatially dependent random errors\n\\(\\epsilon\\) represents independent random errors"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#dimensionality-in-spatial-models-1",
+    "href": "talks/hmc/how-much-data.html#dimensionality-in-spatial-models-1",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Dimensionality in Spatial Models",
+    "text": "Dimensionality in Spatial Models\nModel development\nResponse vector structure (\\(\\boldsymbol{y}\\)):\n\\[\n\\begin{align}\n    \\boldsymbol{y} &= \\begin{bmatrix}\n           y_{1} \\\\\n           y_{2} \\\\\n           \\vdots \\\\\n           y_{n}\n         \\end{bmatrix}\n  \\end{align}\n\\]\n\nEach element, \\(y_i\\), represents the observed response at a neighborhood’s location \\(i\\)\nThese are ordered by adjacency relationships to preserve the geographical context\nAlso, review of distributions, spatial autocorrelation (i.e., \\(Cov(y_i, y_j)\\)), and decomposition"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#dimensionality-in-spatial-models-2",
+    "href": "talks/hmc/how-much-data.html#dimensionality-in-spatial-models-2",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Dimensionality in Spatial Models",
+    "text": "Dimensionality in Spatial Models\nModel development\nDesign matrix of explanatory variables structure (\\(\\boldsymbol{X}\\)):\n\\[\n\\boldsymbol{X} =\n\\begin{bmatrix}\n1 & x_{1, 1} & \\ldots & x_{1, p} \\\\\n1 & x_{2, 1} & \\ldots & x_{2, p} \\\\\n\\vdots & \\vdots & \\ddots & \\vdots \\\\\n1 & x_{n, 1} & \\ldots & x_{n, p} \\\\\n\\end{bmatrix}\n\\]\n\nFirst column is the intercept term\nSubsequent columns represent \\(p\\) explanatory variables\nEach row corresponds to a specific neighborhood’s covariates"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#dimensionality-in-spatial-models-3",
+    "href": "talks/hmc/how-much-data.html#dimensionality-in-spatial-models-3",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Dimensionality in Spatial Models",
+    "text": "Dimensionality in Spatial Models\nSample design matrix of explanatory variables\n\\[\n\\boldsymbol{X} =\n\\begin{bmatrix}\n1 & 65,000 & 0.62 & 3,200 \\\\\n1 & 28,000 & 0.32 & 5,100 \\\\\n\\vdots & \\vdots & \\vdots & \\vdots \\\\\n1 & 127,000 & 0.75 & 6,840 \\\\\n\\end{bmatrix}\n\\]\n\nColumn 1 is the expected value of \\(\\boldsymbol{y}\\) when all other predictors are zero\nVariable 1 (column 2) as median income\nVariable 2 (column 3) as the proportion of residents with a high school diploma\nVariable 3 (column 4) as population density (residents/sq. mi)"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#information-and-spatial-segregation-1",
+    "href": "talks/hmc/how-much-data.html#information-and-spatial-segregation-1",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Information and spatial segregation",
+    "text": "Information and spatial segregation\nModel selection\nThere are multiple models for consideration:\n\n– Spatial regression using intersectional interactions\n– Structural Equation Modeling (SEM) with CRE components\n– Multilevel Analysis of Individual Heterogeneity and Discriminatory Analysis (MAIHDA)\n\nEvans et al. (2024). A Tutorial for Conducting MAIHDA. Population Health, Vol. 26, 101664\nCombines intersectional stratification with neighborhood-level clustering\nModels individuals nested within: Intersectional strata (e.g., low-income Black men), community typologies from framework (e.g., Patchwork Nation) classifications"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#overview",
+    "href": "talks/hmc/how-much-data.html#overview",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Overview",
+    "text": "Overview\n\nProject background and model development (Nathan, Howard University, faculty)\nCase analysis: Health (Bayowa, Howard University, M.S. Data Science)\nDashboard: Race and ethnicity (Jibek, Howard University, Junior, B.S. Computer Science)\nPolitical analysis (Nathan, on behalf of our Morehouse team)"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#hypertension",
+    "href": "talks/hmc/how-much-data.html#hypertension",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Hypertension",
+    "text": "Hypertension\nHypertension, also known as high blood pressure, is a condition in which the force of blood pushing against the walls of the arteries is consistently too high.\nThe condition is a compounding health concern in the United States.\n\n\n\n\n\n\nBetween 2017-2020, an estimated 115.3 million US adults had high blood pressure, representing up to 45% of the adult population.\n\n\n\nThe prevalence of high blood pressure fluctuations over time:\n\nBetween 1999–2000, high blood pressure was highest at 47.9%\nIt reached its lowest points between 2009-2010 and 2013-2014 at 43%\nAs of 2017-2020, high blood pressure had a national average of around 48%"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#hypertension-rate-in-the-us",
+    "href": "talks/hmc/how-much-data.html#hypertension-rate-in-the-us",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Hypertension rate in the US",
+    "text": "Hypertension rate in the US\nTime Trend of Hypertension Mortality Rates Over Time in the US"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#comparative-rates-in-the-dmv",
+    "href": "talks/hmc/how-much-data.html#comparative-rates-in-the-dmv",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Comparative rates in the DMV",
+    "text": "Comparative rates in the DMV\nBar chart of Hypertension Morbidity Rates in Proximal States"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#cre-and-hypertension-morbidity",
+    "href": "talks/hmc/how-much-data.html#cre-and-hypertension-morbidity",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "CRE and hypertension morbidity",
+    "text": "CRE and hypertension morbidity\nWhile the Community Resilience Estimates (CRE) do not directly measure hypertension, there are several indirect connections between hypertension and community resilience:\n\nHealth Insurance: One of the CRE risk factors is lack of health insurance. Individuals without health insurance are less likely to receive regular blood pressure screenings and treatment for hypertension.\nSocioeconomic Factors: The CRE includes factors like poverty and employment, which are known to influence hypertension rates.\nEducation: Limited education is a CRE risk factor. Lower educational attainment is associated with higher rates of hypertension.\nAge: The CRE considers households with individuals aged 65 or older as a risk factor. Hypertension increases with age, making older populations more vulnerable to its effects."
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#cre-and-hypertension-morbidity-for-dc",
+    "href": "talks/hmc/how-much-data.html#cre-and-hypertension-morbidity-for-dc",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "CRE and hypertension morbidity for DC",
+    "text": "CRE and hypertension morbidity for DC\n\n\n\n\n\nCorrelation Matrix of Hypertension and Socioeconomic Factors\n\n\n\n\n\n\n\n\n\n\n\nVariables\n\n\n\n\nhypertension_rate\nPOVERTY_RATE\nUNEMPLOYMENT_RATE\nEDUCATION_RATE\n\n\n\n\nhypertension_rate\n1.000\n0.240\n0.565\n-0.706\n\n\nPOVERTY_RATE\n0.240\n1.000\n-0.152\n-0.006\n\n\nUNEMPLOYMENT_RATE\n0.565\n-0.152\n1.000\n-0.642\n\n\nEDUCATION_RATE\n-0.706\n-0.006\n-0.642\n1.000"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#racial-differences-and-hypertension-morbidity-for-dc",
+    "href": "talks/hmc/how-much-data.html#racial-differences-and-hypertension-morbidity-for-dc",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Racial Differences and Hypertension Morbidity for DC",
+    "text": "Racial Differences and Hypertension Morbidity for DC\n\n\n\n\nCorrelation Matrix of Hypertension Rate and Racial Demographics in DC\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariables\n\n\n\n\nhypertension_rate\nwhite\nblack\nasian\nnative\nhawai_pac\n\n\n\n\nhypertension_rate\n1.000\n-0.876\n0.898\n-0.673\n0.098\n-0.113\n\n\nwhite\n-0.876\n1.000\n-0.966\n0.567\n-0.103\n0.112\n\n\nblack\n0.898\n-0.966\n1.000\n-0.650\n0.074\n-0.124\n\n\nasian\n-0.673\n0.567\n-0.650\n1.000\n-0.050\n0.163\n\n\nnative\n0.098\n-0.103\n0.074\n-0.050\n1.000\n-0.031\n\n\nhawai_pac\n-0.113\n0.112\n-0.124\n0.163\n-0.031\n1.000"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#hypertension-and-cre",
+    "href": "talks/hmc/how-much-data.html#hypertension-and-cre",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Hypertension and CRE",
+    "text": "Hypertension and CRE"
+  },
+  {
+    "objectID": "talks/hmc/how-much-data.html#political-analysis",
+    "href": "talks/hmc/how-much-data.html#political-analysis",
+    "title": "How much data do you want for your progress? Quantitative History and the Study of Social Problems",
+    "section": "Political analysis",
+    "text": "Political analysis\nExamining the impact of broader political shifts on neighborhood measures.\n\nProject title: Examining Polling Location Changes After The Shelby County Decision: How a Lack of Federal Oversight Impacts Poll Accessibility in Black and Brown Communities\nAbstract: Since the Supreme Court’s Shelby Decision in 2013, states are no longer required to have polling station changes or closures federally reviewed. Given that over 1600 polling locations have been closed or changed since 2013, we ask what factors contribute to these polling location changes and closures? We examine the driving forces behind these changes, and use Census data to determine what implications these polling location changes may have on accessibility in communities of color."
   }
 ]

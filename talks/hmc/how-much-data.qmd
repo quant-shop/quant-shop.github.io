@@ -15,7 +15,7 @@ format:
     self-contained: true
     embed-resources: true
   revealjs:
-    output-file: how-much-data.html
+    # output-file: how-much-data.html
     height: 900
     width: 1600
     smaller: false
@@ -72,6 +72,9 @@ library(knitr)
 
 
 ![](img/spring-2007-unc-math.jpg){width=100%}
+
+
+![](img/assani.avif){width=100%}
 
 ---
 

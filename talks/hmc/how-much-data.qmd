@@ -5,7 +5,6 @@ institute:
   - "Howard University"
 format:
   pdf:
-    pdf:
     toc: true
     number-sections: true
     colorlinks: true

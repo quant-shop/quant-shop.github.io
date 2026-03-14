@@ -4,14 +4,18 @@ title: "about"
 
 we are a network of collaborative projects. we use interdisciplinary perspectives and computational tools to educate ourselves about history. we are public in the sense that we invite folks interested in knowledge exchange to join our open community.
 
-![howard university lab members at the 2025 DC Open Data Showcase](/img/events/dc-open-data.jpeg){width=30%}
+![howard university lab members at the 2025 DC Open Data Showcase](/img/events/dc-open-data.jpeg){width="30%"}
 
-at our core, we are a computational studies, curriculum, and software development lab. specifically, we study historical events to support our group--and others--in learning about in/justice and futurity. throughout this process, we explore and discuss how to act on our new knowledge. 
+at our core, we are a computational studies, curriculum, and software development lab. specifically, we study historical events to support our group--and others--in learning about in/justice and futurity. throughout this process, we explore and discuss how to act on our new knowledge.
 
-we strive to maintain honest applications of multiple critical theories with care, yet we remain mindful of the potential harms of computational and modeling tools when studying communities and groups. however, at the same time, we are excited about how quantitative methods and tools can inform how we respond to injustice. 
+we strive to maintain honest applications of multiple critical theories with care, yet we remain mindful of the potential harms of computational and modeling tools when studying communities and groups. however, at the same time, we are excited about how quantitative methods and tools can inform how we respond to injustice.
 
 our work inspires our members to develop community-centered, near-peer research projects and user groups. in these groups, users engage with other members of their teams by setting shared learning goals and engage in interdisciplinary projects about pressing questions. we then hold workshops to invite the public into our processes of learning, modeling, and data explorations.
 
 our workshop is inspired by the legacy of the great, late Bob Moses, founder of the [Algebra Project](https://www.algebra.org){target="_blank"}.
 
-![nathan alexander and bob moses at the 2017 Data for Black Lives Conference](/img/historical-figs/nathan-bob.jpg){width=25%}
+learn more about Bob Moses and his legacy [here](https://www.ams.org/journals/notices/202302/rnoti-p258.pdf){target="_blank"}.
+
+Benjamin Moynihan, Robin T. Wilson, Joan Wynne, Lee J. McEwan, Mary M. West, Frank E. Davis, Herbert Clemens, Greg Budzban, Edith Aurora Graf, and Aidan Soguero. 2023. "What’s Math Got to Do With It?: Bob Moses, Algebra, and the Movement for Civil Rights, January 23, 1935–July 25, 2021." \textit{Notices of the American Mathematical Society}.
+
+![nathan alexander and bob moses at the 2017 Data for Black Lives Conference](/img/historical-figs/nathan-bob.jpg){width="25%"}

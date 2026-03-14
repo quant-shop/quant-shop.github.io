@@ -14,8 +14,6 @@ our work inspires our members to develop community-centered, near-peer research 
 
 our workshop is inspired by the legacy of the great, late Bob Moses, founder of the [Algebra Project](https://www.algebra.org){target="_blank"}.
 
-learn more about Bob Moses and his legacy [here](https://www.ams.org/journals/notices/202302/rnoti-p258.pdf){target="_blank"}.
-
-Benjamin Moynihan, Robin T. Wilson, Joan Wynne, Lee J. McEwan, Mary M. West, Frank E. Davis, Herbert Clemens, Greg Budzban, Edith Aurora Graf, and Aidan Soguero. 2023. "What’s Math Got to Do With It?: Bob Moses, Algebra, and the Movement for Civil Rights, January 23, 1935–July 25, 2021." \textit{Notices of the American Mathematical Society}.
+learn more about Bob Moses and his legacy [here](https://www.ams.org/journals/notices/202302/rnoti-p258.pdf){target="_blank"}. This article is written by Benjamin Moynihan, Robin T. Wilson, Joan Wynne, Lee J. McEwan, Mary M. West, Frank E. Davis, Herbert Clemens, Greg Budzban, Edith Aurora Graf, and Aidan Soguero. 2023. "What’s Math Got to Do With It?: Bob Moses, Algebra, and the Movement for Civil Rights, January 23, 1935–July 25, 2021" \textit{Notices of the American Mathematical Society}.
 
 ![nathan alexander and bob moses at the 2017 Data for Black Lives Conference](/img/historical-figs/nathan-bob.jpg){width="25%"}

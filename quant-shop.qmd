@@ -10,12 +10,26 @@ about:
       text: Github
       href: https://github.com/quant-shop
 ---
+
+- general workshops
+
+  - [introduction to computational studies in education and the social sciences](https://quant-shop.github.io/intro-comp-educ-soc/){.external target="_blank"}
+  
+  - [data science for social impact in higher education](https://rpubs.com/professornaite/dssi){.external target="_blank"}
+  
+- demography
+
+  - [critical computational geographies](https://rpubs.com/professornaite/crit-comp-geo-pt1){.external target="_blank"}
+
+  - [census history project, phase 1: race and ethnicity](https://professornaite.github.io/echo/){.external target="_blank"}
+
+  - [census history project, phase 2: multidimensionality (forthcoming)](https://rpubs.com/professornaite/dc-open-data-2025){.external target="_blank"}
   
 - education
 
-  - [black like me](https://quant-shop.github.io/black-like-me/){.external target="_blank"}
-  
   - [racism in STEM education](https://professornaite.github.io/racism-stem-ed/){.external target="_blank"}
+  
+  - [black like me](https://quant-shop.github.io/black-like-me/){.external target="_blank"}
   
   - [fugitive pedagogies in STEM (forthcoming)](){.external target="_blank"}
 
@@ -30,14 +44,6 @@ about:
   - [a quantitative abolitionist inquiry, phase 1: lynching](https://quant-shop.github.io/red-record){.external target="_blank"}
 
   - [a quantitative abolitionist inquiry, phase 2: policing](https://quant-shop.github.io/fatal-app/){.external target="_blank"}
-
-- demography
-
-  - [critical computational geographies](https://rpubs.com/professornaite/crit-comp-geo-pt1){.external target="_blank"}
-
-  - [census history project, phase 1: race and ethnicity](https://professornaite.github.io/echo/){.external target="_blank"}
-
-  - [census history project, phase 2: multidimensionality (forthcoming)](https://rpubs.com/professornaite/dc-open-data-2025){.external target="_blank"}
 
 - the OG: Du Bois
 

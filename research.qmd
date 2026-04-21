@@ -92,14 +92,15 @@ Lab members and research affiliates in **bold**.
 
 <ol reversed>
 
-<li> **National Endowment for the Humanities**. The Haynes Project: Exhibiting the Historical Significance of the Philosophical Views of American Mathematicians. John Stigall (PI) and Nathan Alexander (Co-PI). Lifelong Learners Division, 2026-2029. (Funded, $148,944) </li>
+<li> **Howard University, Center for African Studies and the School of Education**. Black Like Me: Exploring the Impact of Experiential Engagements, Open Source Technologies, and Spatial Data on African Diaspora Literacy. Nathan Alexander, Principal Investigator (PI). Academic Faculty Enhancement and Enrichment (AFEE) and SOE Dean's Research Award, 2026-2027. (Funded, $18,500) </li>
 
+<li> **National Endowment for the Humanities**. The Haynes Project: Exhibiting the Historical Significance of the Philosophical Views of American Mathematicians. John Stigall (PI) and Nathan Alexander (Co-PI). Lifelong Learners Division, 2026-2029. (Funded, $148,944) </li>
 
 <li> **Open Research Community Accelerator** (ORCA). Expansion of an Open Source Community for Faculty and Students at Historically Black Colleges and Universities. Nathan Alexander (PI). Catalytic Awards Program, 2025-2026. (Funded, $15,000) </li>
 
-<li> **STEM Research Initiative for Diversity and Equity** (STRIDES). Designing Radical and Equitable Approaches with Mathematics Educators, Researchers, and Students. Co-Principal Investigator (Co-PI) with Blake O’Neal Turner (PI), and Malik Henfield (Co-PI). Marquette University, 2025-2026. (Funded, $10,000) </li>
+<li> **STEM Research Initiative for Diversity and Equity** (STRIDES). Designing Radical and Equitable Approaches with Mathematics Educators, Researchers, and Students. Nathan Alexander, Co-Principal Investigator (Co-PI) with Blake O’Neal Turner (PI), and Malik Henfield (Co-PI). Marquette University, 2025-2026. (Funded, $10,000) </li>
 
-<li> **Public Interest Technology Network**. Integrating Community Knowledge and Equity into Integrated Admin- istrative Data Systems for Research and Education in Data Science for Social Impact. Subaward with Francisca Garcia-Cobian (PI) and Patty Dare (Co-PI). University Network, 2025-2026. (Funded, $10,000) </li>
+<li> **Public Interest Technology Network**. Integrating Community Knowledge and Equity into Integrated Administrative Data Systems for Research and Education in Data Science for Social Impact. Subaward with Francisca Garcia-Cobian (PI) and Patty Dare (Co-PI). University Network, 2025-2026. (Funded, $10,000) </li>
 
 <li> **Sloan Foundation**. Open Source Workshops and Lesson Development for Faculty and Students at Historically Black Colleges and Universities. Nathan Alexander (PI) with Hye Ryeon Jang (Co-PI) and Kari Jordan (Co-PI). Open Source Software Development, 2023-2024. (Funded, $249,705) </li>
 

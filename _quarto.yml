@@ -5,6 +5,7 @@ project:
 website:
   title: ""
   image: img/quant_workshop_logo.png
+
   navbar:
     search: true
     left:
@@ -14,19 +15,37 @@ website:
         text: about
       - href: people
         text: people
-      - href: quant-shop
-        text: quant-shop
+
+      - text: quant-shop
+        menu:
+          - href: quant-shop
+            text: "Notes from the QuantShop"
+          - text: "---"
+          - text: projects
+          - href: projects/archives
+            text: Archival connections
+          - href: projects/black-like-me
+            text: Black Like Me
+          - href: projects/echo
+            text: "ECHO: Education, Community, and Health Outcomes"
+          - href: projects/policy-policing-prisons
+            text: Policy, Police, and Prisons
+          - href: projects/bmerg
+            text: "BMERG: Black Male Educators Research Group"
+          - href: projects/hbcu-nexus
+            text: HBCU Nexus
+
       - href: research
         text: research
       - href: events
         text: events
       - href: styles/manual
         text: lab manual
-      
+
   page-footer:
     right: "Built with love in [Quarto](https://quarto.org/)"
     left: "&copy; 2026 Quantitative Histories Workshop"
-   
+
 format:
   html:
     page-layout: full
@@ -36,5 +55,5 @@ format:
     grid:
       sidebar-width: 0px
       body-width: 1600px
-    
+
 editor: source

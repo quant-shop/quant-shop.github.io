@@ -128,6 +128,13 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#lessons" id="toc-lessons" class="nav-link active" data-scroll-target="#lessons">Lessons</a></li>
+  <li><a href="#computational-onboarding-3-days" id="toc-computational-onboarding-3-days" class="nav-link" data-scroll-target="#computational-onboarding-3-days">Computational On‑boarding (3 days)</a>
+  <ul class="collapse">
+  <li><a href="#lesson-5-day-1-rstudio-projects-and-first-data-workflow" id="toc-lesson-5-day-1-rstudio-projects-and-first-data-workflow" class="nav-link" data-scroll-target="#lesson-5-day-1-rstudio-projects-and-first-data-workflow">Lesson 5 — Day 1: RStudio, Projects, and first data workflow</a></li>
+  <li><a href="#lesson-6-day-2-rmarkdownquarto-visualization-basics" id="toc-lesson-6-day-2-rmarkdownquarto-visualization-basics" class="nav-link" data-scroll-target="#lesson-6-day-2-rmarkdownquarto-visualization-basics">Lesson 6 — Day 2: RMarkdown/Quarto + visualization basics</a></li>
+  <li><a href="#lesson-7-day-3-git-github-essentials-for-r-users" id="toc-lesson-7-day-3-git-github-essentials-for-r-users" class="nav-link" data-scroll-target="#lesson-7-day-3-git-github-essentials-for-r-users">Lesson 7 — Day 3: Git &amp; GitHub essentials for R users</a></li>
+  <li><a href="#next-steps" id="toc-next-steps" class="nav-link" data-scroll-target="#next-steps">Next steps</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -212,6 +219,26 @@ ul.task-list li input[type="checkbox"] {
 <td></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><a href="lessons/lesson04.html">4</a></td>
+<td style="text-align: left;"><a href="lessons/lesson04.html">Computational On‑boarding: 3‑Day Foundations</a></td>
+<td><a href="lessons/lesson04-slides.html">Slides</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><a href="lessons/lesson05.html">5</a></td>
+<td style="text-align: left;"><a href="lessons/lesson05.html">Day 1: RStudio, Projects, and First Data Workflow</a></td>
+<td><a href="lessons/lesson05-slides.html">Slides</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><a href="lessons/lesson06.html">6</a></td>
+<td style="text-align: left;"><a href="lessons/lesson06.html">Day 2: RMarkdown/Quarto + Visualization Basics</a></td>
+<td><a href="lessons/lesson06-slides.html">Slides</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><a href="lessons/lesson07.html">7</a></td>
+<td style="text-align: left;"><a href="lessons/lesson07.html">Day 3: Git &amp; GitHub Essentials for R Users</a></td>
+<td><a href="lessons/lesson07-slides.html">Slides</a></td>
+</tr>
+<tr class="odd">
 <td style="text-align: center;"><a href="lessons/lesson02.html">2</a></td>
 <td style="text-align: left;"><a href="lessons/lesson02-slides.html">Case Study 1: Fatal Police Interactions</a></td>
 <td></td>
@@ -224,8 +251,76 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 </div>
+</section>
+<section id="computational-onboarding-3-days" class="level2">
+<h2 class="anchored" data-anchor-id="computational-onboarding-3-days">Computational On‑boarding (3 days)</h2>
+<p>All new lab members complete a 3‑day foundational sequence (90 minutes per day) in R, RStudio, and Git. These sessions prepare you to join weekly lab work with open-source data and reproducible workflows.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 19%">
+<col style="width: 26%">
+<col style="width: 53%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Day</th>
+<th style="text-align: left;">Focus</th>
+<th style="text-align: left;">Key outcomes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">1</td>
+<td style="text-align: left;">RStudio, Projects, and first data workflow</td>
+<td style="text-align: left;">Create an RStudio Project; import a CSV; use tidyverse (<code>select</code>, <code>filter</code>, <code>mutate</code>, <code>summarise</code>, <code>group_by</code>) to produce a cleaned dataset.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">2</td>
+<td style="text-align: left;">RMarkdown/Quarto + visualization basics</td>
+<td style="text-align: left;">Create a reproducible report; build two ggplot2 figures and a summary table; render to HTML/PDF.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">3</td>
+<td style="text-align: left;">Git &amp; GitHub essentials for R users</td>
+<td style="text-align: left;">Initialize Git in RStudio; commit code and reports; push to a GitHub repo; write a clear README.</td>
+</tr>
+</tbody>
+</table>
+<p>After completing Days 1–3, you will: - Be able to create and manage RStudio Projects. - Import, clean, and summarize an open dataset using tidyverse. - Produce a short, reproducible report with figures and tables. - Use Git in RStudio and push a project to GitHub with a clear README.</p>
+<p>Details and checklists for each day are in Lessons 5–7.</p>
+<hr>
+<section id="lesson-5-day-1-rstudio-projects-and-first-data-workflow" class="level3">
+<h3 class="anchored" data-anchor-id="lesson-5-day-1-rstudio-projects-and-first-data-workflow">Lesson 5 — Day 1: RStudio, Projects, and first data workflow</h3>
+<p><strong>Goal:</strong> Get comfortable in RStudio; create a project; load data; perform basic wrangling with tidyverse.</p>
+<p><strong>Before you start</strong> - Install R, RStudio, and Git on your machine. - Have a small CSV ready (lab-provided or an approved open dataset).</p>
+<p><strong>Agenda (90 minutes)</strong> 1. <strong>Orientation (10 min)</strong> - RStudio panes: Console, Script, Environment, Files, Plots, Packages, Help. 2. <strong>Live demo (25 min)</strong> - Create an RStudio Project (File → New Project → New Directory). - Write a script: <code>r      library(tidyverse)      dat &lt;- read_csv("data-raw/your_data.csv")      glimpse(dat)      summary(dat)</code> - Install/update packages; use <code>?function</code> and <code>help()</code>. 3. <strong>Guided practice (40 min)</strong> - In your Project: - Import a CSV. - Use <code>select()</code>, <code>filter()</code>, <code>mutate()</code>, and <code>summarise()</code> with <code>group_by()</code>. - Save a cleaned dataset to <code>data/</code>. 4. <strong>Debrief + deliverable (15 min)</strong> - <strong>Deliverable:</strong> A Project folder with one <code>.R</code> script that: - Loads a CSV. - Performs 2–3 tidyverse operations. - Saves a cleaned CSV.</p>
+<p><strong>Optional +30 min</strong> - Extra practice with <code>dplyr</code> verbs and handling missing values.</p>
+<hr>
+</section>
+<section id="lesson-6-day-2-rmarkdownquarto-visualization-basics" class="level3">
+<h3 class="anchored" data-anchor-id="lesson-6-day-2-rmarkdownquarto-visualization-basics">Lesson 6 — Day 2: RMarkdown/Quarto + visualization basics</h3>
+<p><strong>Goal:</strong> Produce a short, reproducible report with figures and tables.</p>
+<p><strong>Before you start</strong> - Bring your Day 1 Project and cleaned dataset.</p>
+<p><strong>Agenda (90 minutes)</strong> 1. <strong>Recap (10 min)</strong> - Quick review of Day 1 workflow. 2. <strong>Live demo (25 min)</strong> - Create an RMarkdown (or Quarto) document. - Explain YAML, code chunks, and inline code. - Build two <code>ggplot2</code> plots (distribution + relationship) with labels/theme. - Insert a simple summary table (<code>knitr::kable()</code> or <code>gt</code>). 3. <strong>Guided practice (40 min)</strong> - Convert Day 1 work into a 1–2 page report: - Brief research question. - Data source and sample. - 2–3 key descriptives. - 2 figures and 1 table. - Render to HTML or PDF; export one figure. 4. <strong>Debrief + deliverable (15 min)</strong> - <strong>Deliverable:</strong> Rendered report (HTML/PDF) committed to your project folder.</p>
+<p><strong>Optional +30 min</strong> - Tweak themes, practice caching, or try a parameterized report.</p>
+<hr>
+</section>
+<section id="lesson-7-day-3-git-github-essentials-for-r-users" class="level3">
+<h3 class="anchored" data-anchor-id="lesson-7-day-3-git-github-essentials-for-r-users">Lesson 7 — Day 3: Git &amp; GitHub essentials for R users</h3>
+<p><strong>Goal:</strong> Use Git in RStudio for version control and push a project to GitHub.</p>
+<p><strong>Before you start</strong> - Ensure Git is installed and configured. - Create a GitHub account (if you don’t have one).</p>
+<p><strong>Agenda (90 minutes)</strong> 1. <strong>Concepts (10 min)</strong> - Why Git? Repositories, commits, branches, and reproducible research. 2. <strong>Live demo (25 min)</strong> - In RStudio: - Initialize Git (<code>git init</code>). - Make first commit with a meaningful message. - Connect to a new GitHub repo and push. - View commit history in RStudio and on GitHub. 3. <strong>Guided practice (40 min)</strong> - In your Day 1–2 Project: - Initialize Git and commit your scripts and reports. - Create a new repository on GitHub. - Push your local repo to GitHub. - Add a <code>README.md</code> with: - 2–3 sentence project overview. - How to run the analysis (which script to source). 4. <strong>Debrief + deliverable (15 min)</strong> - <strong>Deliverable:</strong> A GitHub repo containing: - Your Project (scripts + RMarkdown + data). - At least 2 commits with clear messages. - A README describing the project.</p>
+<p><strong>Optional +30 min</strong> - Practice a simple branch/PR workflow: - Create a feature branch, make a small change, push, open a PR, and merge.</p>
+<hr>
+</section>
+<section id="next-steps" class="level3">
+<h3 class="anchored" data-anchor-id="next-steps">Next steps</h3>
+<ul>
+<li>Your TA will assign you to a project group; you will apply these foundations to a real analysis.</li>
+</ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

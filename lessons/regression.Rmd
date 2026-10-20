@@ -1,0 +1,46 @@
+---
+title: "Basic regression analysis"
+author: "Nathan Alexander"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo    = knitr::is_html_output(),  # code only in HTML
+  results = knitr::is_html_output(),  # results only in HTML  
+  warning = FALSE,
+  message = FALSE
+)
+
+library(tidyverse)
+library(broom)
+library(tidycensus)
+
+library(here)
+here::i_am("regression.Rmd")
+```
+
+
+```{r}
+
+acs_year <- 2023  # 2019–2023 ACS 5-year estimates
+
+acs_vars <- c(
+  totalpop  = "B03002_001",
+  white     = "B03002_003",
+  black     = "B03002_004",
+  asian     = "B03002_006",
+  hispanic  = "B03002_012",
+  edu_att   = "B15003_001",
+  bachelors = "B15003_022"
+)
+
+
+```
+
+
+
+```{r}
+
+```
+

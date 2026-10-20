@@ -4,7 +4,7 @@ image: img/quant_workshop_logo.png
 format:
   html:
     page-layout: full
-    css: styles.css
+    css: styles/styles.css
 ---
 
 <div class="team-grid">
@@ -38,36 +38,44 @@ format:
   <img src="img/people/terika2.jpg" alt="Terika Harris" class="circle">
   <h3>Terika Harris, PhD</h3>
   <p>City University of New York</p>
-  <p>Dr. Harris is a Research Associate and archivist with the lab. </p>
+  <p>Dr. Harris is an archivist with the lab. </p>
 </div>
 
-<div class="team-member">
-  <img src="img/people/jibek.jpeg" alt="Jibek Gupta" class="circle">
-  <h3>Jibek Gupta</h3>
-  <p>Howard University</p>
-  <p>Jibek is a senior computer science major and a lab TA.</p>
-</div>
+<hr class="section-divider">
 
-<div class="team-member">
-  <img src="img/people/bayowa.jpeg" alt="Bayowa Onabajo" class="circle">
-  <h3>Bayowa Onabajo</h3>
-  <p>Howard University</p>
-  <p>Bayowa is a graduate student in Applied Data Science and a lab TA.</p>
-</div>
+<h2 class="ta-title">Teaching assistants for 2026-2027</h2>
 
 <div class="team-member">
   <img src="img/people/emmanuel.jpeg" alt="Emmanuel Christian" class="circle">
   <h3>Emmanuel Christian</h3>
   <p>Howard University</p>
-  <p>Emmanuel is a junior human performance major and a lab TA.</p>
+  <p>Emmanuel is a senior and a lab TA.</p>
 </div>
 
 <div class="team-member">
-  <img src="img/people/jalil.jpg" alt="Jalil Cooper" class="circle">
-  <h3>Jalil Cooper</h3>
-  <p>Stanford University</p>
-  <p>Jalil is a senior design major at Stanford and he has been with the lab since its inception.</p>
+  <img src="img/people/angel.jpeg" alt="Ethan Gwinn" class="circle">
+  <h3>Angel Mochoge</h3>
+  <p>Howard University</p>
+  <p>Angel is a junior and a lab TA.</p>
 </div>
+
+<div class="team-member">
+  <img src="img/people/ethan.jpg" alt="Ethan Gwinn" class="circle">
+  <h3>Ethan Gwinn</h3>
+  <p>Howard University</p>
+  <p>Ethan is a sophomore and a lab TA.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/ari.jpg" alt="Ari Kamau" class="circle">
+  <h3>Ari Kamau</h3>
+  <p>Howard University</p>
+  <p>Ari is a PhD student and graduate teaching assistant.</p>
+</div>
+
+<hr class="section-divider">
+
+<h2 class="current-title">Current lab members</h2>
 
 <div class="team-member">
   <img src="img/people/jahmere.jpeg" alt="Jahmere Jackson" class="circle">
@@ -84,10 +92,17 @@ format:
 </div>
 
 <div class="team-member">
-  <img src="img/people/basil.jpg" alt="Basil Ghali" class="circle">
-  <h3>Basil Ghali</h3>
+  <img src="img/people/noah.jpeg" alt="Noah Lewis" class="circle">
+  <h3>Noah Lewis</h3>
   <p>Howard University</p>
-  <p>Basil is a doctoral student in psychology and he has been with the lab since its inception.</p>
+  <p>Noah is a sophomore majoring in education.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/holder.png" alt="Sean Manley" class="circle">
+  <h3>Sean Manley</h3>
+  <p>Howard University</p>
+  <p>Sean is a junior mathematics major.</p>
 </div>
 
 <div class="team-member">
@@ -98,17 +113,10 @@ format:
 </div>
 
 <div class="team-member">
-  <img src="img/people/ethan.jpg" alt="Ethan Gwinn" class="circle">
-  <h3>Ethan Gwinn</h3>
+  <img src="img/people/jibek.jpeg" alt="Jibek Gupta" class="circle">
+  <h3>Jibek Gupta</h3>
   <p>Howard University</p>
-  <p>Ethan is a freshman international affairs and sociology double major.</p>
-</div>
-
-<div class="team-member">
-  <img src="img/people/angel.jpeg" alt="Ethan Gwinn" class="circle">
-  <h3>Angel Mochoge</h3>
-  <p>Howard University</p>
-  <p>Angel is a sophomore political science major.</p>
+  <p>Jibek is a senior computer science major and a lab TA.</p>
 </div>
 
 <div class="team-member">
@@ -126,13 +134,6 @@ format:
 </div>
 
 <div class="team-member">
-  <img src="img/people/myles.jpg" alt="Myles Ndiritu" class="circle">
-  <h3>Myles Ndiritu</h3>
-  <p>Morehouse College</p>
-  <p>Myles is a junior political science major and a lab TA.</p>
-</div>
-
-<div class="team-member">
   <img src="img/people/kade.jpg" alt="Kade Davis" class="circle">
   <h3>Kade Davis</h3>
   <p>Morehouse College</p>
@@ -147,10 +148,10 @@ format:
 </div>
 
 <div class="team-member">
-  <img src="img/people/kyshan.jpeg" alt="Kyshan Nichols-Smith" class="circle">
-  <h3>Kyshan Nichols-Smith</h3>
-  <p>Duke University</p>
-  <p>Kyshan is a PhD student in political science and the HJ lab Manager.</p>
+  <img src="img/people/jalil.jpg" alt="Jalil Cooper" class="circle">
+  <h3>Jalil Cooper</h3>
+  <p>Stanford University</p>
+  <p>Jalil is a senior design major at Stanford and he has been with the lab since its inception.</p>
 </div>
 
 <div class="team-member">
@@ -176,7 +177,42 @@ format:
 
 <hr class="section-divider">
 
-<h2 class="alumni-title">Lab Alum</h2>
+<h2 class="alumni-title">Lab alum</h2>
+
+<div class="team-member">
+  <img src="img/people/myles.jpg" alt="Myles Ndiritu" class="circle">
+  <h3>Myles Ndiritu</h3>
+  <p>Morehouse College</p>
+  <p>Myles was a political science major and a lab TA at Morehouse College. He is now a PhD student in Georgia.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/bibesh.jpg" alt="Bibesh Sedhain" class="circle">
+  <h3>Bibesh Sedhain</h3>
+  <p>Howard University</p>
+  <p>Bibesh was a lab member studying computer science at Howard University.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/kyshan.jpeg" alt="Kyshan Nichols-Smith" class="circle">
+  <h3>Kyshan Nichols-Smith</h3>
+  <p>Duke University</p>
+  <p>Kyshan is a PhD student in political science and the HJ lab Manager.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/bayowa.jpeg" alt="Bayowa Onabajo" class="circle">
+  <h3>Bayowa Onabajo</h3>
+  <p>Howard University</p>
+  <p>Bayowa was a graduate student in Applied Data Science and a lab TA at Howard.</p>
+</div>
+
+<div class="team-member">
+  <img src="img/people/basil.jpg" alt="Basil Ghali" class="circle">
+  <h3>Basil Ghali</h3>
+  <p>Howard University</p>
+  <p>Basil is a doctoral student in psychology and he has been with the lab since its inception.</p>
+</div>
 
 <div class="team-member">
   <img src="img/people/qyana.png" alt="Qyana Stewart" class="circle">
@@ -225,13 +261,6 @@ format:
   <h3>Gabriella La Cour</h3>
   <p>Spelman College</p>
   <p>Gabriella participated in lab research as a student at Spelman College.</p>
-</div>
-
-<div class="team-member">
-  <img src="img/people/holder.png" alt="Jana Turner" class="circle">
-  <h3>Jana Turner</h3>
-  <p>Howard University</p>
-  <p>Jana was a lab member during her graduate studies at Howard University.</p>
 </div>
 
 <div class="team-member">
@@ -296,6 +325,5 @@ format:
   <p>Morehouse College</p>
   <p>Hasan was one of our first lab members during his undergraduate studies at Morehouse College. He is currently a PhD student at UC Berkeley.</p>
 </div>
-
 
 </div>

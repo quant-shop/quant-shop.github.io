@@ -8,21 +8,23 @@ Lab members and research affiliates in **bold**.
 
 <ol reversed>
 
-<li> **Alexander, N. N.**, Thompson, B., Piercy, V., & **Diaz Eaton, C.** (2025). Towards a Praxis of Critical Inquiry in Undergraduate Mathematics Classrooms, *Inquiry: Critical Thinking Across the Disciplines, 24*(2), 448-479. </li>
+<li> **Alexander, N. N.** (2026). Context and Computation: A Relational Model for Highly Contextualized Data in Undergraduate Statistics and Data Science Education. *Scatterplot, 3*(1), 1–21. [https://doi.org/10.1080/29932955.2026.2709285](https://doi.org/10.1080/29932955.2026.2709285){.external target="_blank"} </li>
 
-<li> **Alexander, N. N.**, **Turner, B. O.**, **Wallace, D.**, **Kyles, C.**, **Leatherwood, D.**, & **Payne, R.** (2025). From Theory to Practice: Exploring Critical Orientations in Professional Learning Programs in Mathematics Education.  In Zbiek, R. M., Yao, X., McCloskey, A., & Arbaugh, F. (Eds.). *Proceedings of the forty-seventh annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education*, pp. 242–251.</li>
+<li> **Alexander, N. N.**, Thompson, B., Piercy, V., & **Diaz Eaton, C.** (2025). Towards a Praxis of Critical Inquiry in Undergraduate Mathematics Classrooms, *Inquiry: Critical Thinking Across the Disciplines, 24*(2), 448-479. [https://doi.org/10.5840/inquiryct202510931](https://doi.org/10.5840/inquiryct202510931){.external target="_blank"} </li>
 
-<li> Fletcher, N., **Alexander, N. N.**, Kang, B., Kebreab, L., Marshall, B., Martinez, J., Sundrani, A., & Velasco, R. (2025). Programs and Opportunities for Early Career Mathematics Education Scholars, *Journal of Mathematics Education at Teachers College, 16*(1), 46-57. </li>
+<li> **Alexander, N. N.**, **Turner, B. O.**, **Wallace, D.**, **Kyles, C.**, **Leatherwood, D.**, & **Payne, R.** (2025). From Theory to Practice: Exploring Critical Orientations in Professional Learning Programs in Mathematics Education.  In Zbiek, R. M., Yao, X., McCloskey, A., & Arbaugh, F. (Eds.). *Proceedings of the forty-seventh annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education*, pp. 242–251. [https://doi.org/10.51272/pmena.47.2025](https://doi.org/10.51272/pmena.47.2025){.external target="_blank"} </li>
 
-<li> **Alexander, N. N.** (2024). Measuring School Desegregation: A Critical Quantitative Replication. *The Journal of Negro Education 93*(3), 318-331. </li>
+<li> Fletcher, N., **Alexander, N. N.**, Kang, B., Kebreab, L., Marshall, B., Martinez, J., Sundrani, A., & Velasco, R. (2025). Programs and Opportunities for Early Career Mathematics Education Scholars, *Journal of Mathematics Education at Teachers College, 16*(1), 46-57. [https://doi.org/10.52214/jmetc.v16i1.13345](https://doi.org/10.52214/jmetc.v16i1.13345){.external target="_blank"} </li>
 
-<li> **Alexander, N. N.**, Appling, T., Banuelos, M., Bello, G., Brown, A., Century, J., Connor, K., Ji, H., Levy, R., Mitchell, P., Mongeau, D., Mysliwiec, M., Niu, J., Paykin, S., Quarkume, A., Schiffman, J., Skinner, L., Uminsky, D. & Zhong, P. (2024). Data Science for Social Impact in Higher Education: First Steps. Data.org Playbook. Available at: [https://data.org/playbooks/data-science-for-social-impact-in-higher-education/](https://data.org/playbooks/data-science-for-social-impact-in-higher-education/){.external target="_blank"} </li>
+<li> **Alexander, N. N.** (2024). Measuring School Desegregation: A Critical Quantitative Replication. *The Journal of Negro Education 93*(3), 318-331. [https://muse.jhu.edu/pub/417/article/981064](https://muse.jhu.edu/pub/417/article/981064){.external target="_blank"} </li>
+
+<li> **Alexander, N. N.**, Appling, T., Banuelos, M., Bello, G., Brown, A., Century, J., Connor, K., Ji, H., Levy, R., Mitchell, P., Mongeau, D., Mysliwiec, M., Niu, J., Paykin, S., Quarkume, A., Schiffman, J., Skinner, L., Uminsky, D. & Zhong, P. (2024). Data Science for Social Impact in Higher Education: First Steps. Data.org Playbook. Available at: [https://data.org/playbooks/data-science-for-social-impact-in-higher-education/](https://data.org/playbooks/data-science-for-social-impact-in-higher-education/){.external target="_blank"}{.external target="_blank"} </li>
 
 <li> **Ballenger, H. J.**, **Washington, T.**, Clark, R., Lockhart, J. W., Adebowale, J., Hearn, D., Dotson, E., Gaines, J., Bennett, V., Teodorescu, D., **Alexander, N. N.**, Gilbert, N., **Lamar, T.**, Morris, M., Neely, A., **Borum, V.**, Ellis, V., & Johnson, K. (December 2023). Atlanta University Center Data Science Initiative - Data Science for K-12 Listening Session Report. Available at SSRN: [http://dx.doi.org/10.2139/ssrn.4493108](http://dx.doi.org/10.2139/ssrn.4493108){.external target="_blank"} </li>
 
-<li> Jones, Q., Vindas Meléndez, A. R., Mendible, A., Aminian, M., Brooks, H. Z., **Alexander, N.**, **Diaz Eaton, C.**, & Chodrow, P. (2023). Data science and social justice in the mathematics community. *Notices of the American Mathematical Society*. </li>
+<li> Jones, Q., Vindas Meléndez, A. R., Mendible, A., Aminian, M., Brooks, H. Z., **Alexander, N.**, **Diaz Eaton, C.**, & Chodrow, P. (2023). Data science and social justice in the mathematics community. *Notices of the American Mathematical Society*. [https://doi.org/10.1090/noti2773](https://doi.org/10.1090/noti2773){.external target="_blank"} </li>
 
-<li> **Alexander, N. N.** (2023). Real Analysis. In *EBSCO Research Starters*. Ipswich, MA: EBSCO. [https://www.ebsco.com/research-starters/mathematics/real-analysis](https://www.ebsco.com/research-starters/mathematics/real-analysis) </li>
+<li> **Alexander, N. N.** (2023). Real Analysis. In *EBSCO Research Starters*. Ipswich, MA: EBSCO. [https://www.ebsco.com/research-starters/mathematics/real-analysis](https://www.ebsco.com/research-starters/mathematics/real-analysis){.external target="_blank"} </li>
 
 <li> Voigt, M., Hagman, J. E., Gehrtz, J., Ratliff, B., **Alexander, N. N.**, & Levy, R. (Eds.) (2023). [Justice through the lens of calculus: Framing new possibilities for diversity, equity, and inclusion](https://maa.org/wp-content/uploads/2025/01/NTE96.pdf){.external target="_blank"}. MAA Press, Notes, Vol. 96. </li>
 
@@ -64,6 +66,9 @@ Lab members and research affiliates in **bold**.
 ### Recent lab presentations and posters
 
 <ol reversed>
+
+<li> **Gwinn, E.** & **Alexander, N. N.** (2026, November). White Flight and Residential Segregation in Mobile County, AL: Aligning Historical Indicators and U.S. Census Bureau Data to Model Dissimilarity. 2026 ABRCMS Annual Meeting, Seattle, WA on
+November 18–21, 2026 </li
 
 <li>**Gray, A.**, **Gupta, J.**, Jones, A., Rojas, G., Ronemous, P., Satadisha, X., Bhowmick, S. & Seghal, K. (2025, June). Seedbot: Retrieval-Augmented Q&A System for Farmers. Poster presentation at the 2025 Data Science Institute Data Science for Social Impact Summer Program, University of Chicago, IL. </li>
 

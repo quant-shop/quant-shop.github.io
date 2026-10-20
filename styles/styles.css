@@ -30,8 +30,8 @@
 /* Adjust spacing for smaller screens */
 @media (max-width: 600px) {
   .team-grid {
-    grid-template-columns: repeat(2, 1fr); /* Adjust to two columns for smaller screens */
-    gap: 15px; /* Reduce gap for smaller screens */
+    grid-template-columns: repeat(2, 1fr); /* Two columns on smaller screens */
+    gap: 15px;
   }
 
   .circle {
@@ -41,24 +41,47 @@
 }
 
 /* Custom styles for Quarto site */
-
 body {
-  background-color: #ffffff; /* White background */
-  font-family: 'Helvetica Neue', Arial, sans-serif; /* Change font */
+  background-color: #ffffff;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
 h1, h2, h3 {
-  color: #333; /* Darker headings */
+  color: #333;
 }
 
 .navbar {
-  background-color: #004080; /* Dark blue navbar */
+  background-color: #004080;
   border-bottom: 2px solid #002060;
 }
 
+/* Smaller font on mobile screens */
 @media (max-width: 600px) {
   body {
-    font-size: 10px; /* Smaller font for mobile screens */
+    font-size: 10px;
   }
+}
+
+/* Full-width section dividers and headings */
+.section-divider,
+.alumni-title,
+.ta-title,
+.current-title {
+  grid-column: 1 / -1;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Section divider spacing */
+.section-divider {
+  margin: 2rem 0;
+}
+
+/* Section heading styling */
+.alumni-title,
+.ta-title,
+.current-title {
+  text-align: center;
+  margin: 0 0 1.5rem;
 }
 
